@@ -1,0 +1,16 @@
+<application>
+  <component name="DiffManager">
+    <enableFiles value="true" />
+    <filesTool value="C:\Program Files (x86)\Compare It!\wincmp3.exe" newValue="C:\Program Files (x86)\Compare It!\wincmp3.exe" />
+    <mergeToolParameters value="%1 %2 %3 %4" />
+  </component>
+  <component name="ExternalDiffSettings">
+    <option name="DIFF_ENABLED" value="true" />
+    <option name="DIFF_DEFAULT" value="true" />
+    <option name="DIFF_EXE_PATH" value="C:\Program Files (x86)\Compare It!\wincmp3.exe" />
+    <option name="DIFF_PARAMETERS" value="%1 %2 %3" />
+    <option name="MERGE_ENABLED" value="false" />
+    <option name="MERGE_EXE_PATH" value="" />
+    <option name="MERGE_PARAMETERS" value="%1 %2 %3 %4" />
+  </component>
+</application>
