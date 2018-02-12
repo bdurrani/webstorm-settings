@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="C:/ubuntu/sfp/signaling-server/src/devices.js" timestamp="1518444795329">
+        <mark key="[" line="65" column="65" />
+        <mark key="]" line="65" column="65" />
+        <mark key="." line="65" column="65" />
+      </file>
       <file name="/fragment.js" timestamp="1513025095458">
         <mark key="[" line="0" column="0" />
       </file>
@@ -45,11 +50,11 @@
       <file name="/JavaScript Console" timestamp="1518442701390">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ubuntu/sfp/signaling-server/test/devicestests.js" timestamp="1518442921496">
-        <mark key="[" line="100" column="25" />
-        <mark key="]" line="100" column="41" />
-        <mark key="^" line="100" column="41" />
-        <mark key="." line="100" column="41" />
+      <file name="C:/ubuntu/sfp/signaling-server/test/devicestests.js" timestamp="1518444405141">
+        <mark key="[" line="91" column="15" />
+        <mark key="]" line="91" column="30" />
+        <mark key="^" line="91" column="30" />
+        <mark key="." line="91" column="30" />
       </file>
       <file name="C:/ubuntu/sfp/lobbybar/selenium/Selenium.js" timestamp="1516638159953">
         <mark key="[" line="22" column="19" />
@@ -154,16 +159,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>fakeClient1</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>fakeClient1</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>tile</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQljb25zdCBtZXNzYWdlcyA9IGZha2VDbGllbnQxLm1lc3NhZ2VzOwoJCWV4cGVjdChtZXNzYWdlcykudG8uaGF2ZS5sZW5ndGhPZigxKTsK</text>
+        <text encoding="base64">CQlleHBlY3QoZmFrZUNsaWVudDEuZ3JhY2VQZXJpb2QpLmVxdWFsKGNvbnN0YW50cy5JTkZJTklURV9HUkFDRV9QRVJJT0QpOwoJCWV4cGVjdChmYWtlQ2xpZW50MS5sZWFzZVRpbWUpLmVxdWFsKGNvbnN0YW50cy5JTkZJTklURV9MRUFTRV9USU1FKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CSAqIAo=</text>
