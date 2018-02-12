@@ -3,10 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/ubuntu/sfp/signaling-server/src/devices.js" timestamp="1518444795329">
-        <mark key="[" line="65" column="65" />
-        <mark key="]" line="65" column="65" />
-        <mark key="." line="65" column="65" />
+      <file name="C:/ubuntu/sfp/signaling-server/src/devices.js" timestamp="1518447295943">
+        <mark key="[" line="88" column="9" />
+        <mark key="]" line="89" column="50" />
+        <mark key="." line="89" column="50" />
+        <mark key="^" line="89" column="50" />
       </file>
       <file name="/fragment.js" timestamp="1513025095458">
         <mark key="[" line="0" column="0" />
@@ -159,16 +160,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>gr</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>gr</text>
       </register>
       <register name="/" type="4">
         <text>tile</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlleHBlY3QoZmFrZUNsaWVudDEuZ3JhY2VQZXJpb2QpLmVxdWFsKGNvbnN0YW50cy5JTkZJTklURV9HUkFDRV9QRVJJT0QpOwoJCWV4cGVjdChmYWtlQ2xpZW50MS5sZWFzZVRpbWUpLmVxdWFsKGNvbnN0YW50cy5JTkZJTklURV9MRUFTRV9USU1FKTsK</text>
+        <text encoding="base64">CQkJLy8gdGhpcyBzaG91bGQgbmV2ZXIgaGFwcGVuLiBCdXQgaXQgZGlkIGR1cmluZyB0ZXN0aW5nCgkJCS8vIHNvIGknbSBiZWluZyBwYXJhbm9pZC4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CSAqIAo=</text>
