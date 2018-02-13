@@ -9,11 +9,11 @@
         <mark key="." line="8" column="1" />
         <mark key="^" line="8" column="1" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/src/devices.js" timestamp="1518542724927">
-        <mark key="[" line="217" column="56" />
-        <mark key="]" line="219" column="27" />
-        <mark key="^" line="219" column="27" />
-        <mark key="." line="219" column="27" />
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/src/devices.js" timestamp="1518543589543">
+        <mark key="[" line="238" column="25" />
+        <mark key="]" line="238" column="31" />
+        <mark key="^" line="238" column="31" />
+        <mark key="." line="238" column="31" />
       </file>
       <file name="D:/deletethis/JavaScript30-master/JavaScript30-master/22 - Follow Along Link Highlighter/script.ts" timestamp="1510338710515">
         <mark key="[" line="8" column="43" />
@@ -303,6 +303,12 @@
         <mark key="." line="248" column="102" />
         <mark key="^" line="248" column="102" />
       </file>
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/test/graceperiodtests.js" timestamp="1518543364305">
+        <mark key="[" line="96" column="21" />
+        <mark key="]" line="96" column="24" />
+        <mark key="^" line="96" column="24" />
+        <mark key="." line="96" column="24" />
+      </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/src/instruments/src/multisim-shared/test/numberparsertest.js" timestamp="1517580175298">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -587,10 +593,10 @@
         <text>${academicPrefix}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>graceCache</text>
+        <text>{}</text>
       </register>
       <register name="-" type="4">
-        <text>graceCache</text>
+        <text>{}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZWVyXD4=</text>
@@ -599,28 +605,28 @@
         <text encoding="base64">CQkJCS8vIGNvbnN0IGRpZmZJbk1pbiA9IG1vbWVudC51dGMoKS5kaWZmKGdyYWNlQ2FjaGUuZ3JhY2VQZXJkaW9kU3RhcnRUaW1lLCAnbWludXRlcycpOwoJCQkJLy8gaWYgKGRpZmZJbk1pbiA8PSBncmFjZUNhY2hlLmdyYWNlUGVyaW9kKSB7CgkJCQkvLyB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQlkZXZpY2VJZGluQ2FjaGUgPSBncmFjZUNhY2hlLmlkOwo=</text>
+        <text encoding="base64">CQlsZXQgZGV0YWlscyA9IHt9Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQlpc2luR3JhY2VQZXJpb2RDYWNoZSA9IHRydWU7Cg==</text>
+        <text encoding="base64">CQkJewoJCQl9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCWRldmljZUlkaW5DYWNoZSA9IGdyYWNlQ2FjaGUuaWQ7Cg==</text>
+        <text encoding="base64">CQkJCS8vIGNvbnN0IGRpZmZJbk1pbiA9IG1vbWVudC51dGMoKS5kaWZmKGdyYWNlQ2FjaGUuZ3JhY2VQZXJkaW9kU3RhcnRUaW1lLCAnbWludXRlcycpOwoJCQkJLy8gaWYgKGRpZmZJbk1pbiA8PSBncmFjZUNhY2hlLmdyYWNlUGVyaW9kKSB7CgkJCQkvLyB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJbGV0IGlzaW5HcmFjZVBlcmlvZENhY2hlID0gZmFsc2U7Cg==</text>
+        <text encoding="base64">CQkJCQlkZXZpY2VJZGluQ2FjaGUgPSBncmFjZUNhY2hlLmlkOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlpZiAoZGV0YWlscykgewoJCX0K</text>
+        <text encoding="base64">CQkJCQlpc2luR3JhY2VQZXJpb2RDYWNoZSA9IHRydWU7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJaWQgPSB1dGlsaXRpZXMuZ2VuZXJhdGVEZXZpY2VDb2RlKCk7Cg==</text>
+        <text encoding="base64">CQkJCWRldmljZUlkaW5DYWNoZSA9IGdyYWNlQ2FjaGUuaWQ7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlpZCA9IHV0aWxpdGllcy5nZW5lcmF0ZURldmljZUNvZGUoKTsK</text>
+        <text encoding="base64">CQkJbGV0IGlzaW5HcmFjZVBlcmlvZENhY2hlID0gZmFsc2U7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJaWQgPSB1dGlsaXRpZXMuZ2VuZXJhdGVEZXZpY2VDb2RlKCk7Cg==</text>
+        <text encoding="base64">CQlpZiAoZGV0YWlscykgewoJCX0K</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">CQkJaWQgPSB1dGlsaXRpZXMuZ2VuZXJhdGVEZXZpY2VDb2RlKCk7Cg==</text>
@@ -634,7 +640,7 @@
       <last-offset />
       <last-pattern encoding="base64">XDxwZWVyXD4=</last-pattern>
       <last-replace>~</last-replace>
-      <last-substitute>highlight</last-substitute>
+      <last-substitute encoding="base64">XDxwZWVyXD4=</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
