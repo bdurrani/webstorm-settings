@@ -9,11 +9,11 @@
         <mark key="." line="8" column="1" />
         <mark key="^" line="8" column="1" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/src/devices.js" timestamp="1518548417466">
-        <mark key="[" line="135" column="16" />
-        <mark key="]" line="135" column="88" />
-        <mark key="^" line="134" column="12" />
-        <mark key="." line="134" column="24" />
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/src/devices.js" timestamp="1518553725670">
+        <mark key="[" line="198" column="23" />
+        <mark key="]" line="198" column="27" />
+        <mark key="^" line="198" column="27" />
+        <mark key="." line="198" column="27" />
       </file>
       <file name="D:/deletethis/JavaScript30-master/JavaScript30-master/22 - Follow Along Link Highlighter/script.ts" timestamp="1510338710515">
         <mark key="[" line="8" column="43" />
@@ -303,11 +303,11 @@
         <mark key="." line="248" column="102" />
         <mark key="^" line="248" column="102" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/test/graceperiodtests.js" timestamp="1518547838714">
-        <mark key="[" line="96" column="22" />
-        <mark key="]" line="96" column="22" />
-        <mark key="^" line="96" column="24" />
-        <mark key="." line="96" column="22" />
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/test/graceperiodtests.js" timestamp="1518553901670">
+        <mark key="[" line="67" column="47" />
+        <mark key="]" line="67" column="46" />
+        <mark key="^" line="67" column="46" />
+        <mark key="." line="67" column="46" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/src/instruments/src/multisim-shared/test/numberparsertest.js" timestamp="1517580175298">
         <mark key="[" line="14" column="0" />
@@ -592,11 +592,11 @@
       <register name="a" type="4">
         <text>${academicPrefix}</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCWRldmljZUlkQ29tbWFuZCA9IE9iamVjdC5hc3NpZ24oZGV2aWNlSWRDb21tYW5kLCByZWdlbmVyYXRlQ29kZVdhcm5pbmcpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>id</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZWVyXD4=</text>
