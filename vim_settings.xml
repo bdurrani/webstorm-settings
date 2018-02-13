@@ -9,11 +9,11 @@
         <mark key="." line="8" column="1" />
         <mark key="^" line="8" column="1" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/src/devices.js" timestamp="1518544169512">
-        <mark key="[" line="239" column="14" />
-        <mark key="]" line="240" column="8" />
-        <mark key="^" line="240" column="8" />
-        <mark key="." line="240" column="8" />
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/src/devices.js" timestamp="1518545390910">
+        <mark key="[" line="210" column="0" />
+        <mark key="]" line="210" column="0" />
+        <mark key="^" line="242" column="8" />
+        <mark key="." line="210" column="0" />
       </file>
       <file name="D:/deletethis/JavaScript30-master/JavaScript30-master/22 - Follow Along Link Highlighter/script.ts" timestamp="1510338710515">
         <mark key="[" line="8" column="43" />
@@ -592,11 +592,11 @@
       <register name="a" type="4">
         <text>${academicPrefix}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>let</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQljb25zdCBpc1dpdGhpbkdyYWNlUGVyaW9kID0gKGlkKSA9PiB7CgkJCWNvbnN0IGRldkNhY2hlID0gdGhpcy5fZ3JhY2VQZXJpb2RDYWNoZVtpZF07CgkJCWlmIChkZXZDYWNoZS5ncmFjZVBlcmlvZFN0YXJ0VGltZSA9PT0gY29uc3RhbnRzLklORklOSVRFX0dSQUNFX1BFUklPRCkgewoJCQkJcmV0dXJuIHRydWU7CgkJCX0KCQkJY29uc3QgZGlmZkluTWluID0gbW9tZW50LnV0YygpLmRpZmYoZGV2Q2FjaGUuZ3JhY2VQZXJpb2RTdGFydFRpbWUsICdtaW51dGVzJyk7CgkJCXJldHVybiBkaWZmSW5NaW4gPD0gZGV2Q2FjaGUuZ3JhY2VQZXJpb2Q7CgkJfTsKCg==</text>
       </register>
       <register name="-" type="4">
-        <text>let</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZWVyXD4=</text>
@@ -605,31 +605,31 @@
         <text encoding="base64">CQkJCS8vIGNvbnN0IGRpZmZJbk1pbiA9IG1vbWVudC51dGMoKS5kaWZmKGdyYWNlQ2FjaGUuZ3JhY2VQZXJkaW9kU3RhcnRUaW1lLCAnbWludXRlcycpOwoJCQkJLy8gaWYgKGRpZmZJbk1pbiA8PSBncmFjZUNhY2hlLmdyYWNlUGVyaW9kKSB7CgkJCQkvLyB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQl9IGVsc2UgaWYgKGdyYWNlUGVyaW9kSWQgIT09IHByZWZlcnJlZElkZGQpCg==</text>
+        <text encoding="base64">CQljb25zdCBpc1dpdGhpbkdyYWNlUGVyaW9kID0gKGlkKSA9PiB7CgkJCWNvbnN0IGRldkNhY2hlID0gdGhpcy5fZ3JhY2VQZXJpb2RDYWNoZVtpZF07CgkJCWlmIChkZXZDYWNoZS5ncmFjZVBlcmlvZFN0YXJ0VGltZSA9PT0gY29uc3RhbnRzLklORklOSVRFX0dSQUNFX1BFUklPRCkgewoJCQkJcmV0dXJuIHRydWU7CgkJCX0KCQkJY29uc3QgZGlmZkluTWluID0gbW9tZW50LnV0YygpLmRpZmYoZGV2Q2FjaGUuZ3JhY2VQZXJpb2RTdGFydFRpbWUsICdtaW51dGVzJyk7CgkJCXJldHVybiBkaWZmSW5NaW4gPD0gZGV2Q2FjaGUuZ3JhY2VQZXJpb2Q7CgkJfTsKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlsZXQgZGV0YWlscyA9IHt9Owo=</text>
+        <text encoding="base64">CQkJCWNsZWFudXBHcmFjZVBlcmlvZENhY2hlKGdyYWNlUGVyaW9kSWQpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJewoJCQl9Cg==</text>
+        <text encoding="base64">CQl9IGVsc2UgaWYgKGdyYWNlUGVyaW9kSWQgIT09IHByZWZlcnJlZElkZGQpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCS8vIGNvbnN0IGRpZmZJbk1pbiA9IG1vbWVudC51dGMoKS5kaWZmKGdyYWNlQ2FjaGUuZ3JhY2VQZXJkaW9kU3RhcnRUaW1lLCAnbWludXRlcycpOwoJCQkJLy8gaWYgKGRpZmZJbk1pbiA8PSBncmFjZUNhY2hlLmdyYWNlUGVyaW9kKSB7CgkJCQkvLyB9Cg==</text>
+        <text encoding="base64">CQlsZXQgZGV0YWlscyA9IHt9Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQlkZXZpY2VJZGluQ2FjaGUgPSBncmFjZUNhY2hlLmlkOwo=</text>
+        <text encoding="base64">CQkJewoJCQl9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQlpc2luR3JhY2VQZXJpb2RDYWNoZSA9IHRydWU7Cg==</text>
+        <text encoding="base64">CQkJCS8vIGNvbnN0IGRpZmZJbk1pbiA9IG1vbWVudC51dGMoKS5kaWZmKGdyYWNlQ2FjaGUuZ3JhY2VQZXJkaW9kU3RhcnRUaW1lLCAnbWludXRlcycpOwoJCQkJLy8gaWYgKGRpZmZJbk1pbiA8PSBncmFjZUNhY2hlLmdyYWNlUGVyaW9kKSB7CgkJCQkvLyB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCWRldmljZUlkaW5DYWNoZSA9IGdyYWNlQ2FjaGUuaWQ7Cg==</text>
+        <text encoding="base64">CQkJCQlkZXZpY2VJZGluQ2FjaGUgPSBncmFjZUNhY2hlLmlkOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJbGV0IGlzaW5HcmFjZVBlcmlvZENhY2hlID0gZmFsc2U7Cg==</text>
+        <text encoding="base64">CQkJCQlpc2luR3JhY2VQZXJpb2RDYWNoZSA9IHRydWU7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlpZiAoZGV0YWlscykgewoJCX0K</text>
+        <text encoding="base64">CQkJCWRldmljZUlkaW5DYWNoZSA9IGdyYWNlQ2FjaGUuaWQ7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>/highlight</text>
