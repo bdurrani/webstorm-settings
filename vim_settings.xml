@@ -9,11 +9,12 @@
         <mark key="." line="8" column="1" />
         <mark key="^" line="8" column="1" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/src/devices.js" timestamp="1518626364778">
-        <mark key="[" line="142" column="25" />
-        <mark key="]" line="142" column="68" />
-        <mark key="." line="142" column="68" />
-        <mark key="^" line="142" column="68" />
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/src/devices.js" timestamp="1518635755520">
+        <mark key="'" line="171" column="0" />
+        <mark key="[" line="112" column="0" />
+        <mark key="]" line="112" column="103" />
+        <mark key="." line="277" column="40" />
+        <mark key="^" line="277" column="40" />
       </file>
       <file name="D:/deletethis/JavaScript30-master/JavaScript30-master/22 - Follow Along Link Highlighter/script.ts" timestamp="1510338710515">
         <mark key="[" line="8" column="43" />
@@ -129,11 +130,21 @@
         <mark key="." line="18" column="92" />
         <mark key="^" line="18" column="92" />
       </file>
+      <file name="internal/async_hooks.js" timestamp="1518639233380">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/ubuntu-home/dotfiles-for-wsl/configure.sh" timestamp="1511449587848">
         <mark key="[" line="85" column="14" />
         <mark key="]" line="85" column="23" />
         <mark key="." line="85" column="23" />
         <mark key="^" line="85" column="23" />
+      </file>
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/src/graceperiodcache.js" timestamp="1518638687429">
+        <mark key="'" line="115" column="0" />
+        <mark key="[" line="104" column="0" />
+        <mark key="]" line="106" column="34" />
+        <mark key="." line="106" column="34" />
+        <mark key="^" line="106" column="34" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/.eslintignore" timestamp="1513173497353">
         <mark key="[" line="2" column="17" />
@@ -299,11 +310,12 @@
         <mark key="." line="248" column="102" />
         <mark key="^" line="248" column="102" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/test/graceperiodtests.js" timestamp="1518632313603">
-        <mark key="[" line="121" column="8" />
-        <mark key="]" line="121" column="24" />
-        <mark key="^" line="121" column="24" />
-        <mark key="." line="121" column="24" />
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/test/graceperiodtests.js" timestamp="1518639793590">
+        <mark key="'" line="99" column="19" />
+        <mark key="[" line="26" column="70" />
+        <mark key="]" line="27" column="32" />
+        <mark key="^" line="27" column="32" />
+        <mark key="." line="27" column="32" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/src/instruments/src/multisim-shared/test/numberparsertest.js" timestamp="1517580175298">
         <mark key="[" line="14" column="0" />
@@ -453,11 +465,11 @@
         <mark key="^" line="3" column="8" />
         <mark key="." line="3" column="8" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/test/testhelpers.js" timestamp="1518626034637">
-        <mark key="[" line="31" column="64" />
-        <mark key="]" line="31" column="68" />
-        <mark key="^" line="31" column="68" />
-        <mark key="." line="31" column="68" />
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/test/testhelpers.js" timestamp="1518637747442">
+        <mark key="[" line="41" column="1" />
+        <mark key="]" line="58" column="33" />
+        <mark key="^" line="58" column="33" />
+        <mark key="." line="58" column="33" />
       </file>
       <file name="D:/Dropbox/Misc/projects/nodejs-playground/main.js" timestamp="1512059440850">
         <mark key="[" line="36" column="0" />
@@ -492,11 +504,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="D:/deletethis/JavaScript30-master/JavaScript30-master/29 - Countdown Timer/script.ts" />
-      <jump line="30" column="7" filename="D:/deletethis/JavaScript30-master/JavaScript30-master/29 - Countdown Timer/script.ts" />
-      <jump line="14" column="0" filename="D:/deletethis/exercism/tsconfig.json" />
-      <jump line="9" column="6" filename="D:/deletethis/exercism/diagonal-diff.ts" />
-      <jump line="32" column="0" filename="D:/deletethis/exercism/diagonal-diff.ts" />
       <jump line="84" column="29" filename="C:/ubuntu-home/dotfiles-for-wsl/bash/.bashrc" />
       <jump line="91" column="27" filename="D:/Dropbox/Misc/projects/dotfiles-for-wsl/script/bootstrap.sh" />
       <jump line="114" column="0" filename="D:/Dropbox/Misc/projects/dotfiles-for-wsl/script/bootstrap.sh" />
@@ -592,49 +599,54 @@
       <jump line="76" column="4" filename="C:/ubuntu-home/johnnycash/signalingserver/test/devicestests.js" />
       <jump line="110" column="50" filename="C:/ubuntu-home/johnnycash/signalingserver/test/devicestests.js" />
       <jump line="4" column="45" filename="C:/ubuntu-home/johnnycash/signalingserver/test/devicestests.js" />
+      <jump line="70" column="0" filename="C:/ubuntu-home/johnnycash/signalingserver/src/devices.js" />
+      <jump line="163" column="0" filename="C:/ubuntu-home/johnnycash/signalingserver/src/devices.js" />
+      <jump line="17" column="0" filename="C:/ubuntu-home/johnnycash/signalingserver/src/graceperiodcache.js" />
+      <jump line="41" column="0" filename="C:/ubuntu-home/johnnycash/signalingserver/src/graceperiodcache.js" />
+      <jump line="90" column="19" filename="C:/ubuntu-home/johnnycash/signalingserver/test/graceperiodtests.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>${academicPrefix}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>fakeClient</text>
+        <text>'08:00'</text>
       </register>
       <register name="-" type="4">
-        <text>fakeClient</text>
+        <text>'08:00'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZWVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlmYWtlQ2xpZW50LmVtaXREZXZpY2VJbmZvKCk7Cg==</text>
+        <text encoding="base64">CQlleHBlY3QoZGV2aWNlcy5fZ3JhY2VQZXJpb2RDYWNoZS5fY2FjaGVTaXplKCkpLnRvLmVxdWFsKDIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlleHBlY3QoMSkuZmFpbDsK</text>
+        <text encoding="base64">CQlhd2FpdCBjb25uZWN0QW5kRGlzY29ubmVjdEZha2VDbGllbnQoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQljb25zdCBpZCA9ICcxMjM0JzsK</text>
+        <text encoding="base64">CQkvLyB0cnkgY2xlYW4gdXAgZXZlcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQljb25zdCBpc0lkSW5Vc2VCeUdyYWNlUGVyaW9kID0gKGlkVG9DaGVjaykgPT4gewoJCQlpZiAoIXRoaXMuX2dyYWNlUGVyaW9kQ2FjaGUuaGFzT3duUHJvcGVydHkoaWRUb0NoZWNrKSkgewoJCQkJcmV0dXJuIGZhbHNlOwoJCQl9CgkJCWNvbnN0IGRldkNhY2hlID0gdGhpcy5fZ3JhY2VQZXJpb2RDYWNoZVtpZFRvQ2hlY2tdOwoJCQlyZXR1cm4gIXRoaXMuaGFzR3JhY2VQZXJpb2RFeHBpcmVkKGRldkNhY2hlKTsKCQl9OwoK</text>
+        <text encoding="base64">CS8vIGNvbnN0IGNhY2hlID0geyBpZCwgZ3JhY2VQZXJpb2QsIGxlc2VUaW1lLCBuYW1lLCB3ZWJzb2NrZXQsIG1hYywgbGVhc2VDcmVhdGVkOiBtb21lbnQudXRjKCkgfTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQljb25zdCBoYXNHcmFjZVBlcmlvZEV4cGlyZWQgPSAoZGV2aWNlT2JqKSA9PiB7CgkJCWlmICghZGV2aWNlT2JqKSB7CgkJCQlyZXR1cm4gdHJ1ZTsKCQkJfQoJCQljb25zdCBkaWZmSW5NaW4gPSBtb21lbnQudXRjKCkuZGlmZihkZXZpY2VPYmouZ3JhY2VQZXJpb2RTdGFydFRpbWUsICdtaW51dGVzJyk7CgkJCXJldHVybiBkaWZmSW5NaW4gPiBkZXZpY2VPYmouZ3JhY2VQZXJpb2Q7CgkJfTsK</text>
+        <text encoding="base64">CWFzeW5jIGZ1bmN0aW9uIGNvbm5lY3RBbmREaXNjb25uZWN0RmFrZUNsaWVudChpZCkgewoJCWNvbnN0IGZha2VDbGllbnQgPSBuZXcgRmFrZVdlYlNvY2tldENsaWVudChpZCk7CgkJY29uc3QgcmVnaXN0cmF0aW9uUHJvbWlzZSA9IGRldmljZXMuX3N0YXJ0UmVnaXN0cmF0aW9uQXN5bmMoZmFrZUNsaWVudCk7CgkJZmFrZUNsaWVudC5lbWl0RGV2aWNlSW5mbygpOwoJCWF3YWl0IHJlZ2lzdHJhdGlvblByb21pc2U7CgkJY29uc3Qgc2h1dGRvd25Qcm9taXNlID0gZGV2aWNlcy5fdW5yZWdpc3RlcihmYWtlQ2xpZW50KTsKCQlmYWtlQ2xpZW50LnNodXRkb3duRGV2aWNlKCk7CgkJYXdhaXQgc2h1dGRvd25Qcm9taXNlOwoJCXJldHVybiBmYWtlQ2xpZW50OwoJfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJcmV0dXJuIHsgaWQ6IGdyYWNlUGVyaW9kSWQsIGRldGFpbHM6IGRldmljZVJlY29ubmVjdFdpdGhpbkdyYWNlUGVyaW9kQ29kZUluZm9NZXNzYWdlfTsJCg==</text>
+        <text encoding="base64">Y29uc3QgdXRpbGl0aWVzID0gcmVxdWlyZSgnLi91dGlsaXRpZXMnKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlyZXR1cm4gCg==</text>
+        <text encoding="base64">Y29uc3QgY29uc3RhbnRzID0gcmVxdWlyZSgnLi9jb25zdGFudHMnKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQljb25zdCBnZXREZXZpY2VJZFByZXNlbnRJbkdyYWNlUGVyaW9kQ2FjaGUgPSB0aGlzLmdldERldmljZUlkUHJlc2VudEluR3JhY2VQZXJpb2RDYWNoZSgpOwo=</text>
+        <text encoding="base64">CXAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQl9OwoJCXJldHVybiBnZXREZXZpY2VJZFByZXNlbnRJbkdyYWNlUGVyaW9kQ2FjaGU7Cg==</text>
+        <text encoding="base64">CQkvLyB0aGlzLl9ncmFjZVBlcmlvZENhY2hlID0ge307Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQljb25zdCBnZXREZXZpY2VJZFByZXNlbnRJbkdyYWNlUGVyaW9kQ2FjaGUgPSAobWFjKSA9PiB7Cg==</text>
+        <text encoding="base64">LyoKTWFpbnRhaW5zIHRoZSBncmFjZSBwZXJpb2QgY2FjaGUKICovCg==</text>
       </register>
       <register name=":" type="4">
         <text>/highlight</text>
@@ -694,6 +706,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed CLOSE_BRACKET</text>
