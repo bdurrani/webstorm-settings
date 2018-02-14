@@ -111,9 +111,6 @@
         <mark key="]" line="45" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/lobbybar/src/instruments/src/sfp-components/graph-pane/graph-pane.js" timestamp="1514397514508">
-        <mark key="'" line="570" column="22" />
-      </file>
       <file name="D:/Dropbox/Misc/projects/dotfiles-for-wsl/zsh/aliases.zsh" timestamp="1511560126573">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -164,7 +161,6 @@
         <mark key="." line="85" column="7" />
         <mark key="^" line="87" column="64" />
       </file>
-      <file name="/deviceroute.js" timestamp="1517943062174" />
       <file name="C:/ubuntu-home/johnnycash/lobbybar/selenium/helper/testDeviceHelper.js" timestamp="1516305446456">
         <mark key="[" line="1" column="52" />
         <mark key="]" line="1" column="52" />
@@ -303,11 +299,11 @@
         <mark key="." line="248" column="102" />
         <mark key="^" line="248" column="102" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/test/graceperiodtests.js" timestamp="1518556193420">
-        <mark key="[" line="22" column="74" />
-        <mark key="]" line="23" column="61" />
-        <mark key="^" line="23" column="61" />
-        <mark key="." line="23" column="61" />
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/test/graceperiodtests.js" timestamp="1518617640381">
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="104" column="30" />
+        <mark key="^" line="108" column="37" />
+        <mark key="." line="108" column="39" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/src/instruments/src/multisim-shared/test/numberparsertest.js" timestamp="1517580175298">
         <mark key="[" line="14" column="0" />
@@ -349,7 +345,6 @@
         <mark key="." line="62" column="0" />
         <mark key="^" line="62" column="24" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/lobbybar/test/lobby-bar.test.js" timestamp="1516993691332" />
       <file name="C:/ubuntu-home/johnnycash/signalingserver/tests/devicestests.js" timestamp="1518103659209">
         <mark key="[" line="0" column="31" />
         <mark key="]" line="1" column="0" />
@@ -413,8 +408,10 @@
         <mark key="^" line="29" column="68" />
         <mark key="." line="66" column="17" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/test/devicestests.js" timestamp="1518214159917">
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/test/devicestests.js" timestamp="1518617128101">
         <mark key="'" line="4" column="45" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="53" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/src/instruments/src/multisim-shared/package.json" timestamp="1517588309519">
         <mark key="[" line="34" column="0" />
@@ -450,8 +447,11 @@
         <mark key="^" line="3" column="8" />
         <mark key="." line="3" column="8" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/lobbybar/.travis.yml" timestamp="1516393521194">
-        <mark key="'" line="34" column="4" />
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/test/testhelpers.js" timestamp="1518617761422">
+        <mark key="[" line="45" column="43" />
+        <mark key="]" line="46" column="30" />
+        <mark key="^" line="46" column="30" />
+        <mark key="." line="46" column="30" />
       </file>
       <file name="D:/Dropbox/Misc/projects/nodejs-playground/main.js" timestamp="1512059440850">
         <mark key="[" line="36" column="0" />
@@ -471,7 +471,6 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/lobbybar/src/instruments/src/multisim-shared/utilities/numberparser.js" timestamp="1517338262708" />
       <file name="C:/ubuntu-home/dotfiles-for-wsl/installbits.sh" timestamp="1511472522163">
         <mark key="[" line="3" column="13" />
         <mark key="]" line="3" column="13" />
@@ -593,43 +592,43 @@
         <text>${academicPrefix}</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">PT4g</text>
+        <text>preferredPromise</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PT4g</text>
+        <text>preferredPromise</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZWVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQljb25zdCBkZXZpY2VSZWNvbm5lY3RXaXRoaW5HcmFjZVBlcmlvZENvZGVJbmZvTWVzc2FnZSA9IHsKCQkJaW5mbzogewoJCQkJbWVzc2FnZTogJ2RldmljZSByZWNvbm5lY3RlZCB3aXRoaW4gZ3JhY2UgcGVyaW9kLiBSZXVzaW5nIGRldmljZSBjb2RlJywKCQkJfSwKCQl9Owo=</text>
+        <text encoding="base64">CQljb25zdCBwcmVmZXJyZWRQcm9taXNlID0gZGV2aWNlcy5fc3RhcnRSZWdpc3RyYXRpb25Bc3luYyhwcmVmZXJyZWRJZERldmljZSk7CgkJcHJlZmVycmVkSWREZXZpY2UuZW1pdERldmljZUluZm8oKTsKCQlhd2FpdCBwcmVmZXJyZWRQcm9taXNlOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQljb25zdCBpc0lkSW5Vc2VCeUdyYWNlUGVyaW9kID0gKGlkVG9DaGVjaykgPT4gewoJCQlpZiAoIXRoaXMuX2dyYWNlUGVyaW9kQ2FjaGUuaGFzT3duUHJvcGVydHkoaWRUb0NoZWNrKSkgewoJCQkJcmV0dXJuIGZhbHNlOwoJCQl9CgkJCWNvbnN0IGRldkNhY2hlID0gdGhpcy5fZ3JhY2VQZXJpb2RDYWNoZVtpZFRvQ2hlY2tdOwoJCQlyZXR1cm4gIXRoaXMuaGFzR3JhY2VQZXJpb2RFeHBpcmVkKGRldkNhY2hlKTsKCQl9OwoK</text>
+        <text encoding="base64">CQlleHBlY3QoMSkuZmFpbDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQljb25zdCBoYXNHcmFjZVBlcmlvZEV4cGlyZWQgPSAoZGV2aWNlT2JqKSA9PiB7CgkJCWlmICghZGV2aWNlT2JqKSB7CgkJCQlyZXR1cm4gdHJ1ZTsKCQkJfQoJCQljb25zdCBkaWZmSW5NaW4gPSBtb21lbnQudXRjKCkuZGlmZihkZXZpY2VPYmouZ3JhY2VQZXJpb2RTdGFydFRpbWUsICdtaW51dGVzJyk7CgkJCXJldHVybiBkaWZmSW5NaW4gPiBkZXZpY2VPYmouZ3JhY2VQZXJpb2Q7CgkJfTsK</text>
+        <text encoding="base64">CQljb25zdCBpZCA9ICcxMjM0JzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJcmV0dXJuIHsgaWQ6IGdyYWNlUGVyaW9kSWQsIGRldGFpbHM6IGRldmljZVJlY29ubmVjdFdpdGhpbkdyYWNlUGVyaW9kQ29kZUluZm9NZXNzYWdlfTsJCg==</text>
+        <text encoding="base64">CQljb25zdCBpc0lkSW5Vc2VCeUdyYWNlUGVyaW9kID0gKGlkVG9DaGVjaykgPT4gewoJCQlpZiAoIXRoaXMuX2dyYWNlUGVyaW9kQ2FjaGUuaGFzT3duUHJvcGVydHkoaWRUb0NoZWNrKSkgewoJCQkJcmV0dXJuIGZhbHNlOwoJCQl9CgkJCWNvbnN0IGRldkNhY2hlID0gdGhpcy5fZ3JhY2VQZXJpb2RDYWNoZVtpZFRvQ2hlY2tdOwoJCQlyZXR1cm4gIXRoaXMuaGFzR3JhY2VQZXJpb2RFeHBpcmVkKGRldkNhY2hlKTsKCQl9OwoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlyZXR1cm4gCg==</text>
+        <text encoding="base64">CQljb25zdCBoYXNHcmFjZVBlcmlvZEV4cGlyZWQgPSAoZGV2aWNlT2JqKSA9PiB7CgkJCWlmICghZGV2aWNlT2JqKSB7CgkJCQlyZXR1cm4gdHJ1ZTsKCQkJfQoJCQljb25zdCBkaWZmSW5NaW4gPSBtb21lbnQudXRjKCkuZGlmZihkZXZpY2VPYmouZ3JhY2VQZXJpb2RTdGFydFRpbWUsICdtaW51dGVzJyk7CgkJCXJldHVybiBkaWZmSW5NaW4gPiBkZXZpY2VPYmouZ3JhY2VQZXJpb2Q7CgkJfTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQljb25zdCBnZXREZXZpY2VJZFByZXNlbnRJbkdyYWNlUGVyaW9kQ2FjaGUgPSB0aGlzLmdldERldmljZUlkUHJlc2VudEluR3JhY2VQZXJpb2RDYWNoZSgpOwo=</text>
+        <text encoding="base64">CQkJcmV0dXJuIHsgaWQ6IGdyYWNlUGVyaW9kSWQsIGRldGFpbHM6IGRldmljZVJlY29ubmVjdFdpdGhpbkdyYWNlUGVyaW9kQ29kZUluZm9NZXNzYWdlfTsJCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQl9OwoJCXJldHVybiBnZXREZXZpY2VJZFByZXNlbnRJbkdyYWNlUGVyaW9kQ2FjaGU7Cg==</text>
+        <text encoding="base64">CQlyZXR1cm4gCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQljb25zdCBnZXREZXZpY2VJZFByZXNlbnRJbkdyYWNlUGVyaW9kQ2FjaGUgPSAobWFjKSA9PiB7Cg==</text>
+        <text encoding="base64">CQljb25zdCBnZXREZXZpY2VJZFByZXNlbnRJbkdyYWNlUGVyaW9kQ2FjaGUgPSB0aGlzLmdldERldmljZUlkUHJlc2VudEluR3JhY2VQZXJpb2RDYWNoZSgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQljb25zdCByZWdlbmVyYXRlQ29kZVdhcm5pbmcgPSB7CgkJCXdhcm5pbmc6IHsKCQkJCWlkOiBjb25zdGFudHMuV0FSTklOR19XRUJSVENfU0VSVkVSX0RFVklDRV9JRF9HRU5FUkFURUQsCgkJCQltZXNzYWdlOiAncmVxdWVzdGVkIGlkIHVuYXZhaWxhYmxlLiBuZXcgZGV2aWNlIGlkIHdhcyBnZW5lcmF0ZWQnLAoJCQl9LAoJCX07Cgo=</text>
+        <text encoding="base64">CQl9OwoJCXJldHVybiBnZXREZXZpY2VJZFByZXNlbnRJbkdyYWNlUGVyaW9kQ2FjaGU7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJLy8gLy8gaGFzIHByZWZlcnJlZCBpZC4gQ2hlY2sgaWYgc29tZW9uZSBpcyB1c2luZyBpdC4KCQkJLy8gaWYgKGlzSWRBdmFpbGFibGUoaWQpKSB7CgkJCS8vIAkvLyBwcmVmZXJyZWQgaWQgaXMgYXZhaWxhYmxlLgoJCQkvLyAJY29uc29sZS5sb2coJ3ByZWZlcnJlZCBpZCBpcyBhdmFpbGFibGUnKTsKCQkJLy8gfSBlbHNlIHsKCQkJLy8gCS8vIHdlIG5lZWQgdG8gcmVnZW5lcmF0ZSBhIGRldmljZSBjb2RlLiBzb21lb25lIGVsc2UKCQkJLy8gCS8vIGFscmVhZHkgaGFzIHRoaXMgb25lLgoJCQkvLyAJaWQgPSB1dGlsaXRpZXMuZ2VuZXJhdGVEZXZpY2VDb2RlKCk7CgkJCS8vIAlkZXZpY2VJZENvbW1hbmQgPSBPYmplY3QuYXNzaWduKGRldmljZUlkQ29tbWFuZCwgcmVnZW5lcmF0ZUNvZGVXYXJuaW5nKTsKCQkJLy8gfQo=</text>
+        <text encoding="base64">CQljb25zdCBnZXREZXZpY2VJZFByZXNlbnRJbkdyYWNlUGVyaW9kQ2FjaGUgPSAobWFjKSA9PiB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>/highlight</text>
