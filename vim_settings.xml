@@ -9,7 +9,7 @@
         <mark key="." line="8" column="1" />
         <mark key="^" line="8" column="1" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/src/devices.js" timestamp="1518557299270">
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/src/devices.js" timestamp="1518626364778">
         <mark key="[" line="142" column="25" />
         <mark key="]" line="142" column="68" />
         <mark key="." line="142" column="68" />
@@ -299,11 +299,11 @@
         <mark key="." line="248" column="102" />
         <mark key="^" line="248" column="102" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/test/graceperiodtests.js" timestamp="1518617640381">
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="104" column="30" />
-        <mark key="^" line="108" column="37" />
-        <mark key="." line="108" column="39" />
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/test/graceperiodtests.js" timestamp="1518626734257">
+        <mark key="[" line="122" column="45" />
+        <mark key="]" line="122" column="45" />
+        <mark key="^" line="121" column="30" />
+        <mark key="." line="122" column="45" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/src/instruments/src/multisim-shared/test/numberparsertest.js" timestamp="1517580175298">
         <mark key="[" line="14" column="0" />
@@ -326,6 +326,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/test/fakewebsocketclient.js" timestamp="1518626631568">
+        <mark key="[" line="65" column="14" />
+        <mark key="]" line="65" column="30" />
+        <mark key="." line="65" column="30" />
+        <mark key="^" line="65" column="30" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/package.json" timestamp="1516993066131">
         <mark key="[" line="9" column="73" />
@@ -408,7 +414,7 @@
         <mark key="^" line="29" column="68" />
         <mark key="." line="66" column="17" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/test/devicestests.js" timestamp="1518617128101">
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/test/devicestests.js" timestamp="1518626231710">
         <mark key="'" line="4" column="45" />
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="53" />
@@ -447,11 +453,11 @@
         <mark key="^" line="3" column="8" />
         <mark key="." line="3" column="8" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/test/testhelpers.js" timestamp="1518617761422">
-        <mark key="[" line="45" column="43" />
-        <mark key="]" line="46" column="30" />
-        <mark key="^" line="46" column="30" />
-        <mark key="." line="46" column="30" />
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/test/testhelpers.js" timestamp="1518626034637">
+        <mark key="[" line="31" column="64" />
+        <mark key="]" line="31" column="68" />
+        <mark key="^" line="31" column="68" />
+        <mark key="." line="31" column="68" />
       </file>
       <file name="D:/Dropbox/Misc/projects/nodejs-playground/main.js" timestamp="1512059440850">
         <mark key="[" line="36" column="0" />
@@ -592,16 +598,16 @@
         <text>${academicPrefix}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>preferredPromise</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>preferredPromise</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZWVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQljb25zdCBwcmVmZXJyZWRQcm9taXNlID0gZGV2aWNlcy5fc3RhcnRSZWdpc3RyYXRpb25Bc3luYyhwcmVmZXJyZWRJZERldmljZSk7CgkJcHJlZmVycmVkSWREZXZpY2UuZW1pdERldmljZUluZm8oKTsKCQlhd2FpdCBwcmVmZXJyZWRQcm9taXNlOwo=</text>
+        <text encoding="base64">CQlleHBlY3QocHJlZmVycmVkSWREZXZpY2UuZGV2aWNlSWQpLmlzLm5vdC5lcXVhbChwcmVmZXJyZWRJZCk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQlleHBlY3QoMSkuZmFpbDsK</text>
