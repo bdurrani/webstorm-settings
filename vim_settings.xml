@@ -299,11 +299,11 @@
         <mark key="." line="248" column="102" />
         <mark key="^" line="248" column="102" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/test/graceperiodtests.js" timestamp="1518626734257">
-        <mark key="[" line="122" column="45" />
-        <mark key="]" line="122" column="45" />
-        <mark key="^" line="121" column="30" />
-        <mark key="." line="122" column="45" />
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/test/graceperiodtests.js" timestamp="1518632313603">
+        <mark key="[" line="121" column="8" />
+        <mark key="]" line="121" column="24" />
+        <mark key="^" line="121" column="24" />
+        <mark key="." line="121" column="24" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/src/instruments/src/multisim-shared/test/numberparsertest.js" timestamp="1517580175298">
         <mark key="[" line="14" column="0" />
@@ -598,16 +598,16 @@
         <text>${academicPrefix}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>fakeClient</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>fakeClient</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZWVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlleHBlY3QocHJlZmVycmVkSWREZXZpY2UuZGV2aWNlSWQpLmlzLm5vdC5lcXVhbChwcmVmZXJyZWRJZCk7Cg==</text>
+        <text encoding="base64">CQlmYWtlQ2xpZW50LmVtaXREZXZpY2VJbmZvKCk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQlleHBlY3QoMSkuZmFpbDsK</text>
