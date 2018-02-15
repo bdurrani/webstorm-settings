@@ -1,7 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="chromedriver" type="PLAIN_TEXT" />
+      <mapping pattern=".localrc" type="PLAIN_TEXT" />
+      <mapping ext="zsh" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
