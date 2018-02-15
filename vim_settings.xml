@@ -85,6 +85,12 @@
         <mark key="^" line="1" column="26" />
         <mark key="." line="1" column="26" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Misc/projects/mocha-hang/test/test1.js" timestamp="1518645869644">
+        <mark key="[" line="19" column="43" />
+        <mark key="]" line="20" column="31" />
+        <mark key="." line="20" column="31" />
+        <mark key="^" line="20" column="31" />
+      </file>
       <file name="C:/ubuntu-home/johnnycash/signalingserver/src/constants.js" timestamp="1518210759739">
         <mark key="[" line="40" column="21" />
         <mark key="]" line="48" column="5" />
@@ -601,11 +607,11 @@
       <register name="a" type="4">
         <text>${academicPrefix}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>let</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQljbGVhckludGVydmFsKHRoaXMuaWQpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>let</text>
+        <text encoding="base64">PT4=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZWVyXD4=</text>
@@ -614,31 +620,31 @@
         <text encoding="base64">CQlleHBlY3QoZmFrZUNsaWVudC5kZXZpY2VJZCkudG8uZXF1YWwoZmFrZUlkKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CmZ1bmN0aW9uIHZhbGlkYXRlU2luZ2xlVXNlcldpdGhvdXRDb21tYW5kc09yVGFncyhlbnRyeSwgdXNlcm5hbWUsIGlkKSB7CgllbnRyeS5pZC5zaG91bGQuYmUuZXhhY3RseShpZCk7CgllbnRyeS53aG8uc2hvdWxkLmJlLmFuLkFycmF5KCk7CgllbnRyeS53aG8uc2hvdWxkLmNvbnRhaW5EZWVwT3JkZXJlZChbdXNlcm5hbWVdKTsKCXNob3VsZChlbnRyeS50YWdzKS5iZS5udWxsKCk7CglzaG91bGQoZW50cnkuY29tbWVudCkuYmUubnVsbCgpOwp9Cg==</text>
+        <text encoding="base64">CQljbGVhckludGVydmFsKHRoaXMuaWQpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlkb25lKCk7Cg==</text>
+        <text encoding="base64">CQlpZihiKXsKCQkJYi5jbGVhbnVwKCk7CgkJfQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkJLnRoZW4oKCkgPT4gKQoJCQkudGhlbigocmVzdWx0KSA9PiB7Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">KCk9PnsKCQkJY29uc29sZS5sb2coJ2RvIHRoaW5ncycpOwoJCX0=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCXJlc3VsdC5zaG91bGQuaGF2ZS5sZW5ndGgoMSk7CgkJCQl2YWxpZGF0ZVNpbmdsZVVzZXJXaXRob3V0Q29tbWFuZHNPclRhZ3MocmVzdWx0WzBdLCB1c2VybmFtZSwgMSk7Cg==</text>
+        <text encoding="base64">CQlzZXRJbnRlcnZhbCgoKT0+ewoJCQljb25zb2xlLmxvZygnZG8gdGhpbmdzJyk7CgkJfSwgMTAwMCo1KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">CWxldCBkZXZpY2VzOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXNrawo=</text>
+        <text encoding="base64">CmZ1bmN0aW9uIHZhbGlkYXRlU2luZ2xlVXNlcldpdGhvdXRDb21tYW5kc09yVGFncyhlbnRyeSwgdXNlcm5hbWUsIGlkKSB7CgllbnRyeS5pZC5zaG91bGQuYmUuZXhhY3RseShpZCk7CgllbnRyeS53aG8uc2hvdWxkLmJlLmFuLkFycmF5KCk7CgllbnRyeS53aG8uc2hvdWxkLmNvbnRhaW5EZWVwT3JkZXJlZChbdXNlcm5hbWVdKTsKCXNob3VsZChlbnRyeS50YWdzKS5iZS5udWxsKCk7CglzaG91bGQoZW50cnkuY29tbWVudCkuYmUubnVsbCgpOwp9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQl0aGVuKCgpID0+IHsKCQl9KQoJCQkudGhlbigocmVzdWx0cykgPT4gewoJCQkJZG9uZSgpOwoJCQl9KTsK</text>
+        <text encoding="base64">CQlkb25lKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CS4K</text>
+        <text encoding="base64">CQkJLnRoZW4oKCkgPT4gKQoJCQkudGhlbigocmVzdWx0KSA9PiB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCWNvbnN0IHRvZGF5c0ludGVycnVwdGlvbnMgPSByZXN1bHRzWzBdOwoJCQkJY29uc3QgZGJEdW1wID0gcmVzdWx0c1sxXTsKCQkJCXRvZGF5c0ludGVycnVwdGlvbnMuc2hvdWxkLmhhdmUubGVuZ3RoKDIpOwoJCQkJZGJEdW1wLnNob3VsZC5oYXZlLmxlbmd0aCgyKTsK</text>
+        <text encoding="base64">CQkJCXJlc3VsdC5zaG91bGQuaGF2ZS5sZW5ndGgoMSk7CgkJCQl2YWxpZGF0ZVNpbmdsZVVzZXJXaXRob3V0Q29tbWFuZHNPclRhZ3MocmVzdWx0WzBdLCB1c2VybmFtZSwgMSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>/highlight</text>
