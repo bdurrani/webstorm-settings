@@ -603,12 +603,12 @@
         <mark key="]" line="3" column="72" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/src/server.js" timestamp="1518794400168">
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/src/server.js" timestamp="1518816988873">
         <mark key="'" line="78" column="30" />
-        <mark key="[" line="32" column="38" />
-        <mark key="]" line="32" column="54" />
-        <mark key="^" line="32" column="54" />
-        <mark key="." line="32" column="54" />
+        <mark key="[" line="38" column="58" />
+        <mark key="]" line="38" column="60" />
+        <mark key="^" line="38" column="60" />
+        <mark key="." line="38" column="60" />
       </file>
       <file name="C:/ubuntu/sfp/lobbybar/selenium/test/browserStartup.js" timestamp="1516646663970">
         <mark key="[" line="16" column="86" />
@@ -812,11 +812,11 @@
       <register name="a" type="4">
         <text>${academicPrefix}</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJzdGFydC1wcm9kdWN0aW9uIjogIk5PREVfRU5WPXByb2R1Y3Rpb24gbm9kZSBzcmMvYXBwLmpzIiwK</text>
+      <register name="&quot;" type="4">
+        <text>function</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>function</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZWVyXD4=</text>
