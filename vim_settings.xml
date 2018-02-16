@@ -9,12 +9,12 @@
         <mark key="." line="8" column="1" />
         <mark key="^" line="8" column="1" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/src/devices.js" timestamp="1518556371541">
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/src/devices.js" timestamp="1518796359116">
         <mark key="'" line="172" column="0" />
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
-        <mark key="^" line="93" column="71" />
+        <mark key="[" line="264" column="15" />
+        <mark key="]" line="264" column="20" />
+        <mark key="." line="264" column="20" />
+        <mark key="^" line="264" column="20" />
       </file>
       <file name="C:/ubuntu/sfp/signaling-server/src/leasetime.js" timestamp="1518727606068">
         <mark key="[" line="92" column="27" />
@@ -66,11 +66,6 @@
         <mark key="]" line="907" column="136" />
         <mark key="." line="907" column="136" />
         <mark key="^" line="907" column="136" />
-      </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/ecosystem.config.js" timestamp="1517598537229">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="5" column="10" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/selenium/readme.md" timestamp="1516308885054">
         <mark key="[" line="11" column="0" />
@@ -278,11 +273,11 @@
         <mark key="." line="120" column="155" />
         <mark key="^" line="120" column="155" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/src/deviceroute.js" timestamp="1518793125883">
-        <mark key="[" line="50" column="30" />
-        <mark key="]" line="50" column="45" />
-        <mark key="^" line="50" column="45" />
-        <mark key="." line="50" column="45" />
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/src/deviceroute.js" timestamp="1518796128330">
+        <mark key="[" line="29" column="15" />
+        <mark key="]" line="29" column="20" />
+        <mark key="^" line="29" column="20" />
+        <mark key="." line="29" column="20" />
       </file>
       <file name="D:/deletethis/JavaScript30-master/JavaScript30-master/17 - Sort Without Articles/script.ts" timestamp="1510333007649">
         <mark key="[" line="35" column="3" />
@@ -556,7 +551,7 @@
         <mark key="." line="1" column="0" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/src/manager.js" timestamp="1518535018040">
-        <mark key="'" line="592" column="28" />
+        <mark key="'" line="583" column="28" />
         <mark key="[" line="465" column="0" />
         <mark key="]" line="465" column="0" />
         <mark key="." line="465" column="67" />
@@ -572,11 +567,11 @@
         <mark key="^" line="134" column="4" />
         <mark key="." line="181" column="0" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/src/clientroute.js" timestamp="1518793415518">
-        <mark key="[" line="40" column="91" />
-        <mark key="]" line="40" column="91" />
-        <mark key="^" line="40" column="91" />
-        <mark key="." line="40" column="91" />
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/src/clientroute.js" timestamp="1518796564302">
+        <mark key="[" line="53" column="16" />
+        <mark key="]" line="53" column="23" />
+        <mark key="^" line="53" column="23" />
+        <mark key="." line="53" column="23" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/src/instruments/src/bode/components/bode-analyzer/bode-analyzer.js" timestamp="1517412192962">
         <mark key="[" line="3" column="0" />
@@ -654,11 +649,11 @@
         <mark key="^" line="9" column="111" />
         <mark key="." line="9" column="111" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/src/utilities.js" timestamp="1518794262839">
-        <mark key="[" line="52" column="21" />
-        <mark key="]" line="52" column="59" />
-        <mark key="." line="52" column="59" />
-        <mark key="^" line="52" column="59" />
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/src/utilities.js" timestamp="1518796624662">
+        <mark key="[" line="27" column="53" />
+        <mark key="]" line="28" column="33" />
+        <mark key="." line="28" column="33" />
+        <mark key="^" line="28" column="33" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/test/autoconnect.test.js" timestamp="1516394646555">
         <mark key="[" line="21" column="50" />
@@ -834,11 +829,11 @@
       <register name="a" type="4">
         <text>${academicPrefix}</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">LyogZXNsaW50LWVudiBicm93c2VyICovCg==</text>
+      <register name="&quot;" type="4">
+        <text>Object</text>
       </register>
       <register name="-" type="4">
-        <text>*}</text>
+        <text>Object</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZWVyXD4=</text>
@@ -847,31 +842,31 @@
         <text encoding="base64">LyogZXNsaW50LWVudiBicm93c2VyICovCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQljb25zb2xlLmxvZyhgbnVtYmVyIG9mIGNsaWVudHMgJHtPYmplY3Qua2V5cyhjbGllbnRzKS5sZW5ndGh9YCk7Cg==</text>
+        <text encoding="base64">CQkvLyByZXR1cm4gZGV2aWNlc1tkZXZpY2VJRF07Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogQHBhcmFtIHJlcXVlc3QK</text>
+        <text encoding="base64">CQljb25zb2xlLmxvZyhgbnVtYmVyIG9mIGNsaWVudHMgJHtPYmplY3Qua2V5cyhjbGllbnRzKS5sZW5ndGh9YCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IE1heGltdW0gbGVhc2UgdGltZSBpbiBob3VycyBNYXhpbXVtIGxlYXNlIHRpbWUgaW4gaG91cnMK</text>
+        <text encoding="base64">ICogQHBhcmFtIHJlcXVlc3QK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IE1heGltdW0gbGVhc2UgdGltZSBpbiBob3VycyBNYXhpbXVtIGxlYXNlIHRpbWUgaW4gaG91cnMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">J3VzZSBzdHJkZGljdCcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWFmdGVyRWFjaCgoKSA9PiB7Cgl9KTsKCg==</text>
+        <text encoding="base64">J3VzZSBzdHJkZGljdCcK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQljb25zdCBydW4gPSAoKSA9PiB7Cg==</text>
+        <text encoding="base64">CWFmdGVyRWFjaCgoKSA9PiB7Cgl9KTsKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJfQo=</text>
+        <text encoding="base64">CQljb25zdCBydW4gPSAoKSA9PiB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJaWYgKCF0aGlzLnN0b3BDbGVhbnVwKSB7Cg==</text>
+        <text encoding="base64">CQkJfQo=</text>
       </register>
       <register name=":" type="4">
         <text>/highlight</text>
