@@ -9,7 +9,7 @@
         <mark key="." line="8" column="1" />
         <mark key="^" line="8" column="1" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/src/devices.js" timestamp="1518796359116">
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/src/devices.js" timestamp="1518807320697">
         <mark key="[" line="279" column="15" />
         <mark key="]" line="279" column="20" />
         <mark key="." line="279" column="20" />
@@ -296,11 +296,11 @@
         <mark key="^" line="8" column="17" />
         <mark key="." line="8" column="17" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/src/leasetime.js" timestamp="1518790358455">
-        <mark key="[" line="48" column="9" />
-        <mark key="]" line="48" column="13" />
-        <mark key="^" line="48" column="13" />
-        <mark key="." line="48" column="13" />
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/src/leasetime.js" timestamp="1518807559694">
+        <mark key="[" line="82" column="49" />
+        <mark key="]" line="81" column="88" />
+        <mark key="^" line="81" column="88" />
+        <mark key="." line="81" column="88" />
       </file>
       <file name="D:/deletethis/exercism/main.ts" timestamp="1510684754593">
         <mark key="[" line="16" column="0" />
@@ -578,7 +578,7 @@
         <mark key="." line="3" column="61" />
         <mark key="^" line="3" column="61" />
       </file>
-      <file name="/JavaScript Console" timestamp="1518214780721">
+      <file name="/JavaScript Console" timestamp="1518807548163">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="^" line="0" column="7" />
@@ -608,7 +608,7 @@
         <mark key="^" line="31" column="29" />
         <mark key="." line="31" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518790485967">
+      <file name="/Dummy.txt" timestamp="1518807082079">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -829,10 +829,10 @@
         <text>${academicPrefix}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Object</text>
+        <text>minutes</text>
       </register>
       <register name="-" type="4">
-        <text>Object</text>
+        <text>minutes</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZWVyXD4=</text>
