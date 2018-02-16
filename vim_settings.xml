@@ -129,11 +129,11 @@
         <mark key="." line="0" column="23" />
         <mark key="^" line="0" column="23" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/src/console.js" timestamp="1518812877259">
-        <mark key="[" line="2" column="38" />
-        <mark key="]" line="2" column="39" />
-        <mark key="^" line="5" column="0" />
-        <mark key="." line="2" column="39" />
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/src/console.js" timestamp="1518815274814">
+        <mark key="[" line="3" column="84" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/karma.conf.js" timestamp="1516395275446">
         <mark key="[" line="140" column="38" />
@@ -627,11 +627,11 @@
         <mark key="]" line="34" column="38" />
         <mark key="." line="10" column="73" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/package.json" timestamp="1518107729268">
-        <mark key="[" line="9" column="112" />
-        <mark key="]" line="9" column="111" />
-        <mark key="^" line="9" column="111" />
-        <mark key="." line="9" column="111" />
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/package.json" timestamp="1518815531216">
+        <mark key="[" line="7" column="25" />
+        <mark key="]" line="7" column="44" />
+        <mark key="^" line="7" column="44" />
+        <mark key="." line="7" column="44" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/signalingserver/src/utilities.js" timestamp="1518796624662">
         <mark key="[" line="27" column="53" />
@@ -813,44 +813,44 @@
       <register name="a" type="4">
         <text>${academicPrefix}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>minutes</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJzdGFydCI6ICJub2RlIHNyYy9hcHAuanMiLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>minutes</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZWVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LyogZXNsaW50LWVudiBicm93c2VyICovCg==</text>
+        <text encoding="base64">ICAgICJzdGFydCI6ICJub2RlIHNyYy9hcHAuanMiLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkvLyByZXR1cm4gZGV2aWNlc1tkZXZpY2VJRF07Cg==</text>
+        <text encoding="base64">Ly8gUmVtb3ZlIGNvbnNvbGUgbG9nIGluIHByb2R1Y3Rpb24gbW9kZQppZiAocHJvY2Vzcy5lbnYuTk9ERV9FTlYgPT0gJ3Byb2R1Y3Rpb24nKSB7Cgljb25zb2xlLmxvZyA9IGZ1bmN0aW9uKCkgewoJfTsKfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQljb25zb2xlLmxvZyhgbnVtYmVyIG9mIGNsaWVudHMgJHtPYmplY3Qua2V5cyhjbGllbnRzKS5sZW5ndGh9YCk7Cg==</text>
+        <text encoding="base64">CQkvLyByZXR1cm4gZGV2aWNlc1tkZXZpY2VJRF07Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICogQHBhcmFtIHJlcXVlc3QK</text>
+        <text encoding="base64">CQljb25zb2xlLmxvZyhgbnVtYmVyIG9mIGNsaWVudHMgJHtPYmplY3Qua2V5cyhjbGllbnRzKS5sZW5ndGh9YCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IE1heGltdW0gbGVhc2UgdGltZSBpbiBob3VycyBNYXhpbXVtIGxlYXNlIHRpbWUgaW4gaG91cnMK</text>
+        <text encoding="base64">ICogQHBhcmFtIHJlcXVlc3QK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IE1heGltdW0gbGVhc2UgdGltZSBpbiBob3VycyBNYXhpbXVtIGxlYXNlIHRpbWUgaW4gaG91cnMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">J3VzZSBzdHJkZGljdCcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWFmdGVyRWFjaCgoKSA9PiB7Cgl9KTsKCg==</text>
+        <text encoding="base64">J3VzZSBzdHJkZGljdCcK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQljb25zdCBydW4gPSAoKSA9PiB7Cg==</text>
+        <text encoding="base64">CWFmdGVyRWFjaCgoKSA9PiB7Cgl9KTsKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJfQo=</text>
+        <text encoding="base64">CQljb25zdCBydW4gPSAoKSA9PiB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>/highlight</text>
