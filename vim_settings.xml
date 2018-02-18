@@ -140,7 +140,7 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="C:/ubuntu/sfp/signaling-server/src/utilities.js" timestamp="1517863550153">
+      <file name="C:/ubuntu/sfp/signaling-server/src/utilities.js" timestamp="1518964055663">
         <mark key="[" line="0" column="4" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -300,6 +300,13 @@
         <mark key="." line="11" column="23" />
         <mark key="^" line="11" column="23" />
       </file>
+      <file name="D:/Documents/Dropbox/Misc/projects/websocket/simpleclient.js" timestamp="1518964915605">
+        <mark key="'" line="122" column="0" />
+        <mark key="[" line="30" column="8" />
+        <mark key="]" line="30" column="8" />
+        <mark key="." line="30" column="25" />
+        <mark key="^" line="30" column="26" />
+      </file>
       <file name="C:/github/jc/signalingserver/src/server.js" timestamp="1518821360305">
         <mark key="'" line="41" column="27" />
         <mark key="[" line="0" column="0" />
@@ -368,6 +375,18 @@
         <mark key="]" line="211" column="49" />
         <mark key="." line="211" column="49" />
         <mark key="^" line="211" column="49" />
+      </file>
+      <file name="D:/Documents/Dropbox/Misc/projects/websocket/server.js" timestamp="1518964998607">
+        <mark key="[" line="1" column="77" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="D:/Documents/Dropbox/Misc/projects/websocket/package.json" timestamp="1518964598467">
+        <mark key="[" line="7" column="66" />
+        <mark key="]" line="7" column="15" />
+        <mark key="^" line="7" column="4" />
+        <mark key="." line="7" column="15" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/build.js" timestamp="1515078287540">
         <mark key="[" line="61" column="0" />
@@ -555,7 +574,7 @@
         <mark key="." line="3" column="61" />
         <mark key="^" line="3" column="61" />
       </file>
-      <file name="/JavaScript Console" timestamp="1518887358713">
+      <file name="/JavaScript Console" timestamp="1518964519093">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="^" line="0" column="7" />
@@ -706,9 +725,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="0" filename="D:/deletethis/exercism/diagonal-diff.ts" />
-      <jump line="84" column="29" filename="C:/ubuntu-home/dotfiles-for-wsl/bash/.bashrc" />
-      <jump line="91" column="27" filename="D:/Dropbox/Misc/projects/dotfiles-for-wsl/script/bootstrap.sh" />
       <jump line="114" column="0" filename="D:/Dropbox/Misc/projects/dotfiles-for-wsl/script/bootstrap.sh" />
       <jump line="14" column="78" filename="D:/Dropbox/Misc/projects/dotfiles-for-wsl/script/install.sh" />
       <jump line="29" column="0" filename="D:/Dropbox/Misc/projects/dotfiles-for-wsl/configure.sh" />
@@ -806,49 +822,52 @@
       <jump line="20" column="6" filename="C:/ubuntu/sfp/signaling-server/test/graceperiodtests.js" />
       <jump line="90" column="0" filename="C:/ubuntu/sfp/signaling-server/test/graceperiodtests.js" />
       <jump line="41" column="27" filename="C:/github/jc/signalingserver/src/server.js" />
+      <jump line="7" column="0" filename="D:/Documents/Dropbox/Misc/projects/websocket/simpleclient.js" />
+      <jump line="53" column="0" filename="D:/Documents/Dropbox/Misc/projects/websocket/simpleclient.js" />
+      <jump line="105" column="0" filename="D:/Documents/Dropbox/Misc/projects/websocket/simpleclient.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>${academicPrefix}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>socketServer</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="-" type="4">
-        <text>socketServer</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZWVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c29ja2V0U2VydmVyLm9uKCdlcnJvcicsIChlcnJvcikgPT4gewoJY29uc29sZS5sb2coYGRldmljZSByb3V0ZSBlcnJvciAke2Vycm9yfWApOwp9KTsK</text>
+        <text encoding="base64">CQkJcmV0dXJuIG5ldyBQcm9taXNlKChyZXNvbHZlKSA9PiB7CgkJCQl0aGlzLndlYnNvY2tldC5vbmNlKCdvcGVuJywgcmVzb2x2ZSk7CgkJCX0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXJlc29sdmUoeyBjb2RlLCByZWFzb24gfSk7Cg==</text>
+        <text encoding="base64">CQl9Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c29ja2V0U2VydmVyLm9uKCdjbG9zZScpCg==</text>
+        <text encoding="base64">CQlyZXR1cm4gbmV3IFByb21pc2UoKHJlc29sdmUpID0+IHsKCQkJdGhpcy53ZWJzb2NrZXQub25jZSgnb3BlbicsIHJlc29sdmUpOwoJCX0pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3Qgd2Vic29ja2V0ID0gbmV3IFdlYlNvY2tldCgnd3M6Ly9sb2NhbGhvc3Q6ODAnKTsKCndlYnNvY2tldC5vbignbWVzc2FnZScsIChkYXRhKSA9PiB7Cgljb25zb2xlLmxvZyhgZGF0YTogJHtkYXRhfWApOwp9KTsKCmZ1bmN0aW9uIG9wZW5Bc3luYygpIHsKCXJldHVybiBuZXcgUHJvbWlzZSgocmVzb2x2ZSA9PiB7CgkJd2Vic29ja2V0Lm9uKCdvcGVuJywgKCkgPT4gewoJCQljb25zb2xlLmxvZyhgb3BlbiBjbGllbnRgKTsKCQkJcmVzb2x2ZSgpOwoJCX0pOwoJfSkpOwp9CgpmdW5jdGlvbiBjbG9zZUFzeW5jKCkgewoJcmV0dXJuIG5ldyBQcm9taXNlKChyZXNvbHZlKSA9PiB7CgkJd2Vic29ja2V0Lm9uKCdjbG9zZScsIChjb2RlLCByZWFzb24pID0+IHsKCQkJcmVzb2x2ZSgpOwoJCQljb25zb2xlLmxvZyhgY2xvc2UgZXZlbnQgJHtjb2RlfSAke3JlYXNvbn1gKTsKCQl9KTsKCX0pOwp9Cgo=</text>
+        <text encoding="base64">CglyYW5kb21JbnQobG93LCBoaWdoKSB7CgkJcmV0dXJuIE1hdGguZmxvb3IoKE1hdGgucmFuZG9tKCkgKiAoaGlnaCAtIGxvdykpICsgbG93KTsKCX0KCglnZW5lcmF0ZURldmljZUNvZGUoY29kZUxlbmdodCA9IDgpIHsKCQlsZXQgcmVzdWx0ID0gJyc7CgkJd2hpbGUgKGNvZGVMZW5naHQgPiAwKSB7CgkJCXJlc3VsdCArPSBWQUxJRENIQVJBQ1RFUlNbcmFuZG9tSW50KDAsIFZBTElEQ0hBUkFDVEVSUy5sZW5ndGgpXTsKCQkJY29kZUxlbmdodC0tOwoJCX0KCQlyZXR1cm4gcmVzdWx0OwoJfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CWF3YWl0IC4uLgo=</text>
+        <text encoding="base64">CWNvbnN0IFZBTElEQ0hBUkFDVEVSUyA9ICcwMTIzNDU2Nzg5QUJDREVGR0hJSktMTU5PUFFSU1RVVldYWVonOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YXdhaXQgb3BlbkFzeW5jKCk7Cg==</text>
+        <text encoding="base64">CQlsZXQgZSA9IHsKCQkJYWRkcmVzczogJycsCgkJCWNvbW1hbmQ6ICdkZXZpY2VJbmZvJywKCQkJcGVlcjogewoJCQkJZ3JhY2VQZXJpb2Q6IDEwLAoJCQkJbGVhc2VUaW1lOiA0LAoJCQkJaWQ6IHRoaXMuZGV2aWNlSWQsCgkJCQltYWM6IHRoaXMubWFjQWRkcmVzcywKCQkJCW5hbWU6ICdFbHZpcyBJSUknLAoJCQl9LAoJCX07Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CSkK</text>
+        <text encoding="base64">CQl0aGlzLndlYnNvY2tldC5vbignZXJyb3InLCAoZXJyb3IpID0+IHsKCQkJY29uc29sZS5sb2coYHRoZXJlIHdhcyBhbiBlcnJvciAke2Vycm9yfWApOwoJCX0pOwoKCQl0aGlzLndlYnNvY2tldC5vbmNlKCd1cGdyYWRlJywgKHJlc3BvbnNlKSA9PiB7CgkJCWNvbnNvbGUubG9nKGBjbGllbnQgdXBncmFkZSAke3Jlc3BvbnNlfWApOwoJCX0pOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">d2Vic29ja2V0Lm9uKCdjbG9zZScsIChjb2RlLCByZWFzb24pID0+IHsKCQljb25zb2xlLmxvZyhgY2xvc2UgZXZlbnQgJHtjb2RlfSAke3JlYXNvbn1gKTsKCX0=</text>
+      <register name="7" type="2">
+        <text encoding="base64">CgoJCWNvbnN0IHRoaXMuX29wZW5Bc3luYyA9ICgpID0+IHsKCQkJcmV0dXJuIG5ldyBQcm9taXNlKChyZXNvbHZlKSA9PiB7CgkJCQl0aGlzLndlYnNvY2tldC5vbmNlKCdvcGVuJywgcmVzb2x2ZSk7CgkJCX0pOwoJCX07Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">d2Vic29ja2V0Lm9uKCdjbG9zZScsIChjb2RlLCByZWFzb24pID0+IHsKCWNvbnNvbGUubG9nKGBjbG9zZSBldmVudCAke2NvZGV9ICR7cmVhc29ufWApOwp9KTsK</text>
+        <text encoding="base64">Y2xhc3MgRGV2aWNlIHsKCWNvbnN0cnVjdG9yKHVybCkgewoJCXRoaXMubWFjQWRkcmVzcyA9IERldmljZS5nZW5lcmF0ZVJhbmRvbU1hYygpOwoJCXRoaXMuc2VydmVyVXJsID0gdXJsOwoJCXRoaXMud2Vic29ja2V0ID0gbmV3IFdlYlNvY2tldCh0aGlzLnNlcnZlclVybCk7Cgl9CgoJYXN5bmMgY29ubmVjdCgpIHsKCQl3ZWJzb2NrZXQub24oJ21lc3NhZ2UnLCAoZGF0YSkgPT4gewoJCQljb25zb2xlLmxvZyhgZGF0YTogJHtkYXRhfWApOwoJCQl3ZWJzb2NrZXQuc2VuZCgnaGVsbG8gZnJvbSBzZW5kJyk7CgkJCXdlYnNvY2tldC5jbG9zZSgpOwoJCX0pOwoKCQl3ZWJzb2NrZXQub24oJ2Vycm9yJywgKGVycm9yKSA9PiB7CgkJCWNvbnNvbGUubG9nKGB0aGVyZSB3YXMgYW4gZXJyb3IgJHtlcnJvcn1gKTsKCQl9KTsKCgkJd2Vic29ja2V0Lm9uY2UoJ3VwZ3JhZGUnLCAocmVzcG9uc2UpID0+IHsKCQkJY29uc29sZS5sb2coYGNsaWVudCB1cGdyYWRlICR7cmVzcG9uc2V9YCk7CgkJfSk7CgoKCQljb25zdCBvcGVuQXN5bmMgPSAoKSA9PiB7CgkJCXJldHVybiBuZXcgUHJvbWlzZSgocmVzb2x2ZSkgPT4gewoJCQkJd2Vic29ja2V0Lm9uY2UoJ29wZW4nLCByZXNvbHZlKTsKCQkJfSk7CgkJfTsKCQlhd2FpdCBvcGVuQXN5bmMoKTsKCQljb25zdCBhcnJheSA9IG5ldyBGbG9hdDMyQXJyYXkoMTAwKTsKCgkJZm9yICh2YXIgaSA9IDA7IGkgPCBhcnJheS5sZW5ndGg7ICsraSkgewoJCQlhcnJheVtpXSA9IGkgLyAyOwoJCX0KCgkJd2Vic29ja2V0LnNlbmQoYXJyYXkpOwoJCWxldCBlID0gewoJCQlhZGRyZXNzOiAnJywKCQkJY29tbWFuZDogJ2RldmljZUluZm8nLAoJCQlwZWVyOiB7CgkJCQlncmFjZVBlcmlvZDogMTAsCgkJCQlsZWFzZVRpbWU6IDQsCgkJCQlpZDogdGhpcy5kZXZpY2VJZCwKCQkJCW1hYzogdGhpcy5tYWNBZGRyZXNzLAoJCQkJbmFtZTogJ0VsdmlzIElJSScsCgkJCX0sCgkJfTsKCX0KCgoJc3RhdGljIGdlbmVyYXRlUmFuZG9tTWFjKCkgewoJCXJldHVybiAnWFg6WFg6WFg6WFg6WFg6WFgnLnJlcGxhY2UoL1gvZywgKCkgPT4gJzAxMjM0NTY3ODlBQkNERUYnLmNoYXJBdChNYXRoLmZsb29yKE1hdGgucmFuZG9tKCkgKiAxNikpKTsKCX0KfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXdlYnNvY2tldC5vbignb3BlbicsICgpPT57CgkJY29uc29sZS5sb2coYG9wZW4gY2xpZW50YCk7Cgl9KTsK</text>
+        <text encoding="base64">CWxldCBlID0gewo=</text>
       </register>
       <register name=":" type="4">
         <text>/highlight</text>
