@@ -246,6 +246,7 @@
         <mark key="]" line="1" column="52" />
         <mark key="." line="1" column="52" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Misc/projects/websocket/client-runner.js" timestamp="1518980879609" />
       <file name="C:/ubuntu-home/johnnycash/signalingserver/eslintrc.js" timestamp="1518186187853">
         <mark key="[" line="120" column="137" />
         <mark key="]" line="120" column="155" />
@@ -472,9 +473,9 @@
         <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Misc/projects/websocket/server.js" timestamp="1518917606063">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/src/instruments/bower.json" timestamp="1513091161151">
         <mark key="[" line="19" column="0" />
@@ -493,12 +494,6 @@
         <mark key="]" line="212" column="54" />
         <mark key="." line="212" column="54" />
         <mark key="^" line="212" column="53" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Misc/projects/websocket/simpleclient.js" timestamp="1518960109110">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="73" column="6" />
-        <mark key="^" line="45" column="37" />
-        <mark key="." line="62" column="0" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/signalingserver/.eslintignore" timestamp="1518108104279">
         <mark key="[" line="0" column="0" />
@@ -564,7 +559,7 @@
         <mark key="." line="3" column="61" />
         <mark key="^" line="3" column="61" />
       </file>
-      <file name="/JavaScript Console" timestamp="1518887358713">
+      <file name="/JavaScript Console" timestamp="1518980881263">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="^" line="0" column="7" />
