@@ -240,11 +240,11 @@
         <mark key="]" line="1" column="52" />
         <mark key="." line="1" column="52" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Misc/projects/websocket/client-runner.js" timestamp="1519003395619">
-        <mark key="[" line="16" column="9" />
-        <mark key="]" line="19" column="8" />
-        <mark key="." line="19" column="8" />
-        <mark key="^" line="19" column="8" />
+      <file name="$USER_HOME$/Dropbox/Misc/projects/websocket/client-runner.js" timestamp="1519064488314">
+        <mark key="[" line="20" column="30" />
+        <mark key="]" line="20" column="30" />
+        <mark key="." line="20" column="30" />
+        <mark key="^" line="20" column="30" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/signalingserver/eslintrc.js" timestamp="1518186187853">
         <mark key="[" line="120" column="137" />
@@ -533,6 +533,7 @@
         <mark key="." line="55" column="30" />
         <mark key="^" line="55" column="30" />
       </file>
+      <file name="C:/github/jc/signalingserver/package.json" timestamp="1519063868965" />
       <file name="C:/ubuntu-home/johnnycash/signalingserver/.eslintignore" timestamp="1518108104279">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -841,11 +842,11 @@
       <register name="a" type="4">
         <text>${academicPrefix}</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gCXZhciBkID0gbmV3IERldmljZUJhc2UoJycsIHVybCk7Ci8vIAlkLmNvbm5lY3QoKTsKLy8gCWQuY2xvc2VBc3luYygpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>:${port}</text>
       </register>
       <register name="-" type="4">
-        <text>dataone</text>
+        <text>:${port}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZWVyXD4=</text>
