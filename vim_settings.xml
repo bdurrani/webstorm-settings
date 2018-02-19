@@ -499,10 +499,10 @@
         <mark key="^" line="14" column="31" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Misc/projects/websocket/server.js" timestamp="1518887338154">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="20" column="2" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/Dropbox/Misc/projects/websocket/server.js" timestamp="1518998582451">
+        <mark key="[" line="7" column="72" />
+        <mark key="]" line="7" column="73" />
+        <mark key="." line="7" column="73" />
         <mark key="^" line="17" column="0" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/src/instruments/bower.json" timestamp="1513091161151">
@@ -527,11 +527,11 @@
         <mark key="." line="212" column="54" />
         <mark key="^" line="212" column="53" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Misc/projects/websocket/simpleclient.js" timestamp="1518995082374">
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="0" />
-        <mark key="." line="80" column="0" />
-        <mark key="^" line="76" column="30" />
+      <file name="$USER_HOME$/Dropbox/Misc/projects/websocket/simpleclient.js" timestamp="1518998550308">
+        <mark key="[" line="56" column="55" />
+        <mark key="]" line="56" column="55" />
+        <mark key="." line="56" column="55" />
+        <mark key="^" line="56" column="55" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/signalingserver/.eslintignore" timestamp="1518108104279">
         <mark key="[" line="0" column="0" />
@@ -842,10 +842,10 @@
         <text>${academicPrefix}</text>
       </register>
       <register name="&quot;" type="4">
-        <text />
+        <text>let</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>let</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZWVyXD4=</text>
