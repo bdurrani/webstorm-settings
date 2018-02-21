@@ -9,11 +9,11 @@
         <mark key="." line="8" column="1" />
         <mark key="^" line="8" column="1" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/src/devices.js" timestamp="1519231045688">
-        <mark key="[" line="101" column="62" />
-        <mark key="]" line="101" column="62" />
-        <mark key="." line="101" column="62" />
-        <mark key="^" line="101" column="62" />
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/src/devices.js" timestamp="1519235134735">
+        <mark key="[" line="359" column="90" />
+        <mark key="]" line="359" column="90" />
+        <mark key="." line="359" column="90" />
+        <mark key="^" line="359" column="90" />
       </file>
       <file name="C:/ubuntu/sfp/signaling-server/src/leasetime.js" timestamp="1518727606068">
         <mark key="[" line="92" column="27" />
@@ -552,11 +552,11 @@
         <mark key="^" line="134" column="4" />
         <mark key="." line="181" column="0" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/src/clientroute.js" timestamp="1519231064786">
-        <mark key="[" line="36" column="39" />
-        <mark key="]" line="36" column="45" />
-        <mark key="." line="36" column="45" />
-        <mark key="^" line="36" column="45" />
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/src/clientroute.js" timestamp="1519234577386">
+        <mark key="[" line="41" column="12" />
+        <mark key="]" line="41" column="12" />
+        <mark key="." line="41" column="12" />
+        <mark key="^" line="37" column="19" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/src/instruments/src/bode/components/bode-analyzer/bode-analyzer.js" timestamp="1517412192962">
         <mark key="[" line="3" column="0" />
@@ -799,11 +799,11 @@
       <register name="a" type="4">
         <text>${academicPrefix}</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">YWRkb25zOgogIGFwdDoKICAgIHNvdXJjZXM6CiAgICAgIC0gZ29vZ2xlLWNocm9tZQogICAgcGFja2FnZXM6CiAgICAgIC0gZ29vZ2xlLWNocm9tZS1zdGFibGUK</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>payload</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXJ2ZXJcPg==</text>
