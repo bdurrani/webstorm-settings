@@ -9,10 +9,11 @@
         <mark key="." line="8" column="1" />
         <mark key="^" line="8" column="1" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/src/devices.js" timestamp="1519328037436">
-        <mark key="[" line="118" column="0" />
-        <mark key="]" line="118" column="0" />
-        <mark key="." line="118" column="0" />
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/src/devices.js" timestamp="1519332612570">
+        <mark key="[" line="300" column="20" />
+        <mark key="]" line="300" column="31" />
+        <mark key="." line="300" column="31" />
+        <mark key="^" line="300" column="31" />
       </file>
       <file name="C:/ubuntu/sfp/signaling-server/src/leasetime.js" timestamp="1518727606068">
         <mark key="[" line="92" column="27" />
@@ -839,17 +840,17 @@
       <register name="a" type="4">
         <text>${academicPrefix}</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dmFyIHJlc3VsdCA9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>`clean up resources for ${cache.id}`</text>
       </register>
       <register name="-" type="4">
-        <text>Object</text>
+        <text>`clean up resources for ${cache.id}`</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZWVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQl0aGlzLl9tYWNUb0RldmljZUNhY2hlRGljdGlvbmFyeVttYWNdID0gY2FjaGVEYXRhOwoJCXRoaXMuX3NvY2tldFRvTWFjQWRkcmVzc01hcC5zZXQoY2FjaGVEYXRhLndlYnNvY2tldCwgbWFjKTsKCQl0aGlzLl9kZXZpY2VJRHNbaWRdID0gY2FjaGVEYXRhOwo=</text>
+        <text encoding="base64">CQljb25zb2xlLmxvZyhgY2xlYW4gdXAgcmVzb3VyY2VzIGZvciAke2NhY2hlLmlkfWApOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">dmFyIHJlc3VsdCA9Cg==</text>
