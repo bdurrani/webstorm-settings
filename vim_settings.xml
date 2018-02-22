@@ -9,11 +9,12 @@
         <mark key="." line="8" column="1" />
         <mark key="^" line="8" column="1" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/src/devices.js" timestamp="1519332612570">
-        <mark key="[" line="300" column="20" />
-        <mark key="]" line="300" column="31" />
-        <mark key="." line="300" column="31" />
-        <mark key="^" line="300" column="31" />
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/src/devices.js" timestamp="1519334769705">
+        <mark key="'" line="420" column="0" />
+        <mark key="[" line="112" column="37" />
+        <mark key="]" line="112" column="37" />
+        <mark key="." line="112" column="37" />
+        <mark key="^" line="112" column="37" />
       </file>
       <file name="C:/ubuntu/sfp/signaling-server/src/leasetime.js" timestamp="1518727606068">
         <mark key="[" line="92" column="27" />
@@ -602,7 +603,7 @@
         <mark key="." line="3" column="61" />
         <mark key="^" line="3" column="61" />
       </file>
-      <file name="/JavaScript Console" timestamp="1519094937131">
+      <file name="/JavaScript Console" timestamp="1519334744522">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="^" line="0" column="7" />
@@ -735,7 +736,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="114" column="0" filename="D:/Dropbox/Misc/projects/dotfiles-for-wsl/script/bootstrap.sh" />
       <jump line="14" column="78" filename="D:/Dropbox/Misc/projects/dotfiles-for-wsl/script/install.sh" />
       <jump line="29" column="0" filename="D:/Dropbox/Misc/projects/dotfiles-for-wsl/configure.sh" />
       <jump line="48" column="0" filename="D:/Dropbox/Misc/projects/dotfiles-for-wsl/configure.sh" />
@@ -835,49 +835,50 @@
       <jump line="7" column="0" filename="D:/Documents/Dropbox/Misc/projects/websocket/simpleclient.js" />
       <jump line="53" column="0" filename="D:/Documents/Dropbox/Misc/projects/websocket/simpleclient.js" />
       <jump line="105" column="0" filename="D:/Documents/Dropbox/Misc/projects/websocket/simpleclient.js" />
+      <jump line="420" column="0" filename="C:/ubuntu-home/johnnycash/signalingserver/src/devices.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>${academicPrefix}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>`clean up resources for ${cache.id}`</text>
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>`clean up resources for ${cache.id}`</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZWVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQljb25zb2xlLmxvZyhgY2xlYW4gdXAgcmVzb3VyY2VzIGZvciAke2NhY2hlLmlkfWApOwo=</text>
+        <text encoding="base64">CQkJZm9yIChjb25zdCBpdGVtIGluIHRoaXMuX3NvY2tldFRvTWFjQWRkcmVzc01hcC5lbnRyaWVzKCkpIHsKCQkJCWlmIChpdGVtWzFdID09PSBtYWMpIHsKCQkJCQlzb2NrZXRJblVzZSA9IGl0ZW1bMV07CgkJCQl9CgkJCX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dmFyIHJlc3VsdCA9Cg==</text>
+        <text encoding="base64">CQkJCWlmIChpdGVtWzFdID09PSBtYWMpIHsKCQkJCX0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJdGhpcy5fc29ja2V0VG9NYWNBZGRyZXNzTWFwLnZhbHVlcygpCg==</text>
+        <text encoding="base64">CQkJCQlzb2NrZXRJblVzZSA9IGl0ZW1bMF07Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CgkvKioKICAgKiBEZXBsb3ltZW50IHNlY3Rpb24KICAgKiBodHRwOi8vcG0yLmtleW1ldHJpY3MuaW8vZG9jcy91c2FnZS9kZXBsb3ltZW50LwogICAqLwo=</text>
+        <text encoding="base64">CQkJdGhpcy5fZ3JhY2VQZXJpb2RDYWNoZS5jbGVhbnVwQ2FjaGUoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CWRlcGxveTogewoJCXByb2R1Y3Rpb246IHsKCQkJdXNlcjogJ3VidW50dScsCgkJCWhvc3Q6ICczNC4yMzUuMjA5LjQnLAoJCQlyZWY6ICdvcmlnaW4vbWFzdGVyJywKCQkJJ2ZvcndhcmQtYWdlbnQnOiAndHJ1ZScsCgkJCXJlcG86ICdnaXRAZ2l0aHViLmNvbTpuaS1raXNtZXQvc2lnbmFsaW5nU2VydmVyJywKCQkJcGF0aDogJy9ob21lL3VidW50dS9kZXZlbG9wbWVudCcsCgkJCSdwcmUtZGVwbG95LWxvY2FsJzogJ3NjcCBlY29zeXN0ZW0uY29uZmlnLmpzIHVidW50dUAzNC4yMzUuMjA5LjQ6L2hvbWUvdWJ1bnR1JywKCQkJJ3Bvc3QtZGVwbG95JzogJ25wbSBpbnN0YWxsICYmIHBtMiByZWxvYWQgfi9lY29zeXN0ZW0uY29uZmlnLmpzIC0tZW52IGRldicsCgkJfSwKCQlkZXY6IHsKCQkJdXNlcjogJ3VidW50dScsCgkJCWhvc3Q6ICczNC4yMzUuMjA5LjQnLAoJCQlyZWY6ICdvcmlnaW4vbWFzdGVyJywKCQkJJ2ZvcndhcmQtYWdlbnQnOiAndHJ1ZScsCgkJCXJlcG86ICdnaXRAZ2l0aHViLmNvbTpuaS1raXNtZXQvc2lnbmFsaW5nU2VydmVyJywKCQkJcGF0aDogJy9ob21lL3VidW50dS9kZXZlbG9wbWVudCcsCgkJCSdwcmUtZGVwbG95LWxvY2FsJzogJ3NjcCBlY29zeXN0ZW0uY29uZmlnLmpzIHVidW50dUAzNC4yMzUuMjA5LjQ6L2hvbWUvdWJ1bnR1JywKCQkJJ3Bvc3QtZGVwbG95JzogJ25wbSBpbnN0YWxsICYmIHBtMiByZWxvYWQgfi9lY29zeXN0ZW0uY29uZmlnLmpzIC0tZW52IGRldicsCgkJCWVudjogewoJCQkJTk9ERV9FTlY6ICdkZXYnLAoJCQl9LAoJCX0sCgl9LAo=</text>
+        <text encoding="base64">CQkJfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkvLyBjb25zb2xlLmxvZyhgcmVnaXN0ZXJlZCBkZXZpY2UgJHtpZH1gKTsK</text>
+        <text encoding="base64">CQkJaWYgKCF0aGlzLl9zdG9wR3JhY2VQZXJpb2RDbGVhbnVwSW50ZXJ2YWwpIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJY29uc29sZS5sb2cK</text>
+        <text encoding="base64">CQl0aGlzLl9zdG9wR3JhY2VQZXJpb2RDbGVhbnVwSW50ZXJ2YWwgPSBmYWxzZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQljb25zb2xlLmxvZyhgY2xpZW50IHBheWxvYWQ6ICR7bWVzc2FnZX1gKTsK</text>
+        <text encoding="base64">CQl0aGlzLl9pc0FsaXZlID0gdHJ1ZTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkvLyBzZXRUaW1lb3V0KCgpID0+IHsKCQkvLyAJdGltZWRPdXQgPSB0cnVlOwoJCS8vIAljb25zb2xlLmxvZygnaW0gaW4gdGhlIHRlc3QnKTsKCQkvLyB9LCA1MDApOwo=</text>
+        <text encoding="base64">CQl3ZWJzbwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlyZXR1cm4gdHJ1ZTsK</text>
+        <text encoding="base64">dmFyIHJlc3VsdCA9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>/highlight</text>
