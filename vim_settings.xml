@@ -9,12 +9,12 @@
         <mark key="." line="8" column="1" />
         <mark key="^" line="8" column="1" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/src/devices.js" timestamp="1519407644221">
-        <mark key="'" line="104" column="18" />
-        <mark key="[" line="344" column="0" />
-        <mark key="]" line="344" column="0" />
-        <mark key="." line="344" column="0" />
-        <mark key="^" line="92" column="30" />
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/src/devices.js" timestamp="1519411397330">
+        <mark key="'" line="147" column="8" />
+        <mark key="[" line="345" column="19" />
+        <mark key="]" line="345" column="39" />
+        <mark key="." line="345" column="39" />
+        <mark key="^" line="345" column="39" />
       </file>
       <file name="C:/ubuntu/sfp/signaling-server/src/leasetime.js" timestamp="1518727606068">
         <mark key="[" line="92" column="27" />
@@ -550,11 +550,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/test/fakewebsocketclient.js" timestamp="1519395999636">
-        <mark key="[" line="63" column="25" />
-        <mark key="]" line="63" column="54" />
-        <mark key="." line="63" column="54" />
-        <mark key="^" line="63" column="54" />
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/test/fakewebsocketclient.js" timestamp="1519411449006">
+        <mark key="'" line="15" column="31" />
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="66" column="43" />
+        <mark key="." line="66" column="43" />
+        <mark key="^" line="66" column="43" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/package.json" timestamp="1516993066131">
         <mark key="[" line="9" column="73" />
@@ -736,8 +737,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="0" filename="D:/Dropbox/Misc/projects/dotfiles-for-wsl/configure.sh" />
-      <jump line="48" column="0" filename="D:/Dropbox/Misc/projects/dotfiles-for-wsl/configure.sh" />
       <jump line="33" column="23" filename="C:/ubuntu-home/johnnycash/lobbybar/src/instruments/src/utilities/devicewindowmessageproxy.js" />
       <jump line="24" column="28" filename="C:/ubuntu-home/johnnycash/lobbybar/src/instruments/src/utilities/devicewindowmessageproxy.js" />
       <jump line="103" column="25" filename="C:/ubuntu-home/johnnycash/lobbybar/src/instruments/src/utilities/devicewindowmessageproxyserver.js" />
@@ -836,16 +835,18 @@
       <jump line="105" column="0" filename="D:/Documents/Dropbox/Misc/projects/websocket/simpleclient.js" />
       <jump line="420" column="0" filename="C:/ubuntu-home/johnnycash/signalingserver/src/devices.js" />
       <jump line="104" column="18" filename="C:/ubuntu-home/johnnycash/signalingserver/src/devices.js" />
+      <jump line="147" column="8" filename="C:/ubuntu-home/johnnycash/signalingserver/src/devices.js" />
+      <jump line="15" column="31" filename="C:/ubuntu-home/johnnycash/signalingserver/test/fakewebsocketclient.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>${academicPrefix}</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkvLyBuZXZlciBzZW50IGEgY2xvc2UgZXZlbnQgb24gYSBzb2NrZXQK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">c29ja2V0IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZWVyXD4=</text>
@@ -854,31 +855,31 @@
         <text encoding="base64">CQljb25zdCBtYWMgPSB0aGlzLl9zb2NrZXRUb01hY0FkZHJlc3NNYXAuZ2V0KHdlYnNvY2tldCk7CgkJaWYgKG1hYyA9PT0gdW5kZWZpbmVkKSB7CgkJCS8vIHRoaXMgc2hvdWxkIG5ldmVyIGhhcHBlbi4gQnV0IGl0IGRpZCBkdXJpbmcgdGVzdGluZwoJCQkvLyBzbyBpJ20gYmVpbmcgcGFyYW5vaWQuCgkJCXJldHVybjsKCQl9CgkJdGhpcy5fc29ja2V0VG9NYWNBZGRyZXNzTWFwLmRlbGV0ZSh3ZWJzb2NrZXQpOwoKCQljb25zdCBjYWNoZSA9IHRoaXMuX21hY1RvRGV2aWNlQ2FjaGVEaWN0aW9uYXJ5W21hY107CgkJaWYgKGNhY2hlID09PSB1bmRlZmluZWQpIHsKCQkJLy8gdGhpcyBzaG91bGQgbmV2ZXIgaGFwcGVuLiBCdXQgaXQgZGlkIGR1cmluZyB0ZXN0aW5nCgkJCS8vIHNvIGknbSBiZWluZyBwYXJhbm9pZC4KCQkJcmV0dXJuOwoJCX0KCgkJY29uc29sZS5sb2coYGNsZWFuIHVwIHJlc291cmNlcyBmb3IgJHtjYWNoZS5pZH1gKTsKCQlkZWxldGUgdGhpcy5fbWFjVG9EZXZpY2VDYWNoZURpY3Rpb25hcnlbbWFjXTsKCQlkZWxldGUgdGhpcy5fZGV2aWNlSURzW2NhY2hlLmlkXTsKCQl0aGlzLl9ncmFjZVBlcmlvZENhY2hlLmFkZFRvQ2FjaGUoY2FjaGUpOwoJCWNvbnNvbGUubG9nKHRoaXMudG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkvLyBuZXZlciBzZW50IGEgY2xvc2UgZXZlbnQgb24gYSBzb2NrZXQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlyZXR1cm47Cg==</text>
+        <text encoding="base64">CQkJCS8vIENPTk5FQ1RJTkcJMAlUaGUgY29ubmVjdGlvbiBpcyBub3QgeWV0IG9wZW4uCgkJCQkvLyBPUEVOCTEJVGhlIGNvbm5lY3Rpb24gaXMgb3BlbiBhbmQgcmVhZHkgdG8gY29tbXVuaWNhdGUuCgkJCQkvLyBDTE9TSU5HCTIJVGhlIGNvbm5lY3Rpb24gaXMgaW4gdGhlIHByb2Nlc3Mgb2YgY2xvc2luZy4KCQkJCS8vIENMT1NFRAkzCVRoZSBjb25uZWN0aW9uIGlzIGNsb3NlZC4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkvLyBkZWxldGUgdGhpcy5fbWFjVG9EZXZpY2VDYWNoZURpY3Rpb25hcnlbbWFjXTsKCQkvLyBkZWxldGUgdGhpcy5fZGV2aWNlSURzW2NhY2hlLmlkXTsKCQkvLyB0aGlzLl9ncmFjZVBlcmlvZENhY2hlLmFkZFRvQ2FjaGUoY2FjaGUpOwoJCS8vIGNvbnNvbGUubG9nKHRoaXMudG9TdHJpbmcoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkvLyBjb25zdCBtYWMgPSB0aGlzLl9zb2NrZXRUb01hY0FkZHJlc3NNYXAuZ2V0KHdlYnNvY2tldCk7CgkJLy8gaWYgKG1hYyA9PT0gdW5kZWZpbmVkKSB7CgkJLy8gCS8vIHRoaXMgc2hvdWxkIG5ldmVyIGhhcHBlbi4gQnV0IGl0IGRpZCBkdXJpbmcgdGVzdGluZwoJCS8vIAkvLyBzbyBpJ20gYmVpbmcgcGFyYW5vaWQuCgkJLy8gCXJldHVybjsKCQkvLyB9CgkJLy8gdGhpcy5fc29ja2V0VG9NYWNBZGRyZXNzTWFwLmRlbGV0ZSh3ZWJzb2NrZXQpOwoJCS8vCgkJLy8gY29uc3QgY2FjaGUgPSB0aGlzLl9tYWNUb0RldmljZUNhY2hlRGljdGlvbmFyeVttYWNdOwoJCS8vIGlmIChjYWNoZSA9PT0gdW5kZWZpbmVkKSB7CgkJLy8gCS8vIHRoaXMgc2hvdWxkIG5ldmVyIGhhcHBlbi4gQnV0IGl0IGRpZCBkdXJpbmcgdGVzdGluZwoJCS8vIAkvLyBzbyBpJ20gYmVpbmcgcGFyYW5vaWQuCgkJLy8gCXJldHVybjsKCQkvLyB9CgkJLy8KCQkvLyBjb25zb2xlLmxvZyhgY2xlYW4gdXAgcmVzb3VyY2VzIGZvciAke2NhY2hlLmlkfWApOwo=</text>
+        <text encoding="base64">CQlyZXR1cm47Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkvLyB0aGlzLl9tYWNUb0RldmljZUNhY2hlRGljdGlvbmFyeVttYWNdID0gY2FjaGVEYXRhOwoJCS8vIHRoaXMuX3NvY2tldFRvTWFjQWRkcmVzc01hcC5zZXQoY2FjaGVEYXRhLndlYnNvY2tldCwgbWFjKTsKCQkvLyB0aGlzLl9kZXZpY2VJRHNbaWRdID0gY2FjaGVEYXRhOwoK</text>
+        <text encoding="base64">CQkvLyBkZWxldGUgdGhpcy5fbWFjVG9EZXZpY2VDYWNoZURpY3Rpb25hcnlbbWFjXTsKCQkvLyBkZWxldGUgdGhpcy5fZGV2aWNlSURzW2NhY2hlLmlkXTsKCQkvLyB0aGlzLl9ncmFjZVBlcmlvZENhY2hlLmFkZFRvQ2FjaGUoY2FjaGUpOwoJCS8vIGNvbnNvbGUubG9nKHRoaXMudG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCX07Cg==</text>
+        <text encoding="base64">CQkvLyBjb25zdCBtYWMgPSB0aGlzLl9zb2NrZXRUb01hY0FkZHJlc3NNYXAuZ2V0KHdlYnNvY2tldCk7CgkJLy8gaWYgKG1hYyA9PT0gdW5kZWZpbmVkKSB7CgkJLy8gCS8vIHRoaXMgc2hvdWxkIG5ldmVyIGhhcHBlbi4gQnV0IGl0IGRpZCBkdXJpbmcgdGVzdGluZwoJCS8vIAkvLyBzbyBpJ20gYmVpbmcgcGFyYW5vaWQuCgkJLy8gCXJldHVybjsKCQkvLyB9CgkJLy8gdGhpcy5fc29ja2V0VG9NYWNBZGRyZXNzTWFwLmRlbGV0ZSh3ZWJzb2NrZXQpOwoJCS8vCgkJLy8gY29uc3QgY2FjaGUgPSB0aGlzLl9tYWNUb0RldmljZUNhY2hlRGljdGlvbmFyeVttYWNdOwoJCS8vIGlmIChjYWNoZSA9PT0gdW5kZWZpbmVkKSB7CgkJLy8gCS8vIHRoaXMgc2hvdWxkIG5ldmVyIGhhcHBlbi4gQnV0IGl0IGRpZCBkdXJpbmcgdGVzdGluZwoJCS8vIAkvLyBzbyBpJ20gYmVpbmcgcGFyYW5vaWQuCgkJLy8gCXJldHVybjsKCQkvLyB9CgkJLy8KCQkvLyBjb25zb2xlLmxvZyhgY2xlYW4gdXAgcmVzb3VyY2VzIGZvciAke2NhY2hlLmlkfWApOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJLy8gQ09OTkVDVElORwkwCVRoZSBjb25uZWN0aW9uIGlzIG5vdCB5ZXQgb3Blbi4KCQkJLy8gT1BFTgkxCVRoZSBjb25uZWN0aW9uIGlzIG9wZW4gYW5kIHJlYWR5IHRvIGNvbW11bmljYXRlLgoJCQkvLyBDTE9TSU5HCTIJVGhlIGNvbm5lY3Rpb24gaXMgaW4gdGhlIHByb2Nlc3Mgb2YgY2xvc2luZy4KCQkJLy8gQ0xPU0VECTMJVGhlIGNvbm5lY3Rpb24gaXMgY2xvc2VkLgo=</text>
+        <text encoding="base64">CQkvLyB0aGlzLl9tYWNUb0RldmljZUNhY2hlRGljdGlvbmFyeVttYWNdID0gY2FjaGVEYXRhOwoJCS8vIHRoaXMuX3NvY2tldFRvTWFjQWRkcmVzc01hcC5zZXQoY2FjaGVEYXRhLndlYnNvY2tldCwgbWFjKTsKCQkvLyB0aGlzLl9kZXZpY2VJRHNbaWRdID0gY2FjaGVEYXRhOwoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJOwo=</text>
+        <text encoding="base64">CQkJCX07Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJfQo=</text>
+        <text encoding="base64">CQkJLy8gQ09OTkVDVElORwkwCVRoZSBjb25uZWN0aW9uIGlzIG5vdCB5ZXQgb3Blbi4KCQkJLy8gT1BFTgkxCVRoZSBjb25uZWN0aW9uIGlzIG9wZW4gYW5kIHJlYWR5IHRvIGNvbW11bmljYXRlLgoJCQkvLyBDTE9TSU5HCTIJVGhlIGNvbm5lY3Rpb24gaXMgaW4gdGhlIHByb2Nlc3Mgb2YgY2xvc2luZy4KCQkJLy8gQ0xPU0VECTMJVGhlIGNvbm5lY3Rpb24gaXMgY2xvc2VkLgo=</text>
       </register>
       <register name=":" type="4">
         <text>/highlight</text>
