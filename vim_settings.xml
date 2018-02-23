@@ -252,6 +252,13 @@
         <mark key="." line="120" column="155" />
         <mark key="^" line="120" column="155" />
       </file>
+      <file name="C:/github/blog/content/post/2018-02-21-nodejs-hangs-timers-test.md" timestamp="1519388328642">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="51" column="3" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
+        <mark key="^" line="52" column="0" />
+      </file>
       <file name="C:/ubuntu-home/johnnycash/signalingserver/src/deviceroute.js" timestamp="1518793125883">
         <mark key="[" line="50" column="30" />
         <mark key="]" line="50" column="45" />
@@ -406,7 +413,7 @@
         <mark key="^" line="1" column="26" />
         <mark key="." line="1" column="26" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Misc/projects/mocha-hang/test/test1.js" timestamp="1519216561368">
+      <file name="$USER_HOME$/Dropbox/Misc/projects/mocha-hang/test/test1.js" timestamp="1519388065229">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="47" column="24" />
         <mark key="." line="47" column="24" />
@@ -736,7 +743,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="114" column="0" filename="D:/Dropbox/Misc/projects/dotfiles-for-wsl/script/bootstrap.sh" />
       <jump line="14" column="78" filename="D:/Dropbox/Misc/projects/dotfiles-for-wsl/script/install.sh" />
       <jump line="29" column="0" filename="D:/Dropbox/Misc/projects/dotfiles-for-wsl/configure.sh" />
       <jump line="48" column="0" filename="D:/Dropbox/Misc/projects/dotfiles-for-wsl/configure.sh" />
@@ -836,49 +842,50 @@
       <jump line="7" column="0" filename="D:/Documents/Dropbox/Misc/projects/websocket/simpleclient.js" />
       <jump line="53" column="0" filename="D:/Documents/Dropbox/Misc/projects/websocket/simpleclient.js" />
       <jump line="105" column="0" filename="D:/Documents/Dropbox/Misc/projects/websocket/simpleclient.js" />
+      <jump line="16" column="0" filename="C:/github/blog/content/post/2018-02-21-nodejs-hangs-timers-test.md" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>${academicPrefix}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>lalala</text>
+        <text>hanging</text>
       </register>
       <register name="-" type="4">
-        <text>lalala</text>
+        <text>hanging</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZWVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgcG9ydCA9ICcxMzMzJzsK</text>
+        <text encoding="base64">YGBgCmRlc2NyaWJlKCdtb2NoYSBoYW5nJywgKCkgPT4gewoJbGV0IGI7CgliZWZvcmVFYWNoKCgpID0+IHsKCQkvLyBiID0gbmV3IEJsYWgoKTsKCQkvLyB0aGlzLmNsb2NrID0gc2lub24udXNlRmFrZVRpbWVycygpOwkJCgl9KTsKCglhZnRlckVhY2goKCkgPT4gewoJCS8vIHRoaXMuY2xvY2sucmVzdG9yZSgpOwoJCS8vIGlmKGIpewoJCS8vIAliLmNsZWFudXAoKTsKCQkvLyB9Cgl9KTsKCglpdCgnc2hvdWxkIHRpbWUgb3V0IGFmdGVyIDUwMCBtcycsICgpID0+IHsKCQlsZXQgdGltZWRPdXQgPSBmYWxzZTsKCgkJY29uc3QgaW50ZXJ2YWwgPSAxMDAwOwoJCWNvbnN0IHJ1biA9ICgpID0+IHsKCQkJY29uc29sZS5sb2coJ2ltIGluIHRoZSB0ZXN0Jyk7CgkJCXNldFRpbWVvdXQocnVuLCBpbnRlcnZhbCk7CgkJfTsKCQlzZXRUaW1lb3V0KHJ1biwgaW50ZXJ2YWwpOwoJCWV4cGVjdCh0aW1lZE91dCkuYmUuZmFsc2U7CgkJLy8gdGhpcy5jbG9jay50aWNrKDUxMCk7CgkJLy8gZXhwZWN0KHRpbWVkT3V0KS5iZS50cnVlOwoJCS8vIHRoaXMuY2xvY2sudGljaygxNTAwKTsKCX0pOwp9KTsKYGBgCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkvLyBzZXRUaW1lb3V0KCgpID0+IHsKCQkvLyAJdGltZWRPdXQgPSB0cnVlOwoJCS8vIAljb25zb2xlLmxvZygnaW0gaW4gdGhlIHRlc3QnKTsKCQkvLyB9LCA1MDApOwo=</text>
+        <text encoding="base64">CQljb25zdCBpbnRlcnZhbCA9IDEwMDA7CgkJY29uc3QgcnVuID0gKCkgPT4gewoJCQljb25zb2xlLmxvZygnaW0gaW4gdGhlIHRlc3QnKTsKCQkJc2V0VGltZW91dChydW4sIGludGVydmFsKTsKCQl9OwoJCXNldFRpbWVvdXQocnVuLCBpbnRlcnZhbCk7CgkJZXhwZWN0KHRpbWVkT3V0KS5iZS5mYWxzZTsKCQkvLyB0aGlzLmNsb2NrLnRpY2soNTEwKTsKCQkvLyBleHBlY3QodGltZWRPdXQpLmJlLnRydWU7CgkJLy8gdGhpcy5jbG9jay50aWNrKDE1MDApOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlyZXR1cm4gdHJ1ZTsK</text>
+        <text encoding="base64">CQlsZXQgdGltZWRPdXQgPSBmYWxzZTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gCXZhciBkID0gbmV3IERldmljZUJhc2UoJycsIHVybCk7Ci8vIAlkLmNvbm5lY3QoKTsKLy8gCWQuY2xvc2VBc3luYygpOwo=</text>
+        <text encoding="base64">CWFmdGVyRWFjaCgoKSA9PiB7CgkJLy8gdGhpcy5jbG9jay5yZXN0b3JlKCk7CgkJLy8gaWYoYil7CgkJLy8gCWIuY2xlYW51cCgpOwoJCS8vIH0KCX0pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQl0aGlzLndlYnNvY2tldC5zZW5kKCdib28nKTsK</text>
+        <text encoding="base64">CWNsZWFudXAoKSB7CgkJY29uc29sZS5sb2coJ2NsZWFudXAgd2FzIGNhbGxlZCcpOwoJCXRoaXMuc3RvcENsZWFudXAgPSB0cnVlOwoJfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQl0aGlzLndlYnNvY2tldC5vbignbWVzc2FnZScsIChkYXRhKSA9PiB7CgkJCWNvbnNvbGUubG9nKGBkYXRhOiAke2RhdGF9YCk7CgkJCXRoaXMud2Vic29ja2V0LnNlbmQoJ2hlbGxvIGZyb20gc2VuZCcpOwoJCX0pOwo=</text>
+        <text encoding="base64">CQkJfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCXRoaXMud2Vic29ja2V0LnNlbmQoJ2hpJyk7Cg==</text>
+        <text encoding="base64">CQkJaWYgKCF0aGlzLnN0b3BDbGVhbnVwKSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dmFyIGQxID0gbmV3IERldmljZUJhc2UoJycsIHVybCk7CmQxLmRldmljZUluZm9Db21tYW5kOwo=</text>
+        <text encoding="base64">CQkvLyB0aGlzLmNsb2NrID0gc2lub24udXNlRmFrZVRpbWVycygpOwkJCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWF3YWl0IGQub3BlbkFzeW5jKCk7Cg==</text>
+        <text encoding="base64">VGhlcmUgd2FzIGEgdGltZXIgcnVubmluZyBpbiB0aGUgY2xhc3MgdGhhdCB3b3VsZCBjbGVhbiB1cCBzb21lIHJlc291cmNlcyBpbiAKcmVndWxhciBpbnRlcnZhbHMuCgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlhd2FpdCB0aGlzLl9vcGVuQXN5bmMoKTsK</text>
+        <text encoding="base64">CQkvLyBzZXRUaW1lb3V0KCgpID0+IHsKCQkvLyAJdGltZWRPdXQgPSB0cnVlOwoJCS8vIAljb25zb2xlLmxvZygnaW0gaW4gdGhlIHRlc3QnKTsKCQkvLyB9LCA1MDApOwo=</text>
       </register>
       <register name=":" type="4">
         <text>/highlight</text>
