@@ -9,11 +9,11 @@
         <mark key="." line="8" column="1" />
         <mark key="^" line="8" column="1" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/src/devices.js" timestamp="1519399512091">
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/src/devices.js" timestamp="1519401186090">
         <mark key="'" line="420" column="0" />
-        <mark key="[" line="178" column="102" />
-        <mark key="]" line="179" column="51" />
-        <mark key="." line="179" column="51" />
+        <mark key="[" line="92" column="29" />
+        <mark key="]" line="92" column="30" />
+        <mark key="." line="92" column="30" />
         <mark key="^" line="179" column="51" />
       </file>
       <file name="C:/ubuntu/sfp/signaling-server/src/leasetime.js" timestamp="1518727606068">
@@ -603,7 +603,7 @@
         <mark key="." line="3" column="61" />
         <mark key="^" line="3" column="61" />
       </file>
-      <file name="/JavaScript Console" timestamp="1519399513800">
+      <file name="/JavaScript Console" timestamp="1519399789276">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="^" line="0" column="7" />
