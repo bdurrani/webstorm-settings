@@ -81,10 +81,11 @@
         <mark key="." line="907" column="136" />
         <mark key="^" line="907" column="136" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/ecosystem.config.js" timestamp="1519674914773">
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/ecosystem.config.js" timestamp="1519676854194">
         <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
+        <mark key="]" line="17" column="46" />
         <mark key="." line="16" column="0" />
+        <mark key="^" line="30" column="31" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/selenium/readme.md" timestamp="1516308885054">
         <mark key="[" line="11" column="0" />
@@ -158,8 +159,11 @@
         <mark key="^" line="38" column="32" />
         <mark key="." line="38" column="32" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/.gitignore" timestamp="1519675513584">
-        <mark key="[" line="5" column="12" />
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/.gitignore" timestamp="1519676490878">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="8" column="3" />
+        <mark key="^" line="8" column="3" />
+        <mark key="." line="8" column="3" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/karma.conf.js" timestamp="1516395275446">
         <mark key="[" line="140" column="38" />
@@ -527,9 +531,6 @@
         <mark key="^" line="48" column="2" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="D:/Documents/Dropbox/Misc/projects/websocket/node_modules/client-runner.js" timestamp="1518965492212">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="C:/ubuntu-home/johnnycash/signalingserver/README.md" timestamp="1519670607992">
         <mark key="[" line="108" column="3" />
         <mark key="]" line="108" column="3" />
@@ -684,6 +685,12 @@
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="38" />
         <mark key="." line="10" column="73" />
+      </file>
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/package.json" timestamp="1519676340307">
+        <mark key="[" line="11" column="20" />
+        <mark key="]" line="11" column="21" />
+        <mark key="^" line="11" column="21" />
+        <mark key="." line="11" column="21" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/signalingserver/src/utilities.js" timestamp="1518791969524">
         <mark key="[" line="27" column="0" />
@@ -871,7 +878,7 @@
         <text>${academicPrefix}</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJZGVwZW5kZW5jaWVzOiBbJ3BtMi1sb2dyb3RhdGUnXSwK</text>
+        <text encoding="base64">CQkJb3V0X2ZpbGU6ICcuL2xvZ3MvY29tYmluZWQubG9nJywKCQkJZXJyb3JfZmlsZTogJy4vbG9ncy9jb21iaW5lZC5sb2cnLAo=</text>
       </register>
       <register name="-" type="4">
         <text>&quot;</text>
@@ -880,7 +887,7 @@
         <text encoding="base64">XDxwZWVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJZGVwZW5kZW5jaWVzOiBbJ3BtMi1sb2dyb3RhdGUnXSwK</text>
+        <text encoding="base64">CQkJb3V0X2ZpbGU6ICcuL2xvZ3MvY29tYmluZWQubG9nJywKCQkJZXJyb3JfZmlsZTogJy4vbG9ncy9jb21iaW5lZC5sb2cnLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkJZGVwZW5kZW5jaWVzOiBbJ3BtMi1sb2dyb3RhdGUnXSwK</text>
