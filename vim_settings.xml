@@ -159,8 +159,8 @@
         <mark key="^" line="38" column="32" />
         <mark key="." line="38" column="32" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/.gitignore" timestamp="1519676490878">
-        <mark key="[" line="7" column="0" />
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/.gitignore" timestamp="1519679109167">
+        <mark key="[" line="8" column="3" />
         <mark key="]" line="8" column="3" />
         <mark key="^" line="8" column="3" />
         <mark key="." line="8" column="3" />
@@ -689,10 +689,10 @@
         <mark key="]" line="34" column="38" />
         <mark key="." line="10" column="73" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/package.json" timestamp="1519678014998">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/package.json" timestamp="1519678173696">
+        <mark key="[" line="10" column="112" />
+        <mark key="]" line="10" column="112" />
+        <mark key="." line="10" column="112" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/signalingserver/src/utilities.js" timestamp="1518791969524">
         <mark key="[" line="27" column="0" />
@@ -882,11 +882,11 @@
       <register name="a" type="4">
         <text>${academicPrefix}</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJwb3N0aW5zdGFsbCI6ICIucG9zdGluc3RhbGwuanMiCg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZWVyXD4=</text>
