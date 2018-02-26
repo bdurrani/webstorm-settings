@@ -9,12 +9,12 @@
         <mark key="." line="8" column="1" />
         <mark key="^" line="8" column="1" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/src/devices.js" timestamp="1519657595160">
-        <mark key="'" line="172" column="0" />
-        <mark key="[" line="98" column="83" />
-        <mark key="]" line="98" column="83" />
-        <mark key="." line="98" column="83" />
-        <mark key="^" line="98" column="83" />
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/src/devices.js" timestamp="1519662807867">
+        <mark key="'" line="132" column="41" />
+        <mark key="[" line="155" column="12" />
+        <mark key="]" line="155" column="21" />
+        <mark key="." line="155" column="21" />
+        <mark key="^" line="155" column="21" />
       </file>
       <file name="C:/ubuntu/sfp/signaling-server/src/leasetime.js" timestamp="1518727606068">
         <mark key="[" line="92" column="27" />
@@ -602,6 +602,13 @@
         <mark key="^" line="134" column="4" />
         <mark key="." line="181" column="0" />
       </file>
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/src/clientroute.js" timestamp="1519662722530">
+        <mark key="'" line="33" column="82" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="32" />
+        <mark key="." line="14" column="15" />
+        <mark key="^" line="14" column="15" />
+      </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/src/instruments/src/bode/components/bode-analyzer/bode-analyzer.js" timestamp="1517412192962">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="72" />
@@ -643,8 +650,8 @@
         <mark key="]" line="3" column="72" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/src/server.js" timestamp="1519660791830">
-        <mark key="'" line="78" column="30" />
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/src/server.js" timestamp="1519662610504">
+        <mark key="'" line="86" column="0" />
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="32" />
         <mark key="^" line="72" column="48" />
@@ -741,10 +748,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="114" column="0" filename="D:/Dropbox/Misc/projects/dotfiles-for-wsl/script/bootstrap.sh" />
-      <jump line="14" column="78" filename="D:/Dropbox/Misc/projects/dotfiles-for-wsl/script/install.sh" />
-      <jump line="29" column="0" filename="D:/Dropbox/Misc/projects/dotfiles-for-wsl/configure.sh" />
-      <jump line="48" column="0" filename="D:/Dropbox/Misc/projects/dotfiles-for-wsl/configure.sh" />
       <jump line="33" column="23" filename="C:/ubuntu-home/johnnycash/lobbybar/src/instruments/src/utilities/devicewindowmessageproxy.js" />
       <jump line="24" column="28" filename="C:/ubuntu-home/johnnycash/lobbybar/src/instruments/src/utilities/devicewindowmessageproxy.js" />
       <jump line="103" column="25" filename="C:/ubuntu-home/johnnycash/lobbybar/src/instruments/src/utilities/devicewindowmessageproxyserver.js" />
@@ -841,16 +844,20 @@
       <jump line="7" column="0" filename="D:/Documents/Dropbox/Misc/projects/websocket/simpleclient.js" />
       <jump line="53" column="0" filename="D:/Documents/Dropbox/Misc/projects/websocket/simpleclient.js" />
       <jump line="105" column="0" filename="D:/Documents/Dropbox/Misc/projects/websocket/simpleclient.js" />
+      <jump line="44" column="23" filename="C:/ubuntu-home/johnnycash/signalingserver/src/server.js" />
+      <jump line="86" column="0" filename="C:/ubuntu-home/johnnycash/signalingserver/src/server.js" />
+      <jump line="33" column="82" filename="C:/ubuntu-home/johnnycash/signalingserver/src/clientroute.js" />
+      <jump line="132" column="41" filename="C:/ubuntu-home/johnnycash/signalingserver/src/devices.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>${academicPrefix}</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgbG9nID0gcmVxdWlyZSgnLi9sb2dnZXInKTsK</text>
+      <register name="&quot;" type="4">
+        <text>console.log</text>
       </register>
       <register name="-" type="4">
-        <text>from</text>
+        <text>console.log</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZWVyXD4=</text>
