@@ -602,11 +602,6 @@
         <mark key="^" line="134" column="4" />
         <mark key="." line="181" column="0" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/src/clientroute.js" timestamp="1519658710572">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="40" column="9" />
-        <mark key="." line="38" column="0" />
-      </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/src/instruments/src/bode/components/bode-analyzer/bode-analyzer.js" timestamp="1517412192962">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="72" />
@@ -648,12 +643,12 @@
         <mark key="]" line="3" column="72" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/src/server.js" timestamp="1518793786114">
-        <mark key="'" line="76" column="30" />
-        <mark key="[" line="70" column="49" />
-        <mark key="]" line="70" column="48" />
-        <mark key="^" line="70" column="48" />
-        <mark key="." line="70" column="48" />
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/src/server.js" timestamp="1519660791830">
+        <mark key="'" line="78" column="30" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="32" />
+        <mark key="^" line="72" column="48" />
+        <mark key="." line="72" column="48" />
       </file>
       <file name="C:/ubuntu/sfp/lobbybar/selenium/test/browserStartup.js" timestamp="1516646663970">
         <mark key="[" line="16" column="86" />
@@ -852,7 +847,7 @@
         <text>${academicPrefix}</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQlpZiAoc29ja2V0cyAmJiBzb2NrZXRzLmxlbmd0aCA9PT0gMSAmJiBPYmplY3Qua2V5cyhzb2NrZXRzWzBdKS5sZW5ndGggPT0gMCkgewoJCQljb25zb2xlLmxvZyhgbm8gc29ja2V0IGZvdW5kIGZvciBpZCAke3BheWxvYWQuYWRkcmVzc31gKTsKCQl9Cg==</text>
+        <text encoding="base64">Y29uc3QgbG9nID0gcmVxdWlyZSgnLi9sb2dnZXInKTsK</text>
       </register>
       <register name="-" type="4">
         <text>from</text>
@@ -861,7 +856,7 @@
         <text encoding="base64">XDxwZWVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CWl0KCd0ZXN0aW5nIGJsYWhzIG1ldGhvZCcsICgpID0+IHsgCgkJYi5tZXRob2RVbmRlclRlc3QoKTsKCQlleHBlY3Qoc29tZXRoaW5nKS50by5iZS50cnVlOyAKCX0pOwo=</text>
+        <text encoding="base64">Y29uc3QgbG9nID0gcmVxdWlyZSgnLi9sb2dnZXInKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQlpZiAoc29ja2V0cyAmJiBzb2NrZXRzLmxlbmd0aCA9PT0gMSAmJiBPYmplY3Qua2V5cyhzb2NrZXRzWzBdKS5sZW5ndGggPT0gMCkgewoJCQljb25zb2xlLmxvZyhgbm8gc29ja2V0IGZvdW5kIGZvciBpZCAke3BheWxvYWQuYWRkcmVzc31gKTsKCQl9Cg==</text>
