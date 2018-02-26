@@ -28,8 +28,11 @@
         <mark key="^" line="8" column="48" />
         <mark key="." line="8" column="48" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Misc/projects/websocket/package.json" timestamp="1519607195653">
+      <file name="$USER_HOME$/Dropbox/Misc/projects/websocket/package.json" timestamp="1519610242203">
         <mark key="[" line="8" column="58" />
+        <mark key="]" line="13" column="25" />
+        <mark key="^" line="13" column="25" />
+        <mark key="." line="13" column="25" />
       </file>
       <file name="D:/deletethis/state-machine-test/promisetest.js" timestamp="1518015792785">
         <mark key="[" line="15" column="3" />
@@ -255,10 +258,10 @@
         <mark key="]" line="1" column="52" />
         <mark key="." line="1" column="52" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Misc/projects/websocket/client-runner.js" timestamp="1519087040879">
-        <mark key="[" line="7" column="14" />
-        <mark key="]" line="7" column="15" />
-        <mark key="." line="7" column="15" />
+      <file name="$USER_HOME$/Dropbox/Misc/projects/websocket/client-runner.js" timestamp="1519610320263">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
         <mark key="^" line="7" column="15" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/signalingserver/eslintrc.js" timestamp="1518186187853">
@@ -864,8 +867,8 @@
       <register name="a" type="4">
         <text>${academicPrefix}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>COMMON_VARIABLE</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkvLyBQcm9taXNlLmFsbChwcm9taXNlcykudGhlbihyZXMgPT4gewoJCS8vIAljb25zb2xlLmxvZygnYWxsIHByb21pc2VzIGFyZSBhd2Vzb21lJyk7CgkJLy8gfSwgKGVycikgPT4gewoJCS8vIAljb25zb2xlLmxvZygnc29tZXRoaW5nIHdyb25nIGhlcmUnKTsKCQkvLyB9KTsKCQkvLyAvLyBhd2FpdCBkLmNsb3NlQXN5bmMoKTsK</text>
       </register>
       <register name="-" type="4">
         <text>COMMON_VARIABLE</text>
@@ -877,34 +880,34 @@
         <text encoding="base64">Y29uc29sZS5sb2coYENPTU1PTl9WQVJJQUJMRTogJHtwcm9jZXNzLmVudi5DT01NT05fVkFSSUFCTEV9YCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkvLyBTZWNvbmQgYXBwbGljYXRpb24KCQl7CgkJCW5hbWU6ICdXRUInLAoJCQlzY3JpcHQ6ICd3ZWIuanMnCgkJfQo=</text>
+        <text encoding="base64">CQkvLyBQcm9taXNlLmFsbChwcm9taXNlcykudGhlbihyZXMgPT4gewoJCS8vIAljb25zb2xlLmxvZygnYWxsIHByb21pc2VzIGFyZSBhd2Vzb21lJyk7CgkJLy8gfSwgKGVycikgPT4gewoJCS8vIAljb25zb2xlLmxvZygnc29tZXRoaW5nIHdyb25nIGhlcmUnKTsKCQkvLyB9KTsKCQkvLyAvLyBhd2FpdCBkLmNsb3NlQXN5bmMoKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkvLyBzZXRUaW1lb3V0KCgpID0+IHsKCQkvLyAJdGltZWRPdXQgPSB0cnVlOwoJCS8vIAljb25zb2xlLmxvZygnaW0gaW4gdGhlIHRlc3QnKTsKCQkvLyB9LCA1MDApOwo=</text>
+        <text encoding="base64">CQkvLyBTZWNvbmQgYXBwbGljYXRpb24KCQl7CgkJCW5hbWU6ICdXRUInLAoJCQlzY3JpcHQ6ICd3ZWIuanMnCgkJfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlyZXR1cm4gdHJ1ZTsK</text>
+        <text encoding="base64">CQkvLyBzZXRUaW1lb3V0KCgpID0+IHsKCQkvLyAJdGltZWRPdXQgPSB0cnVlOwoJCS8vIAljb25zb2xlLmxvZygnaW0gaW4gdGhlIHRlc3QnKTsKCQkvLyB9LCA1MDApOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gCXZhciBkID0gbmV3IERldmljZUJhc2UoJycsIHVybCk7Ci8vIAlkLmNvbm5lY3QoKTsKLy8gCWQuY2xvc2VBc3luYygpOwo=</text>
+        <text encoding="base64">CQlyZXR1cm4gdHJ1ZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQl0aGlzLndlYnNvY2tldC5zZW5kKCdib28nKTsK</text>
+        <text encoding="base64">Ly8gCXZhciBkID0gbmV3IERldmljZUJhc2UoJycsIHVybCk7Ci8vIAlkLmNvbm5lY3QoKTsKLy8gCWQuY2xvc2VBc3luYygpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQl0aGlzLndlYnNvY2tldC5vbignbWVzc2FnZScsIChkYXRhKSA9PiB7CgkJCWNvbnNvbGUubG9nKGBkYXRhOiAke2RhdGF9YCk7CgkJCXRoaXMud2Vic29ja2V0LnNlbmQoJ2hlbGxvIGZyb20gc2VuZCcpOwoJCX0pOwo=</text>
+        <text encoding="base64">CQl0aGlzLndlYnNvY2tldC5zZW5kKCdib28nKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCXRoaXMud2Vic29ja2V0LnNlbmQoJ2hpJyk7Cg==</text>
+        <text encoding="base64">CQl0aGlzLndlYnNvY2tldC5vbignbWVzc2FnZScsIChkYXRhKSA9PiB7CgkJCWNvbnNvbGUubG9nKGBkYXRhOiAke2RhdGF9YCk7CgkJCXRoaXMud2Vic29ja2V0LnNlbmQoJ2hlbGxvIGZyb20gc2VuZCcpOwoJCX0pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dmFyIGQxID0gbmV3IERldmljZUJhc2UoJycsIHVybCk7CmQxLmRldmljZUluZm9Db21tYW5kOwo=</text>
+        <text encoding="base64">CQkJCXRoaXMud2Vic29ja2V0LnNlbmQoJ2hpJyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWF3YWl0IGQub3BlbkFzeW5jKCk7Cg==</text>
+        <text encoding="base64">dmFyIGQxID0gbmV3IERldmljZUJhc2UoJycsIHVybCk7CmQxLmRldmljZUluZm9Db21tYW5kOwo=</text>
       </register>
       <register name=":" type="4">
         <text>/highlight</text>
