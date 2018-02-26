@@ -81,11 +81,10 @@
         <mark key="." line="907" column="136" />
         <mark key="^" line="907" column="136" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/ecosystem.config.js" timestamp="1519672898531">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="^" line="16" column="43" />
-        <mark key="." line="30" column="0" />
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/ecosystem.config.js" timestamp="1519674914773">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/selenium/readme.md" timestamp="1516308885054">
         <mark key="[" line="11" column="0" />
@@ -158,6 +157,9 @@
         <mark key="]" line="38" column="32" />
         <mark key="^" line="38" column="32" />
         <mark key="." line="38" column="32" />
+      </file>
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/.gitignore" timestamp="1519675513584">
+        <mark key="[" line="5" column="12" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/karma.conf.js" timestamp="1516395275446">
         <mark key="[" line="140" column="38" />
@@ -525,6 +527,9 @@
         <mark key="^" line="48" column="2" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="D:/Documents/Dropbox/Misc/projects/websocket/node_modules/client-runner.js" timestamp="1518965492212">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/ubuntu-home/johnnycash/signalingserver/README.md" timestamp="1519670607992">
         <mark key="[" line="108" column="3" />
         <mark key="]" line="108" column="3" />
@@ -884,28 +889,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gNiBnYiBsaW1pdCwgYWxsb3cgcmVtb3RlIGRlYnVnZ2luZyBhdCBwb3J0IDcwMDAKbm9kZV9hcmdzOiBbJy0tbWF4LW9sZC1zcGFjZS1zaXplPTYxNDQnLCAnLS1pbnNwZWN0PTcwMDAnXSwK</text>
+        <text encoding="base64">CQkJZGVwZW5kZW5jaWVzOiBbJ3BtMi1sb2dyb3RhdGUnXSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJbG9nLmVycm9yKCd3ZXJlIGFsbCBnb2luZyB0byBkaWUnKTsK</text>
+        <text encoding="base64">Ly8gNiBnYiBsaW1pdCwgYWxsb3cgcmVtb3RlIGRlYnVnZ2luZyBhdCBwb3J0IDcwMDAKbm9kZV9hcmdzOiBbJy0tbWF4LW9sZC1zcGFjZS1zaXplPTYxNDQnLCAnLS1pbnNwZWN0PTcwMDAnXSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bnBtIGluc3RhbGwgYnVueWFuIC1nCg==</text>
+        <text encoding="base64">CQkJbG9nLmVycm9yKCd3ZXJlIGFsbCBnb2luZyB0byBkaWUnKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CS8vIGxlZnQgdGhpcyBoZXJlIGluIGNhc2UgeW91IHN0aWxsIHdhbnQgdG8gc2VlIGNvbW1hbmQgbGluZSB1c2FnZQo=</text>
+        <text encoding="base64">bnBtIGluc3RhbGwgYnVueWFuIC1nCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlpZiAoc29ja2V0cyAmJiBzb2NrZXRzLmxlbmd0aCA9PT0gMSAmJiBPYmplY3Qua2V5cyhzb2NrZXRzWzBdKS5sZW5ndGggPT0gMCkgewoJCQljb25zb2xlLmxvZyhgbm8gc29ja2V0IGZvdW5kIGZvciBpZCAke3BheWxvYWQuYWRkcmVzc31gKTsKCQl9Cg==</text>
+        <text encoding="base64">CS8vIGxlZnQgdGhpcyBoZXJlIGluIGNhc2UgeW91IHN0aWxsIHdhbnQgdG8gc2VlIGNvbW1hbmQgbGluZSB1c2FnZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQljb25zb2xlLmxvZyhgbG9vayB1cCBzb2NrZXQgZm9yIGRldmljZSBpZCAke2RldmljZUlEfWApOwo=</text>
+        <text encoding="base64">CQlpZiAoc29ja2V0cyAmJiBzb2NrZXRzLmxlbmd0aCA9PT0gMSAmJiBPYmplY3Qua2V5cyhzb2NrZXRzWzBdKS5sZW5ndGggPT0gMCkgewoJCQljb25zb2xlLmxvZyhgbm8gc29ja2V0IGZvdW5kIGZvciBpZCAke3BheWxvYWQuYWRkcmVzc31gKTsKCQl9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZHJhZnQ6IHRydWUK</text>
+        <text encoding="base64">CQljb25zb2xlLmxvZyhgbG9vayB1cCBzb2NrZXQgZm9yIGRldmljZSBpZCAke2RldmljZUlEfWApOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWl0KCdzaG91bGQgdGltZSBvdXQgYWZ0ZXIgNTAwIG1zJywgKCkgPT4gewoJCWxldCB0aW1lZE91dCA9IGZhbHNlOwoKCQljb25zdCBpbnRlcnZhbCA9IDEwMDA7CgkJY29uc3QgcnVuID0gKCkgPT4gewoJCQljb25zb2xlLmxvZygnaW0gaW4gdGhlIHRlc3QnKTsKCQkJc2V0VGltZW91dChydW4sIGludGVydmFsKTsKCQl9OwoJCXNldFRpbWVvdXQocnVuLCBpbnRlcnZhbCk7CgkJZXhwZWN0KHRpbWVkT3V0KS5iZS5mYWxzZTsKCQkvLyB0aGlzLmNsb2NrLnRpY2soNTEwKTsKCQkvLyBleHBlY3QodGltZWRPdXQpLmJlLnRydWU7CgkJLy8gdGhpcy5jbG9jay50aWNrKDE1MDApOwoJfSk7Cg==</text>
+        <text encoding="base64">ZHJhZnQ6IHRydWUK</text>
       </register>
       <register name=":" type="4">
         <text>/highlight</text>
