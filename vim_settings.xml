@@ -28,6 +28,9 @@
         <mark key="^" line="8" column="48" />
         <mark key="." line="8" column="48" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Misc/projects/websocket/package.json" timestamp="1519607195653">
+        <mark key="[" line="8" column="58" />
+      </file>
       <file name="D:/deletethis/state-machine-test/promisetest.js" timestamp="1518015792785">
         <mark key="[" line="15" column="3" />
         <mark key="]" line="16" column="0" />
@@ -264,6 +267,13 @@
         <mark key="." line="120" column="155" />
         <mark key="^" line="120" column="155" />
       </file>
+      <file name="C:/github/blog/content/post/2018-02-21-nodejs-hangs-timers-test.md" timestamp="1519389357787">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="63" column="102" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
+        <mark key="^" line="64" column="0" />
+      </file>
       <file name="C:/ubuntu-home/johnnycash/signalingserver/src/deviceroute.js" timestamp="1518793125883">
         <mark key="[" line="50" column="30" />
         <mark key="]" line="50" column="45" />
@@ -281,6 +291,12 @@
         <mark key="]" line="5" column="33" />
         <mark key="^" line="3" column="113" />
         <mark key="." line="3" column="113" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Misc/projects/websocket/ecosystem.config.js" timestamp="1519606786202">
+        <mark key="[" line="14" column="39" />
+        <mark key="]" line="15" column="31" />
+        <mark key="^" line="15" column="31" />
+        <mark key="." line="15" column="31" />
       </file>
       <file name="C:/ubuntu/sfp/signaling-server/test/fakewebsocketclient.js" timestamp="1518705784427">
         <mark key="[" line="8" column="6" />
@@ -416,8 +432,8 @@
       <file name="$USER_HOME$/Dropbox/Misc/projects/mocha-hang/test/test1.js" timestamp="1519216561368">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="47" column="24" />
-        <mark key="^" line="47" column="24" />
         <mark key="." line="47" column="24" />
+        <mark key="^" line="47" column="24" />
       </file>
       <file name="C:/ubuntu/sfp/signaling-server/test/devicestests.js" timestamp="1518704922971">
         <mark key="'" line="121" column="19" />
@@ -506,11 +522,11 @@
         <mark key="^" line="14" column="31" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Misc/projects/websocket/server.js" timestamp="1519094874695">
-        <mark key="[" line="10" column="11" />
-        <mark key="]" line="10" column="13" />
-        <mark key="." line="10" column="13" />
-        <mark key="^" line="10" column="13" />
+      <file name="$USER_HOME$/Dropbox/Misc/projects/websocket/server.js" timestamp="1519606919733">
+        <mark key="[" line="7" column="36" />
+        <mark key="]" line="7" column="42" />
+        <mark key="." line="7" column="42" />
+        <mark key="^" line="7" column="42" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/src/instruments/bower.json" timestamp="1513091161151">
         <mark key="[" line="19" column="0" />
@@ -849,19 +865,22 @@
         <text>${academicPrefix}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>simpleclient.js</text>
+        <text>COMMON_VARIABLE</text>
       </register>
       <register name="-" type="4">
-        <text>simpleclient.js</text>
+        <text>COMMON_VARIABLE</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZWVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCUNPTU1PTl9WQVJJQUJMRTogJ3RydWUnLAo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2coYENPTU1PTl9WQVJJQUJMRTogJHtwcm9jZXNzLmVudi5DT01NT05fVkFSSUFCTEV9YCk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkvLyBTZWNvbmQgYXBwbGljYXRpb24KCQl7CgkJCW5hbWU6ICdXRUInLAoJCQlzY3JpcHQ6ICd3ZWIuanMnCgkJfQo=</text>
+      </register>
+      <register name="q" type="4">
+        <text />
       </register>
       <register name="2" type="2">
         <text encoding="base64">CQkvLyBzZXRUaW1lb3V0KCgpID0+IHsKCQkvLyAJdGltZWRPdXQgPSB0cnVlOwoJCS8vIAljb25zb2xlLmxvZygnaW0gaW4gdGhlIHRlc3QnKTsKCQkvLyB9LCA1MDApOwo=</text>
