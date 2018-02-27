@@ -611,13 +611,19 @@
         <mark key="^" line="134" column="4" />
         <mark key="." line="181" column="0" />
       </file>
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/src/clientroute.js" timestamp="1519744432275">
+        <mark key="[" line="41" column="25" />
+        <mark key="]" line="41" column="30" />
+        <mark key="^" line="41" column="30" />
+        <mark key="." line="41" column="30" />
+      </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/src/instruments/src/bode/components/bode-analyzer/bode-analyzer.js" timestamp="1517412192962">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="72" />
         <mark key="." line="3" column="61" />
         <mark key="^" line="3" column="61" />
       </file>
-      <file name="/JavaScript Console" timestamp="1519742406233">
+      <file name="/JavaScript Console" timestamp="1519743952530">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="^" line="0" column="7" />
@@ -859,17 +865,17 @@
       <register name="a" type="4">
         <text>${academicPrefix}</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJd2Vic29ja2V0LnRlcm1pbmF0ZSgpOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">bm8gc29ja2V0IGZvdW5kIGZvciA=</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">bm8gc29ja2V0IGZvdW5kIGZvciA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZWVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJd2Vic29ja2V0LnRlcm1pbmF0ZSgpOwo=</text>
+        <text encoding="base64">CQkJY29uc29sZS5sb2coYG5vIHNvY2tldCBmb3VuZCBmb3IgaWQgJHtwYXlsb2FkLmFkZHJlc3N9YCk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICJwb3N0aW5zdGFsbCI6ICIucG9zdGluc3RhbGwuanMiCg==</text>
