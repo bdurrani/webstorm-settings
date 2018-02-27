@@ -9,11 +9,11 @@
         <mark key="." line="8" column="1" />
         <mark key="^" line="8" column="1" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/src/devices.js" timestamp="1519742231632">
-        <mark key="[" line="147" column="0" />
-        <mark key="]" line="147" column="34" />
-        <mark key="^" line="158" column="18" />
-        <mark key="." line="147" column="0" />
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/src/devices.js" timestamp="1519766190844">
+        <mark key="[" line="154" column="25" />
+        <mark key="]" line="154" column="30" />
+        <mark key="^" line="154" column="30" />
+        <mark key="." line="154" column="30" />
       </file>
       <file name="C:/ubuntu/sfp/signaling-server/src/leasetime.js" timestamp="1518727606068">
         <mark key="[" line="92" column="27" />
@@ -611,12 +611,6 @@
         <mark key="^" line="134" column="4" />
         <mark key="." line="181" column="0" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/src/clientroute.js" timestamp="1519744432275">
-        <mark key="[" line="41" column="25" />
-        <mark key="]" line="41" column="30" />
-        <mark key="^" line="41" column="30" />
-        <mark key="." line="41" column="30" />
-      </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/src/instruments/src/bode/components/bode-analyzer/bode-analyzer.js" timestamp="1517412192962">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="72" />
@@ -866,10 +860,10 @@
         <text>${academicPrefix}</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">bm8gc29ja2V0IGZvdW5kIGZvciA=</text>
+        <text>mac</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bm8gc29ja2V0IGZvdW5kIGZvciA=</text>
+        <text>mac</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZWVyXD4=</text>
