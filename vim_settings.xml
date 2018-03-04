@@ -98,10 +98,10 @@
         <mark key="^" line="21" column="4" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Misc/projects/websocket/src/app.js" timestamp="1520130883817">
-        <mark key="[" line="51" column="33" />
-        <mark key="]" line="54" column="38" />
-        <mark key="." line="54" column="38" />
+      <file name="$USER_HOME$/Dropbox/Misc/projects/websocket/src/app.js" timestamp="1520133784691">
+        <mark key="[" line="51" column="32" />
+        <mark key="]" line="51" column="33" />
+        <mark key="." line="51" column="33" />
         <mark key="^" line="54" column="38" />
       </file>
       <file name="C:/ubuntu-home/dotfiles-for-wsl/vim/.vimrc" timestamp="1511448734536">
@@ -920,11 +920,11 @@
       <register name="a" type="4">
         <text>${academicPrefix}</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkvLyBUT0RPIHZlcmlmeSBpZAo=</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>incomign</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZWVyXD4=</text>
