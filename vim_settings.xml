@@ -220,11 +220,11 @@
         <mark key="." line="18" column="92" />
         <mark key="^" line="18" column="92" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Misc/projects/websocket/src/reserveIdTest.js" timestamp="1520132799558">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
-        <mark key="^" line="58" column="69" />
+      <file name="$USER_HOME$/Dropbox/Misc/projects/websocket/src/reserveIdTest.js" timestamp="1520195774815">
+        <mark key="[" line="17" column="44" />
+        <mark key="]" line="17" column="44" />
+        <mark key="." line="17" column="44" />
+        <mark key="^" line="17" column="44" />
       </file>
       <file name="C:/ubuntu/sfp/lobbybar/src/resources/gettingstarted.html" timestamp="1511802006357">
         <mark key="[" line="27" column="34" />
@@ -921,16 +921,16 @@
         <text>${academicPrefix}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>resolve</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>resolve</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZWVyXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>&quot;resources/fonts/RobotoMono/RobotoMono-Regular.ttf&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">CQkJCXRoaXMud2Vic29ja2V0Lm9uY2UoJ2Nsb3NlJywgcmVzb2x2ZSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkvLyBUT0RPIHZlcmlmeSBpZAo=</text>
