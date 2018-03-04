@@ -146,6 +146,12 @@
         <mark key="." line="204" column="55" />
         <mark key="^" line="204" column="55" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Misc/projects/streamtodisk/index.js" timestamp="1520200114768">
+        <mark key="[" line="20" column="29" />
+        <mark key="]" line="20" column="29" />
+        <mark key="." line="20" column="29" />
+        <mark key="^" line="20" column="29" />
+      </file>
       <file name="C:/ubuntu/sfp/signaling-server/test/graceperiodtests.js" timestamp="1518728427088">
         <mark key="[" line="38" column="24" />
         <mark key="]" line="38" column="32" />
@@ -920,47 +926,49 @@
       <register name="a" type="4">
         <text>${academicPrefix}</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJY29uc3QgdGVzdCA9IHRlc3RzW2ldOwo=</text>
+      <register name="&quot;" type="4">
+        <text>data</text>
       </register>
       <register name="-" type="4">
-        <text>700</text>
+        <text>data</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZWVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJY29uc3QgdGVzdCA9IHRlc3RzW2ldOwoJCQlhd2FpdCB1dGlsaXRpZXMuZGVsYXkoMzApOwo=</text>
+        <text encoding="base64">cmVhZHN0cmVhbS5vbignZGF0YScsIChkYXRhKSA9PnsKCWNvbnNvbGUubG9nKGRhdGEpOwp9KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJY29uc3QgdGVzdCA9IHRlc3RzW2ldOwo=</text>
+        <text encoding="base64">CXN0cmVhbS53cml0ZWwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJdGhpcy51cGRhdGVUZXN0U3RhdHVzKHRydWUsICcnKQo=</text>
+        <text encoding="base64">dmFyIHN0cmVhbSA9IGZzLmNyZWF0ZVdyaXRlU3RyZWFtKCdzb21lRmlsZS5qc29uJywgeyBmbGFncyA6ICd3JyB9KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkvLyB0aGlzLmNsb3NlUHJvbWlzZSA9ICgpID0+IHsKCQkvLyAJcmV0dXJuIG5ldyBQcm9taXNlKChyZXNvbHZlKSA9PiB7CgkJLy8gCQl0aGlzLndlYnNvY2tldC5vbmNlKCdjbG9zZScsIHJlc29sdmUpOwoJCS8vIAl9KTsKCQkvLyB9OwoK</text>
+        <text encoding="base64">Zm9yKGxldCBpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlmb3IgKGNvbnN0IFtpbmRleCwgZWxlbV0gb2YgYWxsZGV2aWNlcy5lbnRyaWVzKCkpIHsKCQkJdGVzdHMucHVzaChuZXcgUmVzZXJ2ZWRJZFRlc3QodXJsLCBlbGVtLCBpbmRleCkpOwoJCX0K</text>
+        <text encoding="base64">KTsK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQljb25zdCBudW1iZXJPZkRldmljZXMgPSA2MDA7Cg==</text>
+      <register name="5" type="4">
+        <text>angular.forEach(, function(value, key) {
+	
+}</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlsZXQgcGFzc0NvdW50ID0gMDsK</text>
+        <text encoding="base64">CQkJY29uc3QgdGVzdCA9IHRlc3RzW2ldOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">CQkJdGhpcy51cGRhdGVUZXN0U3RhdHVzKHRydWUsICcnKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQl0aGlzLmRldmljZSA9IE9iamVjdC5hc3NpZ24oZGV2aWNlLCB7IF9pbmRleDogaW5kZXggfSk7Cg==</text>
+        <text encoding="base64">CQkvLyB0aGlzLmNsb3NlUHJvbWlzZSA9ICgpID0+IHsKCQkvLyAJcmV0dXJuIG5ldyBQcm9taXNlKChyZXNvbHZlKSA9PiB7CgkJLy8gCQl0aGlzLndlYnNvY2tldC5vbmNlKCdjbG9zZScsIHJlc29sdmUpOwoJCS8vIAl9KTsKCQkvLyB9OwoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQl0aGlzLmRldmljZSA9IGRldmljZTsK</text>
+        <text encoding="base64">CQlmb3IgKGNvbnN0IFtpbmRleCwgZWxlbV0gb2YgYWxsZGV2aWNlcy5lbnRyaWVzKCkpIHsKCQkJdGVzdHMucHVzaChuZXcgUmVzZXJ2ZWRJZFRlc3QodXJsLCBlbGVtLCBpbmRleCkpOwoJCX0K</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
