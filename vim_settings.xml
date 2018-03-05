@@ -314,11 +314,11 @@
         <mark key="." line="10" column="15" />
         <mark key="^" line="10" column="15" />
       </file>
-      <file name="D:/Dropbox/Misc/projects/websocket/src/app.js" timestamp="1520266549771">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="26" />
-        <mark key="^" line="53" column="28" />
-        <mark key="." line="50" column="0" />
+      <file name="D:/Dropbox/Misc/projects/websocket/src/app.js" timestamp="1520268546857">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="4" />
+        <mark key="." line="36" column="4" />
+        <mark key="^" line="36" column="4" />
       </file>
       <file name="D:/deletethis/JavaScript30-master/JavaScript30-master/17 - Sort Without Articles/script.ts" timestamp="1510333007649">
         <mark key="[" line="35" column="3" />
@@ -914,11 +914,11 @@
       <register name="a" type="4">
         <text>${academicPrefix}</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQlsZXQgcHJvbWlzZXMgPSBbXTsK</text>
+      <register name="&quot;" type="4">
+        <text>var</text>
       </register>
       <register name="-" type="4">
-        <text>tests.push</text>
+        <text>var</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZWVyXD4=</text>
@@ -927,34 +927,34 @@
         <text encoding="base64">CQkJcHJvbWlzZXMucHVzaCh0ZXN0LnN0YXJ0KCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlsZXQgcHJvbWlzZXMgPSBbXTsK</text>
+        <text encoding="base64">CWNvbnN0IG51bWJlck9mRGV2aWNlcyA9IDE1MDA7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQljb25zb2xlLnRpbWUoJ2Ric2F2ZScpOwo=</text>
+        <text encoding="base64">CXJldHVybjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9Ii4vdGhpcmRfcGFydHkvanF1ZXJ5L2Rpc3QvanF1ZXJ5Lm1pbi5qcyIgZGVmZXI+PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2cobW9tZW50KDE1MDAyKS5mb3JtYXQoJ206c3MnKSk7CnJldHVybjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CWZzLmNvcHlTeW5jKCdzcmMvaW5zdHJ1bWVudHMvc3JjL3dlYmNoYXJ0c2lmcmFtZS5qcycsIGAke2J1aWxkRGlyfWluc3RydW1lbnRzL3dlYmNoYXJ0c2lmcmFtZS5qc2ApOwo=</text>
+        <text encoding="base64">CQlsZXQgcHJvbWlzZXMgPSBbXTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDwhLS08c2NyaXB0IGRlZmVyIHR5cGU9InRleHQvamF2YXNjcmlwdCIgc3JjPSIuL3dlYmNoYXJ0c2lmcmFtZS5qcyI+PC9zY3JpcHQ+LS0+Cg==</text>
+        <text encoding="base64">CQljb25zb2xlLnRpbWUoJ2Ric2F2ZScpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQl0aGlzLndlYnNvY2tldCA9IG5ldyBXZWJTb2NrZXQodGhpcy51cmwpOwo=</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9Ii4vdGhpcmRfcGFydHkvanF1ZXJ5L2Rpc3QvanF1ZXJ5Lm1pbi5qcyIgZGVmZXI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQl0ZXN0cy5wdXNoKG5ldyBSZXNlcnZlZElkVGVzdCh1cmwsIGVsZW0pKTsK</text>
+        <text encoding="base64">CWZzLmNvcHlTeW5jKCdzcmMvaW5zdHJ1bWVudHMvc3JjL3dlYmNoYXJ0c2lmcmFtZS5qcycsIGAke2J1aWxkRGlyfWluc3RydW1lbnRzL3dlYmNoYXJ0c2lmcmFtZS5qc2ApOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cmV0dXJuOwo=</text>
+        <text encoding="base64">ICAgIDwhLS08c2NyaXB0IGRlZmVyIHR5cGU9InRleHQvamF2YXNjcmlwdCIgc3JjPSIuL3dlYmNoYXJ0c2lmcmFtZS5qcyI+PC9zY3JpcHQ+LS0+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PT4K</text>
+        <text encoding="base64">CQl0aGlzLndlYnNvY2tldCA9IG5ldyBXZWJTb2NrZXQodGhpcy51cmwpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
