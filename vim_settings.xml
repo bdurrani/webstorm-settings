@@ -314,11 +314,11 @@
         <mark key="." line="10" column="15" />
         <mark key="^" line="10" column="15" />
       </file>
-      <file name="D:/Dropbox/Misc/projects/websocket/src/app.js" timestamp="1520268546857">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="4" />
-        <mark key="." line="36" column="4" />
-        <mark key="^" line="36" column="4" />
+      <file name="D:/Dropbox/Misc/projects/websocket/src/app.js" timestamp="1520274629398">
+        <mark key="[" line="42" column="28" />
+        <mark key="]" line="42" column="31" />
+        <mark key="." line="42" column="31" />
+        <mark key="^" line="42" column="31" />
       </file>
       <file name="D:/deletethis/JavaScript30-master/JavaScript30-master/17 - Sort Without Articles/script.ts" timestamp="1510333007649">
         <mark key="[" line="35" column="3" />
@@ -915,10 +915,10 @@
         <text>${academicPrefix}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>var</text>
+        <text>1750</text>
       </register>
       <register name="-" type="4">
-        <text>var</text>
+        <text>1750</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZWVyXD4=</text>
