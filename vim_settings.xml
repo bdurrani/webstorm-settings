@@ -187,10 +187,10 @@
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/benchmark/package.json" timestamp="1520349887150">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/benchmark/package.json" timestamp="1520350150020">
+        <mark key="[" line="6" column="57" />
+        <mark key="]" line="6" column="57" />
+        <mark key="." line="6" column="57" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/src/instruments/test/iv-analyzertest.js" timestamp="1517589241685">
         <mark key="[" line="713" column="0" />
@@ -952,11 +952,11 @@
       <register name="a" type="4">
         <text>${academicPrefix}</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJjbGllbnQiOiAibm9kZSAgLS1tYXgtb2xkLXNwYWNlLXNpemU9ODE5MiBjbGllbnQuanMiLAo=</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZWVyXD4=</text>
