@@ -441,6 +441,11 @@
         <mark key="^" line="38" column="24" />
         <mark key="." line="38" column="24" />
       </file>
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/benchmark/src/reserveIdTest.js" timestamp="1520356221764">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="77" column="9" />
+        <mark key="." line="65" column="0" />
+      </file>
       <file name="/fragment.js" timestamp="1519000801266">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -452,11 +457,11 @@
         <mark key="^" line="10" column="45" />
         <mark key="." line="10" column="45" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/benchmark/src/app.js" timestamp="1520352109716">
-        <mark key="[" line="54" column="46" />
-        <mark key="]" line="55" column="55" />
-        <mark key="^" line="55" column="55" />
-        <mark key="." line="55" column="55" />
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/benchmark/src/app.js" timestamp="1520355058166">
+        <mark key="[" line="113" column="0" />
+        <mark key="]" line="113" column="0" />
+        <mark key="^" line="88" column="61" />
+        <mark key="." line="113" column="0" />
       </file>
       <file name="C:/ubuntu/sfp/lobbybar/src/instruments/src/sfp-components/sfp-numeric-input/sfp-numeric-input.html" timestamp="1517259893409">
         <mark key="[" line="152" column="163" />
@@ -633,10 +638,11 @@
         <mark key="." line="212" column="54" />
         <mark key="^" line="212" column="53" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/.eslintignore" timestamp="1518108104279">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/.eslintignore" timestamp="1520354959586">
+        <mark key="[" line="2" column="10" />
+        <mark key="]" line="3" column="10" />
+        <mark key="." line="3" column="10" />
+        <mark key="^" line="3" column="10" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/signalingserver/test/fakewebsocketclient.js" timestamp="1519663296289">
         <mark key="'" line="102" column="6" />
@@ -698,7 +704,7 @@
         <mark key="." line="3" column="61" />
         <mark key="^" line="3" column="61" />
       </file>
-      <file name="/JavaScript Console" timestamp="1520197550034">
+      <file name="/JavaScript Console" timestamp="1520354368438">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="^" line="0" column="7" />
@@ -959,47 +965,47 @@
       <register name="a" type="4">
         <text>${academicPrefix}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>generationOptions</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQl0aGlzLnJlZ2lzdHJhdGlvblRpbWUgPSBEYXRlLm5vdygpOwoJCWlmICh0aGlzLndlYnNvY2tldC5yZWFkeVN0YXRlID09PSBXZWJTb2NrZXQuT1BFTikgewoJCQl0aGlzLndlYnNvY2tldC5zZW5kKGluZm9Db21tYW5kU3RyaW5nKTsKCQkJY29uc3QgcmVzcG9uc2VTdHJpbmcgPSBhd2FpdCB0aGlzLnJlZ2lzdHJhdGlvbkNvbXBsZXRlUHJvbWlzZTsKCQkJY29uc3QgcmVzcG9uc2UgPSBKU09OLnBhcnNlKHJlc3BvbnNlU3RyaW5nKTsKCQkJaWYgKHJlc3BvbnNlLmluZm8gJiYgcmVzcG9uc2UuaW5mby5tZXNzYWdlICYmIHJlc3BvbnNlLmluZm8ubWVzc2FnZS5pbmNsdWRlcygnZGV2aWNlIHJlY29ubmVjdGVkJykpIHsKCQkJCXRoaXMudXBkYXRlVGVzdFN0YXR1cyh0cnVlLCAnJyk7CgkJCX0KCQkJdGhpcy5yZWdpc3RyYXRpb25UaW1lID0gRGF0ZS5ub3coKSAtIHRoaXMucmVnaXN0cmF0aW9uVGltZTsKCQkJY29uc29sZS5sb2coYG1zIGVsYXBzZWQgPSAke3RoaXMucmVnaXN0cmF0aW9uVGltZSAvIDEwMH1gKTsKCQl9IGVsc2UgewoJCQljb25zb2xlLmxvZyhgc29ja2V0IGZvciBkZXZpY2UgIyAke3RoaXMuaW5kZXh9IHdhcyBjbG9zZWRgKTsKCQl9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>generationOptions</text>
+        <text>const websocket</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZWVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CWNvbnN0IGdlbmVyYXRpb25PcHRpb25zID0gY29tbWFuZExpbmVBcmdzKGdlbmVyYXRpb25EZWZpbml0aW9uLCB7IGFyZ3YgfSk7Cg==</text>
+        <text encoding="base64">CQl0aGlzLnJlZ2lzdHJhdGlvblRpbWUgPSBEYXRlLm5vdygpOwoJCWlmICh0aGlzLndlYnNvY2tldC5yZWFkeVN0YXRlID09PSBXZWJTb2NrZXQuT1BFTikgewoJCQl0aGlzLndlYnNvY2tldC5zZW5kKGluZm9Db21tYW5kU3RyaW5nKTsKCQkJY29uc3QgcmVzcG9uc2VTdHJpbmcgPSBhd2FpdCB0aGlzLnJlZ2lzdHJhdGlvbkNvbXBsZXRlUHJvbWlzZTsKCQkJY29uc3QgcmVzcG9uc2UgPSBKU09OLnBhcnNlKHJlc3BvbnNlU3RyaW5nKTsKCQkJaWYgKHJlc3BvbnNlLmluZm8gJiYgcmVzcG9uc2UuaW5mby5tZXNzYWdlICYmIHJlc3BvbnNlLmluZm8ubWVzc2FnZS5pbmNsdWRlcygnZGV2aWNlIHJlY29ubmVjdGVkJykpIHsKCQkJCXRoaXMudXBkYXRlVGVzdFN0YXR1cyh0cnVlLCAnJyk7CgkJCX0KCQkJdGhpcy5yZWdpc3RyYXRpb25UaW1lID0gRGF0ZS5ub3coKSAtIHRoaXMucmVnaXN0cmF0aW9uVGltZTsKCQkJY29uc29sZS5sb2coYG1zIGVsYXBzZWQgPSAke3RoaXMucmVnaXN0cmF0aW9uVGltZSAvIDEwMH1gKTsKCQl9IGVsc2UgewoJCQljb25zb2xlLmxvZyhgc29ja2V0IGZvciBkZXZpY2UgIyAke3RoaXMuaW5kZXh9IHdhcyBjbG9zZWRgKTsKCQl9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlwYXJzZXJPcHRpb25zOiB7CgkJfQo=</text>
+        <text encoding="base64">CWFzeW5jIHN0YXJ0KCkgewoJCWNvbnN0IGluZm9Db21tYW5kU3RyaW5nID0gSlNPTi5zdHJpbmdpZnkodGhpcy5kZXZpY2VJbmZvQ29tbWFuZCk7CgkJYXdhaXQgdGhpcy5vcGVuUHJvbWlzZTsKCX0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJZ2xvYmFsUmV0dXJuOiB0cnVlLAo=</text>
+        <text encoding="base64">CQlyZXR1cm4gd2Vic29ja2V0Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlnbG9iYWxSZXR1cm46IHRydWUsCg==</text>
+        <text encoding="base64">CgkJdGhpcy5yZWdpc3RyYXRpb25Db21wbGV0ZVByb21pc2UgPSBuZXcgUHJvbWlzZSgocmVzb2x2ZSkgPT4gewoJCQl0aGlzLndlYnNvY2tldC5vbignbWVzc2FnZScsIChkYXRhKSA9PiB7CgkJCQlyZXNvbHZlKGRhdGEpOwoJCQl9KTsKCQl9KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJjbGllbnQiOiAibm9kZSAgLS1tYXgtb2xkLXNwYWNlLXNpemU9ODE5MiBjbGllbnQuanMiLAo=</text>
+        <text encoding="base64">CQl0aGlzLndlYnNvY2tldC5vbmNlKCdjbG9zZScsIChjb2RlLCByZWFzb24pID0+IHsKCQkJLy8gY29uc29sZS5sb2coYHNvY2tldCB3YXMgY2xvc2VkIGZvciBkZXZpY2UgJHt0aGlzLmluZGV4fWApOwoJCX0pOwoKCQl0aGlzLm9wZW5Qcm9taXNlID0gbmV3IFByb21pc2UoKHJlc29sdmUpID0+IHsKCQkJdGhpcy53ZWJzb2NrZXQub25jZSgnb3BlbicsICgpID0+IHsKCQkJCS8vIGNvbnNvbGUubG9nKGBvcGVuIGRldmljZSBpZCAke3RoaXMuZGV2aWNlLmRldmljZUlkfWApOwoJCQkJcmVzb2x2ZSgpOwoJCQl9KTsKCQl9KTsKCgkJdGhpcy53ZWJzb2NrZXQub24oJ2Vycm9yJywgKGVycm9yKSA9PiB7CgkJCWNvbnN0IGRldGFpbHMgPSBgdGhlcmUgd2FzIGFuIGVycm9yICR7ZXJyb3J9IGZvciBkZXZpY2UgIyAke3RoaXMuaW5kZXh9YDsKCQkJdGhpcy51cGRhdGVUZXN0U3RhdHVzKGZhbHNlLCBkZXRhaWxzKTsKCQkJY29uc29sZS5sb2coZGV0YWlscyk7CgkJfSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJzZXJ2ZXIiOiAicG0yIHN0YXJ0IGVjb3N5c3RlbS5jb25maWcuanMgLS1vbmx5IHNlcnZlciAtLXVwZGF0ZS1lbnYiCg==</text>
+        <text encoding="base64">CQkJCS8vIGNvbnNvbGUubG9nKGBpbmNvbWluZyBkYXRhOiAke2RhdGF9YCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXN0cmVhbS53cml0ZWwK</text>
+        <text encoding="base64">CQl0aGlzLnVwZGF0ZVRlc3RTdGF0dXMoZmFsc2UsICcnKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dmFyIHN0cmVhbSA9IGZzLmNyZWF0ZVdyaXRlU3RyZWFtKCdzb21lRmlsZS5qc29uJywgeyBmbGFncyA6ICd3JyB9KTsK</text>
+        <text encoding="base64">CQl0aGlzLnVwZGF0ZVRlc3RTdGF0dXMoZmFsc2UsICcnKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Zm9yKGxldCBpKQo=</text>
+        <text encoding="base64">CS8vIGNvbnNvbGUudGltZUVuZCh0ZXN0aW5ndGltZSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">KTsK</text>
+        <text encoding="base64">CQljb25zb2xlLmxvZygndGVzdCBjb21wbGV0ZScpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
