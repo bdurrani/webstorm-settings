@@ -304,10 +304,10 @@
         <mark key="." line="17" column="12" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/selenium/helper/lobbyBarHelper.js" timestamp="1520363363363">
-        <mark key="[" line="29" column="84" />
-        <mark key="]" line="29" column="89" />
-        <mark key="." line="29" column="89" />
-        <mark key="^" line="29" column="89" />
+        <mark key="[" line="27" column="84" />
+        <mark key="]" line="27" column="89" />
+        <mark key="." line="27" column="89" />
+        <mark key="^" line="27" column="89" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/src/sfp_api.js" timestamp="1516133101861">
         <mark key="'" line="116" column="0" />
@@ -315,12 +315,6 @@
         <mark key="]" line="116" column="0" />
         <mark key="." line="85" column="7" />
         <mark key="^" line="87" column="64" />
-      </file>
-      <file name="C:/ubuntu-home/johnnycash/lobbybar/selenium/helper/testDeviceHelper.js" timestamp="1520430937993">
-        <mark key="[" line="333" column="17" />
-        <mark key="]" line="333" column="17" />
-        <mark key="." line="333" column="17" />
-        <mark key="^" line="333" column="17" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/signalingserver/eslintrc.js" timestamp="1520351556942">
         <mark key="[" line="9" column="21" />
@@ -336,10 +330,10 @@
         <mark key="^" line="69" column="5" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/selenium/helper/graphPaneInstrumentHelper.js" timestamp="1520371265098">
-        <mark key="[" line="164" column="91" />
-        <mark key="]" line="164" column="92" />
+        <mark key="[" line="162" column="91" />
+        <mark key="]" line="162" column="92" />
         <mark key="^" line="162" column="98" />
-        <mark key="." line="164" column="92" />
+        <mark key="." line="162" column="92" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/signalingserver/src/deviceroute.js" timestamp="1519921061755">
         <mark key="[" line="10" column="8" />
@@ -394,9 +388,9 @@
         <mark key="^" line="107" column="47" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/selenium/test/bodeInstrumentTests.js" timestamp="1520371379778">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="42" />
-        <mark key="." line="61" column="0" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="42" />
+        <mark key="." line="60" column="0" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/signalingserver/benchmark/.gitignore" timestamp="1520351816348" />
       <file name="D:/deletethis/boilerplate/js/main.js" timestamp="1509995685632">
@@ -466,6 +460,7 @@
         <mark key="^" line="38" column="24" />
         <mark key="." line="38" column="24" />
       </file>
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/benchmark/src/reserveIdTest.js" timestamp="1520431969375" />
       <file name="/fragment.js" timestamp="1519000801266">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
