@@ -387,10 +387,11 @@
         <mark key="." line="50" column="0" />
         <mark key="^" line="107" column="47" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/lobbybar/selenium/test/bodeInstrumentTests.js" timestamp="1520371379778">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="42" />
-        <mark key="." line="60" column="0" />
+      <file name="C:/ubuntu-home/johnnycash/lobbybar/selenium/test/bodeInstrumentTests.js" timestamp="1520446396612">
+        <mark key="[" line="60" column="4" />
+        <mark key="]" line="60" column="4" />
+        <mark key="." line="60" column="4" />
+        <mark key="^" line="60" column="4" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/signalingserver/benchmark/.gitignore" timestamp="1520351816348" />
       <file name="D:/deletethis/boilerplate/js/main.js" timestamp="1509995685632">
@@ -727,7 +728,7 @@
         <mark key="." line="3" column="61" />
         <mark key="^" line="3" column="61" />
       </file>
-      <file name="/JavaScript Console" timestamp="1520371379410">
+      <file name="/JavaScript Console" timestamp="1520446400040">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="^" line="0" column="7" />
