@@ -630,12 +630,12 @@
         <mark key="." line="153" column="0" />
         <mark key="^" line="153" column="0" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/test/graceperiodtests.js" timestamp="1518789019811">
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/test/graceperiodtests.js" timestamp="1520543525750">
         <mark key="'" line="11" column="25" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="31" />
-        <mark key="^" line="23" column="61" />
-        <mark key="." line="23" column="61" />
+        <mark key="[" line="139" column="26" />
+        <mark key="]" line="139" column="37" />
+        <mark key="^" line="139" column="37" />
+        <mark key="." line="139" column="37" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/src/instruments/src/multisim-shared/test/numberparsertest.js" timestamp="1517580175298">
         <mark key="[" line="14" column="0" />
@@ -679,12 +679,12 @@
         <mark key="." line="3" column="10" />
         <mark key="^" line="3" column="10" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/test/fakewebsocketclient.js" timestamp="1520537739263">
-        <mark key="'" line="108" column="6" />
-        <mark key="[" line="90" column="46" />
-        <mark key="]" line="91" column="47" />
-        <mark key="." line="91" column="47" />
-        <mark key="^" line="91" column="47" />
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/test/fakewebsocketclient.js" timestamp="1520543744960">
+        <mark key="'" line="95" column="47" />
+        <mark key="[" line="50" column="17" />
+        <mark key="]" line="50" column="18" />
+        <mark key="." line="50" column="18" />
+        <mark key="^" line="50" column="37" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/src/components/device-details/device-details.js" timestamp="1520369516594">
         <mark key="'" line="21" column="2" />
@@ -898,7 +898,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="13" filename="C:/ubuntu-home/johnnycash/lobbybar/test/device-connection-test.js" />
       <jump line="66" column="0" filename="C:/ubuntu-home/johnnycash/lobbybar/test/device-connection-test.js" />
       <jump line="106" column="0" filename="C:/ubuntu-home/johnnycash/lobbybar/test/device-connection-test.js" />
       <jump line="164" column="0" filename="C:/ubuntu-home/johnnycash/lobbybar/src/manager.js" />
@@ -998,22 +997,23 @@
       <jump line="8" column="9" filename="C:/ubuntu-home/johnnycash/signalingserver/README.md" />
       <jump line="0" column="0" filename="C:/ubuntu-home/johnnycash/signalingserver/README.md" />
       <jump line="299" column="24" filename="C:/ubuntu-home/johnnycash/signalingserver/src/devices.js" />
+      <jump line="91" column="47" filename="C:/ubuntu-home/johnnycash/signalingserver/test/fakewebsocketclient.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>${academicPrefix}</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQlpZiAoaXNJZEluVXNlQnlDb25uZWN0ZWREZXZpY2UocF9wcmVmZXJyZWRJZCkpIHsK</text>
+      <register name="&quot;" type="4">
+        <text>macAddress</text>
       </register>
       <register name="-" type="4">
-        <text>codeLenght = 8</text>
+        <text>macAddress</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYWNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlyZXR1cm4gJ1hYOlhYOlhYOlhYOlhYOlhYJy5yZXBsYWNlKC9YL2csICgpID0+ICcwMTIzNDU2Nzg5QUJDREVGJy5jaGFyQXQoTWF0aC5mbG9vcihNYXRoLnJhbmRvbSgpICogMTYpKSk7Cg==</text>
+        <text encoding="base64">CQlmYWtlQ2xpZW50Lm1hY0FkZHJlc3MgPSBtYWNBZGRyZXNzOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQlpZiAoaXNJZEluVXNlQnlDb25uZWN0ZWREZXZpY2UocF9wcmVmZXJyZWRJZCkpIHsK</text>
