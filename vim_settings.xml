@@ -9,7 +9,12 @@
         <mark key="." line="8" column="1" />
         <mark key="^" line="8" column="1" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/src/devices.js" timestamp="1520522918949" />
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/src/devices.js" timestamp="1520525317741">
+        <mark key="[" line="212" column="35" />
+        <mark key="]" line="213" column="57" />
+        <mark key="." line="213" column="57" />
+        <mark key="^" line="213" column="57" />
+      </file>
       <file name="C:/ubuntu/sfp/signaling-server/src/leasetime.js" timestamp="1518727606068">
         <mark key="[" line="92" column="27" />
         <mark key="]" line="92" column="27" />
@@ -737,7 +742,7 @@
         <mark key="." line="3" column="61" />
         <mark key="^" line="3" column="61" />
       </file>
-      <file name="/JavaScript Console" timestamp="1520521923619">
+      <file name="/JavaScript Console" timestamp="1520524556766">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="^" line="0" column="7" />
@@ -999,62 +1004,64 @@
         <text>${academicPrefix}</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>device id</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>device id</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwZWVyXD4=</text>
+        <text encoding="base64">XDxkZXZpY2VcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CWNvbnN0cnVjdG9yKHVybCwgZGV2aWNlLCBpbmRleCwgb3B0aW9ucykgewo=</text>
+        <text encoding="base64">CSAqIEBwcm9wZXJ0eSB7U3RyaW5nfSBpZCBkZXZpY2UgaWQK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkJY29uc3Qgc2VyaWFsTnVtYmVyID0gcGVlci5zZXJpYWxOdW1iZXI7Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ZGV2aWNlIGlkCgkgKiBAcHJvcGVydHkge1N0cmluZ30gdW5pcXVlSWQg</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWNvbnN0cnVjdG9yKCkgewo=</text>
+        <text encoding="base64">CQkJY29uc3Qgc2VyaWFsTnVtYmVyID0gcGVlci5zZXJpYWxOdW1iZXI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWNvbnN0IHRlc3Rpbmd0aW1lID0gJ1Rlc3QgcnVuIHRpbWUnOwo=</text>
+        <text encoding="base64">CWNvbnN0cnVjdG9yKCkgewo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">CWNvbnN0IHRlc3Rpbmd0aW1lID0gJ1Rlc3QgcnVuIHRpbWUnOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWNvbnNvbGUudGltZSh0ZXN0aW5ndGltZSk7Cg==</text>
+        <text encoding="base64">CWNvbnN0IHRlc3Rpbmd0aW1lID0gJ1Rlc3QgcnVuIHRpbWUnOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJcmV0dXJuCg==</text>
+        <text encoding="base64">CWNvbnNvbGUudGltZSh0ZXN0aW5ndGltZSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCXRlc3QuY2xvc2UoKTsK</text>
+        <text encoding="base64">CQkJcmV0dXJuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCWF3YWl0IHV0aWxpdGllcy5kZWxheShjb25uZWN0aW9uRGVsYXlJbk1zICsgKE1hdGgucmFuZG9tKCkgKiAxMDAwKSk7Cg==</text>
+        <text encoding="base64">CQkJCXRlc3QuY2xvc2UoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">CQkJCWF3YWl0IHV0aWxpdGllcy5kZWxheShjb25uZWN0aW9uRGVsYXlJbk1zICsgKE1hdGgucmFuZG9tKCkgKiAxMDAwKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwZWVyXD4=</last-search>
+      <last-search encoding="base64">XDxkZXZpY2VcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwZWVyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxkZXZpY2VcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxwZWVyXD4=</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry encoding="base64">XDxkZXZpY2VcPg==</entry>
+      </history-search>
       <history-cmd>
         <entry>x</entry>
       </history-cmd>
