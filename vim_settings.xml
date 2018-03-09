@@ -9,12 +9,12 @@
         <mark key="." line="8" column="1" />
         <mark key="^" line="8" column="1" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/src/devices.js" timestamp="1520604095230">
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/src/devices.js" timestamp="1520606675108">
         <mark key="'" line="303" column="24" />
-        <mark key="[" line="301" column="77" />
-        <mark key="]" line="302" column="8" />
-        <mark key="^" line="302" column="8" />
-        <mark key="." line="302" column="8" />
+        <mark key="[" line="301" column="71" />
+        <mark key="]" line="301" column="72" />
+        <mark key="^" line="301" column="72" />
+        <mark key="." line="301" column="72" />
       </file>
       <file name="C:/ubuntu/sfp/signaling-server/src/leasetime.js" timestamp="1518727606068">
         <mark key="[" line="92" column="27" />
@@ -545,11 +545,11 @@
         <mark key="^" line="3" column="15" />
         <mark key="." line="17" column="18" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/src/constants.js" timestamp="1520604006646">
-        <mark key="[" line="118" column="4" />
-        <mark key="]" line="118" column="4" />
-        <mark key="^" line="118" column="24" />
-        <mark key="." line="118" column="4" />
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/src/constants.js" timestamp="1520606668892">
+        <mark key="[" line="118" column="26" />
+        <mark key="]" line="118" column="27" />
+        <mark key="^" line="118" column="27" />
+        <mark key="." line="118" column="27" />
       </file>
       <file name="D:/deletethis/random-tests/index.js" timestamp="1517845023694">
         <mark key="[" line="21" column="21" />
@@ -1010,10 +1010,10 @@
         <text>${academicPrefix}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>unqiueId1</text>
+        <text>HT</text>
       </register>
       <register name="-" type="4">
-        <text>unqiueId1</text>
+        <text>HT</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYWNcPg==</text>
