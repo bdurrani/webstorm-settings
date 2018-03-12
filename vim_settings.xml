@@ -167,11 +167,10 @@
         <mark key="." line="204" column="55" />
         <mark key="^" line="204" column="55" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/dashboard/dashboard.js" timestamp="1520620561162">
-        <mark key="[" line="41" column="55" />
-        <mark key="]" line="41" column="61" />
-        <mark key="^" line="41" column="61" />
-        <mark key="." line="41" column="61" />
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/dashboard/dashboard.js" timestamp="1520861267181">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="46" />
+        <mark key="." line="71" column="0" />
       </file>
       <file name="C:/ubuntu/sfp/signaling-server/test/graceperiodtests.js" timestamp="1518728427088">
         <mark key="[" line="38" column="24" />
@@ -1026,8 +1025,8 @@
       <register name="a" type="4">
         <text>${academicPrefix}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCQljb25zb2xlLmxvZyhwX0V2ZW50LmRhdGEpOwo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -1039,34 +1038,34 @@
         <text encoding="base64">CWNvbnN0cnVjdG9yKHVybCwgZGV2aWNlLCBpbmRleCwgb3B0aW9ucykgewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJY29uc3Qgc2VyaWFsTnVtYmVyID0gcGVlci5zZXJpYWxOdW1iZXI7Cg==</text>
+        <text encoding="base64">CQkJCQljb25zb2xlLmxvZyhwX0V2ZW50LmRhdGEpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWNvbnN0cnVjdG9yKCkgewo=</text>
+        <text encoding="base64">CQkJY29uc3Qgc2VyaWFsTnVtYmVyID0gcGVlci5zZXJpYWxOdW1iZXI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWNvbnN0IHRlc3Rpbmd0aW1lID0gJ1Rlc3QgcnVuIHRpbWUnOwo=</text>
+        <text encoding="base64">CWNvbnN0cnVjdG9yKCkgewo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">CWNvbnN0IHRlc3Rpbmd0aW1lID0gJ1Rlc3QgcnVuIHRpbWUnOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWNvbnNvbGUudGltZSh0ZXN0aW5ndGltZSk7Cg==</text>
+        <text encoding="base64">CWNvbnN0IHRlc3Rpbmd0aW1lID0gJ1Rlc3QgcnVuIHRpbWUnOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJcmV0dXJuCg==</text>
+        <text encoding="base64">CWNvbnNvbGUudGltZSh0ZXN0aW5ndGltZSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCXRlc3QuY2xvc2UoKTsK</text>
+        <text encoding="base64">CQkJcmV0dXJuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCWF3YWl0IHV0aWxpdGllcy5kZWxheShjb25uZWN0aW9uRGVsYXlJbk1zICsgKE1hdGgucmFuZG9tKCkgKiAxMDAwKSk7Cg==</text>
+        <text encoding="base64">CQkJCXRlc3QuY2xvc2UoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">CQkJCWF3YWl0IHV0aWxpdGllcy5kZWxheShjb25uZWN0aW9uRGVsYXlJbk1zICsgKE1hdGgucmFuZG9tKCkgKiAxMDAwKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
