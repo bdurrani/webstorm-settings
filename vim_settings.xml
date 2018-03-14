@@ -375,6 +375,12 @@
         <mark key="." line="36" column="30" />
         <mark key="^" line="36" column="30" />
       </file>
+      <file name="C:/ubuntu-home/johnnycash/lobbybar/src/utilities/nulldevice.js" timestamp="1521041043802">
+        <mark key="[" line="18" column="7" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="19" column="0" />
+      </file>
       <file name="D:/Dropbox/Misc/projects/dotfiles-for-wsl/vim/vimrc.symlink" timestamp="1511536612920">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="5" column="33" />
@@ -502,7 +508,12 @@
         <mark key="^" line="10" column="45" />
         <mark key="." line="10" column="45" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/lobbybar/src/utilities/manager.js" timestamp="1520969564939" />
+      <file name="C:/ubuntu-home/johnnycash/lobbybar/src/utilities/manager.js" timestamp="1521040696185">
+        <mark key="[" line="265" column="61" />
+        <mark key="]" line="265" column="88" />
+        <mark key="^" line="265" column="88" />
+        <mark key="." line="265" column="88" />
+      </file>
       <file name="C:/ubuntu-home/johnnycash/signalingserver/benchmark/src/app.js" timestamp="1520454518136">
         <mark key="[" line="84" column="0" />
         <mark key="]" line="84" column="0" />
@@ -515,10 +526,11 @@
         <mark key="^" line="152" column="170" />
         <mark key="." line="152" column="170" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/lobbybar/src/jc-web-peer/src/device.js" timestamp="1516379938799">
-        <mark key="[" line="258" column="0" />
-        <mark key="]" line="258" column="0" />
-        <mark key="." line="258" column="0" />
+      <file name="C:/ubuntu-home/johnnycash/lobbybar/src/jc-web-peer/src/device.js" timestamp="1521041031070">
+        <mark key="[" line="201" column="0" />
+        <mark key="]" line="201" column="33" />
+        <mark key="." line="205" column="0" />
+        <mark key="^" line="205" column="0" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/dist/cloud/components/lobby-bar/lobby-bar.html" timestamp="1514918257018">
         <mark key="[" line="211" column="49" />
@@ -1039,16 +1051,16 @@
         <text>${academicPrefix}</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCXRoaXMuX2NoYW5uZWwuY2xvc2UoKTsK</text>
+        <text encoding="base64">CWRpc2Nvbm5lY3RTaWduYWxpbmdDaGFubmVsKCl7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>disconnect</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZWVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCQl0aGlzLl9zaWduYWxpbmdDaGFubmVsLmRpc2Nvbm5lY3QoKTsK</text>
+        <text encoding="base64">CWRpc2Nvbm5lY3RTaWduYWxpbmdDaGFubmVsKCl7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkJCXRoaXMuX2NoYW5uZWwuY2xvc2UoKTsK</text>
