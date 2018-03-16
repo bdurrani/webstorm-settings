@@ -9,6 +9,13 @@
         <mark key="." line="8" column="1" />
         <mark key="^" line="8" column="1" />
       </file>
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/src/devices.js" timestamp="1521223405384">
+        <mark key="'" line="303" column="24" />
+        <mark key="[" line="95" column="16" />
+        <mark key="]" line="95" column="20" />
+        <mark key="^" line="95" column="20" />
+        <mark key="." line="95" column="20" />
+      </file>
       <file name="C:/ubuntu/sfp/signaling-server/src/leasetime.js" timestamp="1518727606068">
         <mark key="[" line="92" column="27" />
         <mark key="]" line="92" column="27" />
@@ -104,7 +111,7 @@
         <mark key="^" line="12" column="0" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/src/instruments/src/sfp-components/graph-pane/graph-pane.html" timestamp="1521205508239">
-        <mark key="^" line="93" column="85" />
+        <mark key="^" line="98" column="85" />
       </file>
       <file name="$USER_HOME$/Dropbox/Misc/projects/mocha-hang/test/test1.js" timestamp="1519216561368">
         <mark key="[" line="46" column="0" />
@@ -693,7 +700,7 @@
         <mark key="." line="3" column="61" />
         <mark key="^" line="3" column="61" />
       </file>
-      <file name="/JavaScript Console" timestamp="1520820983315">
+      <file name="/JavaScript Console" timestamp="1521223411137">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="^" line="0" column="7" />
