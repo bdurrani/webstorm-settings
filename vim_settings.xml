@@ -163,11 +163,11 @@
         <mark key="." line="20" column="29" />
         <mark key="^" line="20" column="29" />
       </file>
-      <file name="C:/ubuntu/sfp/signaling-server/test/graceperiodtests.js" timestamp="1518728427088">
-        <mark key="[" line="38" column="24" />
-        <mark key="]" line="38" column="32" />
-        <mark key="^" line="38" column="32" />
-        <mark key="." line="38" column="32" />
+      <file name="C:/ubuntu/sfp/signaling-server/test/graceperiodtests.js" timestamp="1521491202766">
+        <mark key="[" line="33" column="56" />
+        <mark key="]" line="33" column="61" />
+        <mark key="^" line="33" column="61" />
+        <mark key="." line="33" column="61" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/karma.conf.js" timestamp="1516395275446">
         <mark key="[" line="140" column="38" />
@@ -534,12 +534,12 @@
         <mark key="^" line="1" column="26" />
         <mark key="." line="1" column="26" />
       </file>
-      <file name="C:/ubuntu/sfp/signaling-server/test/devicestests.js" timestamp="1518704922971">
-        <mark key="'" line="121" column="19" />
-        <mark key="[" line="17" column="48" />
-        <mark key="]" line="17" column="48" />
-        <mark key="." line="17" column="48" />
-        <mark key="^" line="53" column="4" />
+      <file name="C:/ubuntu/sfp/signaling-server/test/devicestests.js" timestamp="1521490672501">
+        <mark key="'" line="115" column="91" />
+        <mark key="[" line="116" column="44" />
+        <mark key="]" line="116" column="88" />
+        <mark key="." line="116" column="44" />
+        <mark key="^" line="126" column="79" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/signalingserver/src/constants.js" timestamp="1518790436956">
         <mark key="[" line="37" column="2" />
@@ -914,7 +914,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="142" column="9" filename="C:/ubuntu-home/johnnycash/lobbybar/src/instruments/src/bode/components/bode-analyzer/bode-analyzer.js" />
       <jump line="42" column="13" filename="C:/ubuntu-home/johnnycash/lobbybar/test/device-connection-test.js" />
       <jump line="66" column="0" filename="C:/ubuntu-home/johnnycash/lobbybar/test/device-connection-test.js" />
       <jump line="106" column="0" filename="C:/ubuntu-home/johnnycash/lobbybar/test/device-connection-test.js" />
@@ -1014,22 +1013,23 @@
       <jump line="21" column="2" filename="C:/ubuntu-home/johnnycash/lobbybar/src/components/device-details/device-details.js" />
       <jump line="8" column="9" filename="C:/ubuntu-home/johnnycash/signalingserver/README.md" />
       <jump line="0" column="0" filename="C:/ubuntu-home/johnnycash/signalingserver/README.md" />
+      <jump line="115" column="91" filename="C:/ubuntu/sfp/signaling-server/test/devicestests.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>${academicPrefix}</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCXRoaXMuX2NoYW5uZWwuY2xvc2UoKTsK</text>
+      <register name="&quot;" type="4">
+        <text>reaaaaly</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>reaaaaly</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZWVyXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQkJCQl0aGlzLl9zaWduYWxpbmdDaGFubmVsLmRpc2Nvbm5lY3QoKTsK</text>
+      <register name="0" type="4">
+        <text>equal(FakeWebSocketClient.defaultLeaseTime);</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkJCXRoaXMuX2NoYW5uZWwuY2xvc2UoKTsK</text>
