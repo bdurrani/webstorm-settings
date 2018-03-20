@@ -9,6 +9,13 @@
         <mark key="." line="8" column="1" />
         <mark key="^" line="8" column="1" />
       </file>
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/src/devices.js" timestamp="1521560768982">
+        <mark key="'" line="167" column="0" />
+        <mark key="[" line="170" column="75" />
+        <mark key="]" line="170" column="83" />
+        <mark key="." line="170" column="83" />
+        <mark key="^" line="170" column="83" />
+      </file>
       <file name="C:/ubuntu/sfp/signaling-server/src/leasetime.js" timestamp="1518727606068">
         <mark key="[" line="92" column="27" />
         <mark key="]" line="92" column="27" />
@@ -961,7 +968,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="13" filename="C:/ubuntu-home/johnnycash/lobbybar/test/device-connection-test.js" />
       <jump line="66" column="0" filename="C:/ubuntu-home/johnnycash/lobbybar/test/device-connection-test.js" />
       <jump line="106" column="0" filename="C:/ubuntu-home/johnnycash/lobbybar/test/device-connection-test.js" />
       <jump line="164" column="0" filename="C:/ubuntu-home/johnnycash/lobbybar/src/manager.js" />
@@ -1061,52 +1067,53 @@
       <jump line="8" column="9" filename="C:/ubuntu-home/johnnycash/signalingserver/README.md" />
       <jump line="0" column="0" filename="C:/ubuntu-home/johnnycash/signalingserver/README.md" />
       <jump line="115" column="91" filename="C:/ubuntu/sfp/signaling-server/test/devicestests.js" />
+      <jump line="164" column="0" filename="C:/ubuntu-home/johnnycash/signalingserver/src/devices.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>${academicPrefix}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>DefaultGracePeriodInMinutes</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>DefaultGracePeriodInMinutes</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZWVyXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>equal(FakeWebSocketClient.defaultLeaseTime);</text>
+      <register name="0" type="2">
+        <text encoding="base64">CQkJbG9nLmVycm9yKGBiYWQgcmVnaXN0cmF0aW9uIGNvbW1hbmQgJHttZXNzYWdlfWApOwoJCQl3ZWJzb2NrZXQudGVybWluYXRlKCk7CgkJCXJldHVybjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">L2hvbWUvdWJ1bnR1Ly5wbTIvcG0yLmxvZyAvaG9tZS91YnVudHUvLnBtMi9sb2dzLyoubG9nIC9vcHQvc2lnc2VydmVyL2xvZ3MvKi5sb2cgewogICAgICAgIHJvdGF0ZSAxMgogICAgICAgIHdlZWtseQogICAgICAgIG1pc3NpbmdvawogICAgICAgIG5vdGlmZW1wdHkKICAgICAgICBjb21wcmVzcwogICAgICAgIGRlbGF5Y29tcHJlc3MKICAgICAgICBjb3B5dHJ1bmNhdGUKICAgICAgICBjcmVhdGUgMDY0MCB1YnVudHUgdWJ1bnR1Cn0K</text>
+        <text encoding="base64">CQljb25zdCBEZWZhdWx0TGVhc2VUaW1lSW5Ib3VycyA9IDQ7CgkJY29uc3QgRGVmYXVsdEdyYWNlUGVyaW9kSW5NaW51dGVzID0gMTA7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dmkgL2V0Yy9sb2dyb3RhdGUuZC9wbTItdWJ1bnR1Cg==</text>
+        <text encoding="base64">L2hvbWUvdWJ1bnR1Ly5wbTIvcG0yLmxvZyAvaG9tZS91YnVudHUvLnBtMi9sb2dzLyoubG9nIC9vcHQvc2lnc2VydmVyL2xvZ3MvKi5sb2cgewogICAgICAgIHJvdGF0ZSAxMgogICAgICAgIHdlZWtseQogICAgICAgIG1pc3NpbmdvawogICAgICAgIG5vdGlmZW1wdHkKICAgICAgICBjb21wcmVzcwogICAgICAgIGRlbGF5Y29tcHJlc3MKICAgICAgICBjb3B5dHJ1bmNhdGUKICAgICAgICBjcmVhdGUgMDY0MCB1YnVudHUgdWJ1bnR1Cn0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">VG8gZGVwbG95IHRoZSBjb2RlIHRvIHRoZSBzaWduYWxpbmcgc2VydmVyLCBpbnN0YWxsIHRoZSBwbTIgdG9vbHMgd2l0aApgYGAKbnBtIGluc3RhbGwgcG0yIC1nCmBgYCAK</text>
+        <text encoding="base64">dmkgL2V0Yy9sb2dyb3RhdGUuZC9wbTItdWJ1bnR1Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">VGhlbiBmcm9tIHRoZSByb290IG9mIHRoZSBzaWduYWxpbmcgc2VydmVyIHByb2plY3QsIHJ1bgpgYGAKcG0yIGRlcGxveSA8ZW52aXJvbm1lbnQ+CmBgYAp3aGVyZSBzZXR0aW5nIDxlbnZpcm9ubWVudD4gdG8gcHJvZHVjdGlvbiB3aWxsIGRlcGxveSB0aGUgc2lnbmFsaW5nIHNlcnZlciB0bwpzaWdzZXJ2ZXIubXVsdGlzaW0uY29tIGFuZCByZXN0YXJ0IHRoZSBwcm9jZXNzLgo=</text>
+        <text encoding="base64">VG8gZGVwbG95IHRoZSBjb2RlIHRvIHRoZSBzaWduYWxpbmcgc2VydmVyLCBpbnN0YWxsIHRoZSBwbTIgdG9vbHMgd2l0aApgYGAKbnBtIGluc3RhbGwgcG0yIC1nCmBgYCAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCXRoaXMuX2NoYW5uZWwuY2xvc2UoKTsK</text>
+        <text encoding="base64">VGhlbiBmcm9tIHRoZSByb290IG9mIHRoZSBzaWduYWxpbmcgc2VydmVyIHByb2plY3QsIHJ1bgpgYGAKcG0yIGRlcGxveSA8ZW52aXJvbm1lbnQ+CmBgYAp3aGVyZSBzZXR0aW5nIDxlbnZpcm9ubWVudD4gdG8gcHJvZHVjdGlvbiB3aWxsIGRlcGxveSB0aGUgc2lnbmFsaW5nIHNlcnZlciB0bwpzaWdzZXJ2ZXIubXVsdGlzaW0uY29tIGFuZCByZXN0YXJ0IHRoZSBwcm9jZXNzLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">CQkJCXRoaXMuX2NoYW5uZWwuY2xvc2UoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlpZiAocF9OZXdFbGVtZW50LmRhdGFzZXQgJiYgcF9OZXdFbGVtZW50LmRhdGFzZXQuaWQpIHsK</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQljb25zb2xlLmxvZyhyZXN1bHQpOwo=</text>
+        <text encoding="base64">CQlpZiAocF9OZXdFbGVtZW50LmRhdGFzZXQgJiYgcF9OZXdFbGVtZW50LmRhdGFzZXQuaWQpIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJY29uc3QgaW5kZXggPSBleGlzdGluZ0VsZW1lbnRzLmluZGV4T2YoZXhpc3RpbmdJdGVtKTsKCQkJaWYoaW5kZXggPiAtMSkKCQkJZXhpc3RpbmdFbGVtZW50cy5zcGxpY2UoaW5kZXgsIDEpOwo=</text>
+        <text encoding="base64">CQkJCQljb25zb2xlLmxvZyhyZXN1bHQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
