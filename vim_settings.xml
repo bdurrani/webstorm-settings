@@ -15,11 +15,11 @@
         <mark key="." line="95" column="20" />
         <mark key="^" line="95" column="20" />
       </file>
-      <file name="C:/ubuntu/sfp/signaling-server/src/leasetime.js" timestamp="1518727606068">
-        <mark key="[" line="92" column="27" />
-        <mark key="]" line="92" column="27" />
-        <mark key="^" line="92" column="27" />
-        <mark key="." line="92" column="27" />
+      <file name="C:/ubuntu/sfp/signaling-server/src/leasetime.js" timestamp="1521640227883">
+        <mark key="[" line="53" column="33" />
+        <mark key="]" line="53" column="39" />
+        <mark key="^" line="53" column="39" />
+        <mark key="." line="53" column="39" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/signalingserver/benchmark/src/deviceserializer.js" timestamp="1520452750366">
         <mark key="[" line="6" column="0" />
@@ -163,12 +163,12 @@
         <mark key="." line="20" column="29" />
         <mark key="^" line="20" column="29" />
       </file>
-      <file name="C:/ubuntu/sfp/signaling-server/test/graceperiodtests.js" timestamp="1521636675812">
-        <mark key="'" line="40" column="17" />
-        <mark key="[" line="148" column="35" />
-        <mark key="]" line="149" column="66" />
-        <mark key="^" line="149" column="66" />
-        <mark key="." line="149" column="66" />
+      <file name="C:/ubuntu/sfp/signaling-server/test/graceperiodtests.js" timestamp="1521639843452">
+        <mark key="'" line="23" column="8" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="4" column="42" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="48" column="71" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/karma.conf.js" timestamp="1516395275446">
         <mark key="[" line="140" column="38" />
@@ -674,12 +674,8 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="C:/ubuntu/sfp/signaling-server/src/devices.js" timestamp="1521638810888">
+      <file name="C:/ubuntu/sfp/signaling-server/src/devices.js" timestamp="1521640394431">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="406" column="12" />
-        <mark key="]" line="406" column="24" />
-        <mark key="." line="406" column="24" />
-        <mark key="^" line="406" column="24" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/src/components/lobby-documentation/lobby-documentation.html" timestamp="1514918323341">
         <mark key="[" line="212" column="54" />
@@ -705,6 +701,9 @@
         <mark key="]" line="66" column="30" />
         <mark key="." line="66" column="30" />
         <mark key="^" line="66" column="30" />
+      </file>
+      <file name="C:/ubuntu-home/johnnycash/lobbybar/src/components/device-details/device-details.js" timestamp="1520369516594">
+        <mark key="'" line="21" column="2" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/package.json" timestamp="1516993066131">
         <mark key="[" line="9" column="73" />
@@ -926,9 +925,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="106" column="0" filename="C:/ubuntu-home/johnnycash/lobbybar/test/device-connection-test.js" />
-      <jump line="164" column="0" filename="C:/ubuntu-home/johnnycash/lobbybar/src/manager.js" />
-      <jump line="31" column="14" filename="C:/ubuntu-home/johnnycash/lobbybar/src/manager.js" />
       <jump line="33" column="14" filename="C:/ubuntu-home/johnnycash/lobbybar/src/manager.js" />
       <jump line="159" column="0" filename="C:/ubuntu-home/johnnycash/lobbybar/src/components/instrument-tab/instrument-tab.js" />
       <jump line="642" column="57" filename="C:/ubuntu-home/johnnycash/lobbybar/src/manager.js" />
@@ -1026,52 +1022,55 @@
       <jump line="115" column="91" filename="C:/ubuntu/sfp/signaling-server/test/devicestests.js" />
       <jump line="40" column="17" filename="C:/ubuntu/sfp/signaling-server/test/graceperiodtests.js" />
       <jump line="28" column="32" filename="C:/ubuntu/sfp/signaling-server/test/leasetimetests.js" />
+      <jump line="22" column="8" filename="C:/ubuntu/sfp/signaling-server/test/graceperiodtests.js" />
+      <jump line="48" column="8" filename="C:/ubuntu/sfp/signaling-server/test/graceperiodtests.js" />
+      <jump line="23" column="8" filename="C:/ubuntu/sfp/signaling-server/test/graceperiodtests.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>${academicPrefix}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>info</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCWNvbnN0IGNhY2hlRGF0YSA9IFtdOwoJCQkJZm9yIChjb25zdCBjYWNoZSBvZiB0aGlzLl9jb25uZWN0ZWREZXZpY2VzTWFwLnZhbHVlcygpKSB7CgkJCQkJY2FjaGVEYXRhLnB1c2goY2FjaGUpOwoJCQkJfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>info</text>
+        <text>adjusted</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZWVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJbG9nLmluZm8oYGluY29taW5nIHJlZ2lzdHJhdGlvbiByZXF1ZXN0IGZvciBpZCAke2lkfSB3aXRoIHNlcmlhbCAke3NlcmlhbE51bWJlcn1gKTsK</text>
+        <text encoding="base64">CQlkZXZpY2VzLnN0YXJ0R3JhY2VQZXJpb2RDbGVhbnVwKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCS8vIHByZWZlcnJlZCBpZHMgaGF2ZSBpbmZpbml0ZSBncmFjZSBwZXJpb2QsIHNvCgkJCQkvLyB3ZSBzaG91bGQgYmUgd2l0aGluIGEgdmFsaWQgZ3JhY2UgcGVyaW9kLgo=</text>
+        <text encoding="base64">CQkJCWNvbnN0IGNhY2hlRGF0YSA9IFtdOwoJCQkJZm9yIChjb25zdCBjYWNoZSBvZiB0aGlzLl9jb25uZWN0ZWREZXZpY2VzTWFwLnZhbHVlcygpKSB7CgkJCQkJY2FjaGVEYXRhLnB1c2goY2FjaGUpOwoJCQkJfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlsb2cuaW5mbyhgaW5jb21pbmcgcmVnaXN0cmF0aW9uIHJlcXVlc3QgZm9yIGlkICR7aWR9IHdpdGggc2VyaWFsICR7c2VyaWFsTnVtYmVyfWApOwo=</text>
+        <text encoding="base64">CQkJCXJldHVybiBjYWNoZURhdGE7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCXRoaXMuX2NoYW5uZWwuY2xvc2UoKTsK</text>
+        <text encoding="base64">Y29uc3QgRmFrZVdlYlNvY2tldENsaWVudCA9IHJlcXVpcmUoJy4vZmFrZXdlYnNvY2tldGNsaWVudCcpOwpjb25zdCBEZXZpY2VzID0gcmVxdWlyZSgnLi4vc3JjL2RldmljZXMnKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">CWl0KCdkZXZpY2Ugd2l0aCBwcmVmZXJyZWQgaWQgYW5kIGRlZmF1bHQgZ3JhY2UgcGVyaW9kIGJlaGF2ZXMgYXMgZXhwZWN0ZWQnLCBhc3luYygpID0+IHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlpZiAocF9OZXdFbGVtZW50LmRhdGFzZXQgJiYgcF9OZXdFbGVtZW50LmRhdGFzZXQuaWQpIHsK</text>
+        <text encoding="base64">CQkJCS8vIHByZWZlcnJlZCBpZHMgaGF2ZSBpbmZpbml0ZSBncmFjZSBwZXJpb2QsIHNvCgkJCQkvLyB3ZSBzaG91bGQgYmUgd2l0aGluIGEgdmFsaWQgZ3JhY2UgcGVyaW9kLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQljb25zb2xlLmxvZyhyZXN1bHQpOwo=</text>
+        <text encoding="base64">CQlsb2cuaW5mbyhgaW5jb21pbmcgcmVnaXN0cmF0aW9uIHJlcXVlc3QgZm9yIGlkICR7aWR9IHdpdGggc2VyaWFsICR7c2VyaWFsTnVtYmVyfWApOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJY29uc3QgaW5kZXggPSBleGlzdGluZ0VsZW1lbnRzLmluZGV4T2YoZXhpc3RpbmdJdGVtKTsKCQkJaWYoaW5kZXggPiAtMSkKCQkJZXhpc3RpbmdFbGVtZW50cy5zcGxpY2UoaW5kZXgsIDEpOwo=</text>
+        <text encoding="base64">CQkJCXRoaXMuX2NoYW5uZWwuY2xvc2UoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlpZiAocF9OZXdFbGVtZW50LmRhdGFzZXQgJiYgcF9OZXdFbGVtZW50LmRhdGFzZXQuaWQpIHsKCQkJY29uc3QgZXhpc3RpbmdJdGVtID0gZXhpc3RpbmdFbGVtZW50cy5maW5kKGl0ZW0gPT4gaXRlbS5kYXRhc2V0LmlkID09PSBwX05ld0VsZW1lbnQuZGF0YXNldC5pZCk7IAoJCQlpZiAoZXhpc3RpbmdJdGVtKSB7CgkJCQlleGlzdGluZ0l0ZW0ucmVtb3ZlKCk7CgkJCX0KCQl9Cg==</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJaWYgKHBfTmV3RWxlbWVudC5kYXRhc2V0ICYmIHBfTmV3RWxlbWVudC5kYXRhc2V0LmlkKSB7CgkJCQljb25zdCBleGlzdGluZ0l0ZW0gPSBleGlzdGluZ0VsZW1lbnRzLmZpbmQoaXRlbSA9PiBpdGVtLmRhdGFzZXQuaWQgPT09IHBfTmV3RWxlbWVudC5kYXRhc2V0LmlkKTsKCQkJCWlmIChleGlzdGluZ0l0ZW0pIHsKCQkJCQlleGlzdGluZ0l0ZW0ucmVtb3ZlKCk7CgkJCQl9CgkJCX0K</text>
+        <text encoding="base64">CQlpZiAocF9OZXdFbGVtZW50LmRhdGFzZXQgJiYgcF9OZXdFbGVtZW50LmRhdGFzZXQuaWQpIHsK</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
