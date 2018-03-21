@@ -674,8 +674,12 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="C:/ubuntu/sfp/signaling-server/src/devices.js" timestamp="1521640394431">
+      <file name="C:/ubuntu/sfp/signaling-server/src/devices.js" timestamp="1521642276230">
         <mark key="'" line="0" column="0" />
+        <mark key="[" line="66" column="79" />
+        <mark key="]" line="66" column="86" />
+        <mark key="." line="66" column="86" />
+        <mark key="^" line="66" column="86" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/src/components/lobby-documentation/lobby-documentation.html" timestamp="1514918323341">
         <mark key="[" line="212" column="54" />
@@ -701,9 +705,6 @@
         <mark key="]" line="66" column="30" />
         <mark key="." line="66" column="30" />
         <mark key="^" line="66" column="30" />
-      </file>
-      <file name="C:/ubuntu-home/johnnycash/lobbybar/src/components/device-details/device-details.js" timestamp="1520369516594">
-        <mark key="'" line="21" column="2" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/package.json" timestamp="1516993066131">
         <mark key="[" line="9" column="73" />
@@ -1031,10 +1032,10 @@
         <text>${academicPrefix}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>debug</text>
+        <text>mac</text>
       </register>
       <register name="-" type="4">
-        <text>debug</text>
+        <text>mac</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZWVyXD4=</text>
