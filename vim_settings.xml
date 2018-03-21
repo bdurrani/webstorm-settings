@@ -15,11 +15,11 @@
         <mark key="." line="95" column="20" />
         <mark key="^" line="95" column="20" />
       </file>
-      <file name="C:/ubuntu/sfp/signaling-server/src/leasetime.js" timestamp="1521640227883">
-        <mark key="[" line="53" column="33" />
-        <mark key="]" line="53" column="39" />
-        <mark key="^" line="53" column="39" />
-        <mark key="." line="53" column="39" />
+      <file name="C:/ubuntu/sfp/signaling-server/src/leasetime.js" timestamp="1521641522778">
+        <mark key="[" line="94" column="12" />
+        <mark key="]" line="94" column="15" />
+        <mark key="^" line="94" column="15" />
+        <mark key="." line="94" column="15" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/signalingserver/benchmark/src/deviceserializer.js" timestamp="1520452750366">
         <mark key="[" line="6" column="0" />
@@ -1030,11 +1030,11 @@
       <register name="a" type="4">
         <text>${academicPrefix}</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCWNvbnN0IGNhY2hlRGF0YSA9IFtdOwoJCQkJZm9yIChjb25zdCBjYWNoZSBvZiB0aGlzLl9jb25uZWN0ZWREZXZpY2VzTWFwLnZhbHVlcygpKSB7CgkJCQkJY2FjaGVEYXRhLnB1c2goY2FjaGUpOwoJCQkJfQo=</text>
+      <register name="&quot;" type="4">
+        <text>debug</text>
       </register>
       <register name="-" type="4">
-        <text>adjusted</text>
+        <text>debug</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZWVyXD4=</text>
