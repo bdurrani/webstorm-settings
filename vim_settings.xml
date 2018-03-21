@@ -97,6 +97,12 @@
         <mark key="." line="907" column="136" />
         <mark key="^" line="907" column="136" />
       </file>
+      <file name="D:/Documents/Dropbox/Misc/projects/iterators/scratch.js" timestamp="1521647912886">
+        <mark key="[" line="9" column="39" />
+        <mark key="]" line="9" column="39" />
+        <mark key="." line="9" column="39" />
+        <mark key="^" line="16" column="17" />
+      </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/selenium/readme.md" timestamp="1516308885054">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -368,12 +374,12 @@
         <mark key="^" line="3" column="113" />
         <mark key="." line="3" column="113" />
       </file>
-      <file name="C:/ubuntu/sfp/signaling-server/test/leasetimetests.js" timestamp="1521647559229">
+      <file name="C:/ubuntu/sfp/signaling-server/test/leasetimetests.js" timestamp="1521648056806">
         <mark key="'" line="28" column="32" />
-        <mark key="[" line="97" column="110" />
-        <mark key="]" line="97" column="108" />
-        <mark key="^" line="97" column="108" />
-        <mark key="." line="97" column="108" />
+        <mark key="[" line="171" column="37" />
+        <mark key="]" line="171" column="4" />
+        <mark key="^" line="171" column="4" />
+        <mark key="." line="171" column="4" />
       </file>
       <file name="C:/ubuntu/sfp/signaling-server/test/fakewebsocketclient.js" timestamp="1518705784427">
         <mark key="[" line="8" column="6" />
@@ -674,12 +680,12 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="C:/ubuntu/sfp/signaling-server/src/devices.js" timestamp="1521645327704">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="73" column="11" />
-        <mark key="]" line="74" column="4" />
-        <mark key="." line="74" column="4" />
-        <mark key="^" line="74" column="4" />
+      <file name="C:/ubuntu/sfp/signaling-server/src/devices.js" timestamp="1521648310436">
+        <mark key="'" line="87" column="27" />
+        <mark key="[" line="362" column="15" />
+        <mark key="]" line="362" column="14" />
+        <mark key="." line="362" column="14" />
+        <mark key="^" line="362" column="14" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/src/components/lobby-documentation/lobby-documentation.html" timestamp="1514918323341">
         <mark key="[" line="212" column="54" />
@@ -926,7 +932,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="14" filename="C:/ubuntu-home/johnnycash/lobbybar/src/manager.js" />
       <jump line="159" column="0" filename="C:/ubuntu-home/johnnycash/lobbybar/src/components/instrument-tab/instrument-tab.js" />
       <jump line="642" column="57" filename="C:/ubuntu-home/johnnycash/lobbybar/src/manager.js" />
       <jump line="79" column="55" filename="C:/ubuntu-home/johnnycash/lobbybar/src/sfp_api.js" />
@@ -1026,22 +1031,23 @@
       <jump line="22" column="8" filename="C:/ubuntu/sfp/signaling-server/test/graceperiodtests.js" />
       <jump line="48" column="8" filename="C:/ubuntu/sfp/signaling-server/test/graceperiodtests.js" />
       <jump line="23" column="8" filename="C:/ubuntu/sfp/signaling-server/test/graceperiodtests.js" />
+      <jump line="87" column="27" filename="C:/ubuntu/sfp/signaling-server/src/devices.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>${academicPrefix}</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJLy8gVGhpcyBpcyB0aGUgbWV0aG9kIHRvIGdlbmVyYXRlIGEgbmV3IG5ldyBJRCwgYW5kIHVwZGF0ZSB0aGUgY2FjaGUgdGFibGVzLgo=</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>updateDeviceIdForCache</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZWVyXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>leasetimeExpired</text>
+      <register name="0" type="2">
+        <text encoding="base64">dGVzdEZ1bmMoe3R3bzogMzN9KTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkJLy8gVGhpcyBpcyB0aGUgbWV0aG9kIHRvIGdlbmVyYXRlIGEgbmV3IG5ldyBJRCwgYW5kIHVwZGF0ZSB0aGUgY2FjaGUgdGFibGVzLgo=</text>
