@@ -791,11 +791,11 @@
         <mark key="." line="9" column="17" />
         <mark key="^" line="9" column="17" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/src/utilities.js" timestamp="1518791969524">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="^" line="17" column="18" />
-        <mark key="." line="27" column="0" />
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/src/utilities.js" timestamp="1521728180271">
+        <mark key="[" line="3" column="76" />
+        <mark key="]" line="4" column="2" />
+        <mark key="^" line="4" column="2" />
+        <mark key="." line="4" column="2" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/test/autoconnect.test.js" timestamp="1516394646555">
         <mark key="[" line="21" column="50" />
@@ -994,17 +994,17 @@
       <register name="a" type="4">
         <text>${academicPrefix}</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQljb25zdCBpZHMgPSBbXTsKCQl0aGlzLl91bmlxdWVJZFRvRGV2aWNlQ2FjaGVEaWN0aW9uYXJ5LmZvckVhY2goKHZhbHVlKSA9PiB7CgkJCWlkcy5wdXNoKHZhbHVlLmlkKTsKCQl9KTsK</text>
+      <register name="&quot;" type="4">
+        <text>O</text>
       </register>
       <register name="-" type="4">
-        <text>\nDevices registered ${ids}</text>
+        <text>O</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZWVyXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQkJbG9nLmluZm8oYGluY29taW5nIHJlZ2lzdHJhdGlvbiByZXF1ZXN0IGZvciByYW5kb20gaWQgd2l0aCBzZXJpYWwgJHtzZXJpYWxOdW1iZXJ9YCk7Cg==</text>
+      <register name="0" type="4">
+        <text>ABCDEFGHIJKLMNOPQRSTUVWXYZ</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQljb25zdCBpZHMgPSBbXTsKCQl0aGlzLl91bmlxdWVJZFRvRGV2aWNlQ2FjaGVEaWN0aW9uYXJ5LmZvckVhY2goKHZhbHVlKSA9PiB7CgkJCWlkcy5wdXNoKHZhbHVlLmlkKTsKCQl9KTsK</text>
