@@ -10,11 +10,9 @@
         <mark key="^" line="8" column="1" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/signalingserver/src/devices.js" timestamp="1521825681153">
-        <mark key="'" line="129" column="0" />
-        <mark key="[" line="399" column="0" />
-        <mark key="]" line="399" column="65" />
-        <mark key="^" line="156" column="51" />
-        <mark key="." line="399" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="65" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="C:/ubuntu/sfp/signaling-server/src/leasetime.js" timestamp="1518727606068">
         <mark key="[" line="92" column="27" />
@@ -286,7 +284,7 @@
         <mark key="." line="85" column="23" />
         <mark key="^" line="85" column="23" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/src/graceperiodcache.js" timestamp="1521810340194">
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/src/graceperiodcache.js" timestamp="1521836510516">
         <mark key="'" line="40" column="4" />
         <mark key="[" line="5" column="39" />
         <mark key="]" line="6" column="0" />
@@ -362,11 +360,11 @@
         <mark key="^" line="162" column="98" />
         <mark key="." line="162" column="92" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/src/deviceroute.js" timestamp="1519921061755">
-        <mark key="[" line="10" column="8" />
-        <mark key="]" line="10" column="15" />
-        <mark key="." line="10" column="15" />
-        <mark key="^" line="10" column="15" />
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/src/deviceroute.js" timestamp="1521836002340">
+        <mark key="[" line="79" column="12" />
+        <mark key="]" line="79" column="16" />
+        <mark key="." line="79" column="16" />
+        <mark key="^" line="79" column="16" />
       </file>
       <file name="D:/Dropbox/Misc/projects/websocket/src/app.js" timestamp="1520349669162">
         <mark key="'" line="20" column="0" />
@@ -671,9 +669,6 @@
       <file name="C:/ubuntu-home/johnnycash/signalingserver/README.md" timestamp="1521749118314">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/test/graceperiodtests.js" timestamp="1521575700416">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/src/instruments/src/multisim-shared/test/numberparsertest.js" timestamp="1517580175298">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -740,9 +735,6 @@
         <mark key="." line="66" column="30" />
         <mark key="^" line="66" column="30" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/lobbybar/src/components/device-details/device-details.js" timestamp="1520369516594">
-        <mark key="'" line="21" column="2" />
-      </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/package.json" timestamp="1521819895324">
         <mark key="[" line="9" column="73" />
         <mark key="]" line="9" column="73" />
@@ -791,11 +783,12 @@
         <mark key="^" line="134" column="4" />
         <mark key="." line="181" column="0" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/src/clientroute.js" timestamp="1521834040254">
-        <mark key="[" line="48" column="26" />
-        <mark key="]" line="48" column="31" />
-        <mark key="." line="48" column="31" />
-        <mark key="^" line="48" column="31" />
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/src/clientroute.js" timestamp="1521835498375">
+        <mark key="'" line="18" column="6" />
+        <mark key="[" line="37" column="26" />
+        <mark key="]" line="37" column="31" />
+        <mark key="." line="37" column="31" />
+        <mark key="^" line="37" column="31" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/src/instruments/src/bode/components/bode-analyzer/bode-analyzer.js" timestamp="1517412192962">
         <mark key="[" line="3" column="0" />
@@ -882,11 +875,11 @@
         <mark key="." line="9" column="17" />
         <mark key="^" line="9" column="17" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/src/utilities.js" timestamp="1521728180271">
-        <mark key="[" line="3" column="76" />
-        <mark key="]" line="4" column="2" />
-        <mark key="^" line="4" column="2" />
-        <mark key="." line="4" column="2" />
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/src/utilities.js" timestamp="1521834813350">
+        <mark key="[" line="51" column="14" />
+        <mark key="]" line="51" column="14" />
+        <mark key="^" line="51" column="24" />
+        <mark key="." line="51" column="14" />
       </file>
       <file name="D:/Dropbox/Misc/projects/websocket/device.js" timestamp="1519932467458">
         <mark key="'" line="21" column="36" />
@@ -936,11 +929,11 @@
         <mark key="." line="38" column="5" />
         <mark key="^" line="21" column="0" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/test/testhelpers.js" timestamp="1518793425071">
-        <mark key="[" line="94" column="1" />
-        <mark key="]" line="94" column="1" />
-        <mark key="^" line="94" column="1" />
-        <mark key="." line="94" column="1" />
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/test/testhelpers.js" timestamp="1521836323386">
+        <mark key="[" line="31" column="13" />
+        <mark key="]" line="31" column="18" />
+        <mark key="^" line="31" column="18" />
+        <mark key="." line="31" column="18" />
       </file>
       <file name="C:/ubuntu/sfp/signaling-server/package.json" timestamp="1518705184687">
         <mark key="[" line="7" column="5" />
@@ -992,7 +985,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="537" column="63" filename="C:/ubuntu-home/johnnycash/lobbybar/src/manager.js" />
       <jump line="546" column="74" filename="C:/ubuntu-home/johnnycash/lobbybar/src/manager.js" />
       <jump line="561" column="58" filename="C:/ubuntu-home/johnnycash/lobbybar/src/manager.js" />
       <jump line="552" column="50" filename="C:/ubuntu-home/johnnycash/lobbybar/src/manager.js" />
@@ -1092,16 +1084,17 @@
       <jump line="543" column="0" filename="C:/ubuntu-home/johnnycash/signalingserver/src/devices.js" />
       <jump line="130" column="0" filename="C:/ubuntu-home/johnnycash/signalingserver/src/devices.js" />
       <jump line="40" column="4" filename="C:/ubuntu-home/johnnycash/signalingserver/src/graceperiodcache.js" />
+      <jump line="18" column="6" filename="C:/ubuntu-home/johnnycash/signalingserver/src/clientroute.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>${academicPrefix}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>onClientMessage</text>
+        <text encoding="base64">UHJvbWlzZTx2b2lkPg==</text>
       </register>
       <register name="-" type="4">
-        <text>onClientMessage</text>
+        <text encoding="base64">UHJvbWlzZTx2b2lkPg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZWVyXD4=</text>
