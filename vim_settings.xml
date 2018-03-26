@@ -182,6 +182,12 @@
         <mark key="." line="204" column="55" />
         <mark key="^" line="204" column="55" />
       </file>
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/dashboard/dashboard.js" timestamp="1522080049008">
+        <mark key="[" line="370" column="131" />
+        <mark key="]" line="370" column="20" />
+        <mark key="^" line="370" column="20" />
+        <mark key="." line="370" column="20" />
+      </file>
       <file name="C:/ubuntu/sfp/signaling-server/test/graceperiodtests.js" timestamp="1521654757982">
         <mark key="'" line="160" column="7" />
         <mark key="[" line="161" column="0" />
@@ -289,12 +295,12 @@
         <mark key="." line="85" column="23" />
         <mark key="^" line="85" column="23" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/src/graceperiodcache.js" timestamp="1522079109908">
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/src/graceperiodcache.js" timestamp="1522079613962">
         <mark key="'" line="57" column="27" />
-        <mark key="[" line="36" column="17" />
-        <mark key="]" line="36" column="18" />
-        <mark key="^" line="35" column="49" />
-        <mark key="." line="36" column="18" />
+        <mark key="[" line="154" column="9" />
+        <mark key="]" line="155" column="4" />
+        <mark key="^" line="155" column="4" />
+        <mark key="." line="155" column="4" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/.eslintignore" timestamp="1513173497353">
         <mark key="[" line="2" column="17" />
@@ -832,7 +838,7 @@
         <mark key="." line="3" column="61" />
         <mark key="^" line="3" column="61" />
       </file>
-      <file name="/JavaScript Console" timestamp="1522078221243">
+      <file name="/JavaScript Console" timestamp="1522079622354">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="^" line="0" column="7" />
@@ -1127,10 +1133,10 @@
         <text>{ leaseTimeInHours:</text>
       </register>
       <register name="&quot;" type="4">
-        <text>run-</text>
+        <text>serial</text>
       </register>
       <register name="-" type="4">
-        <text>run-</text>
+        <text>serial</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZWVyXD4=</text>
