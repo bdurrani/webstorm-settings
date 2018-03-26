@@ -182,11 +182,11 @@
         <mark key="." line="204" column="55" />
         <mark key="^" line="204" column="55" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/dashboard/dashboard.js" timestamp="1522080049008">
-        <mark key="[" line="370" column="131" />
-        <mark key="]" line="370" column="20" />
-        <mark key="^" line="370" column="20" />
-        <mark key="." line="370" column="20" />
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/dashboard/dashboard.js" timestamp="1522086084192">
+        <mark key="[" line="371" column="165" />
+        <mark key="]" line="371" column="165" />
+        <mark key="^" line="371" column="166" />
+        <mark key="." line="371" column="165" />
       </file>
       <file name="C:/ubuntu/sfp/signaling-server/test/graceperiodtests.js" timestamp="1521654757982">
         <mark key="'" line="160" column="7" />
@@ -1133,10 +1133,10 @@
         <text>{ leaseTimeInHours:</text>
       </register>
       <register name="&quot;" type="4">
-        <text>serial</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>serial</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZWVyXD4=</text>
