@@ -15,12 +15,6 @@
         <mark key="." line="95" column="20" />
         <mark key="^" line="95" column="20" />
       </file>
-      <file name="C:/ubuntu/sfp/signaling-server/src/leasetime.js" timestamp="1521645263446">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="15" column="29" />
-        <mark key="." line="12" column="0" />
-      </file>
       <file name="C:/ubuntu-home/johnnycash/signalingserver/benchmark/src/deviceserializer.js" timestamp="1520452750366">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -223,12 +217,6 @@
         <mark key="]" line="713" column="0" />
         <mark key="." line="713" column="0" />
       </file>
-      <file name="C:/ubuntu/sfp/signaling-server/src/graceperiodcache.js" timestamp="1518726685559">
-        <mark key="[" line="50" column="25" />
-        <mark key="]" line="51" column="46" />
-        <mark key="^" line="51" column="46" />
-        <mark key="." line="51" column="46" />
-      </file>
       <file name="C:/github/node-hey/index.js" timestamp="1518782922161">
         <mark key="[" line="2" column="2" />
         <mark key="]" line="2" column="2" />
@@ -390,7 +378,6 @@
         <mark key="." line="3" column="113" />
       </file>
       <file name="C:/ubuntu/sfp/signaling-server/test/leasetimetests.js" timestamp="1521654765191">
-        <mark key="'" line="152" column="0" />
         <mark key="[" line="9" column="0" />
         <mark key="]" line="13" column="6" />
         <mark key="^" line="12" column="9" />
@@ -725,13 +712,6 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="C:/ubuntu/sfp/signaling-server/src/devices.js" timestamp="1521656028889">
-        <mark key="'" line="352" column="31" />
-        <mark key="[" line="362" column="16" />
-        <mark key="]" line="362" column="25" />
-        <mark key="." line="362" column="25" />
-        <mark key="^" line="362" column="25" />
-      </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/src/components/lobby-documentation/lobby-documentation.html" timestamp="1514918323341">
         <mark key="[" line="212" column="54" />
         <mark key="]" line="212" column="54" />
@@ -851,7 +831,7 @@
         <mark key="^" line="31" column="29" />
         <mark key="." line="31" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521647507196">
+      <file name="/Dummy.txt" timestamp="1521895129425">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
