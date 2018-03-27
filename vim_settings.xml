@@ -878,11 +878,11 @@
         <mark key="^" line="20" column="30" />
         <mark key="." line="20" column="30" />
       </file>
-      <file name="D:/Documents/Dropbox/Misc/projects/iterators/chain.js" timestamp="1522118459977">
-        <mark key="[" line="39" column="2" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-        <mark key="^" line="40" column="0" />
+      <file name="D:/Documents/Dropbox/Misc/projects/iterators/chain.js" timestamp="1522119113265">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="47" />
+        <mark key="." line="58" column="0" />
+        <mark key="^" line="54" column="0" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/src/instruments/src/sfp-components/sfp-property-container/sfp-property-container.html" timestamp="1521205754848">
         <mark key="[" line="13" column="28" />
@@ -913,9 +913,9 @@
         <mark key="." line="38" column="5" />
         <mark key="^" line="21" column="0" />
       </file>
-      <file name="D:/Documents/Dropbox/Misc/projects/iterators/index.js" timestamp="1522118436278">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="71" column="1" />
+      <file name="D:/Documents/Dropbox/Misc/projects/iterators/index.js" timestamp="1522119111202">
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="93" column="47" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/signalingserver/test/testhelpers.js" timestamp="1518793425071">
         <mark key="[" line="47" column="1" />
@@ -1084,7 +1084,7 @@
         <text>{ leaseTimeInHours:</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gbGV0cyBzZXQgdXAgZmlsdGVyCi8qKgogKiBmaWx0ZXIgaXRlcmFibGUgd2l0aCBhIGRlZmF1bHQgZnVuY3Rpb24gb2YgQm9vbGVhbigpCiAqIGZpbHRlcnMgb3V0IG5vbi10cnV0aHkgdGhpbmdzCiAqIEBwYXJhbSBmbgogKi8KY29uc3QgZmlsdGVySXRlcmFibGUgPSBmdW5jdGlvbiogKGZuPUJvb2xlYW4pIHsKCWZvciAobGV0IHggb2YgdGhpcykgewoJCWlmIChmbih4KSkgewoJCQl5aWVsZCB4OwoJCX0KCX0KfTsK</text>
+        <text encoding="base64">Q2hhaW4ucHJvdG90eXBlWydmaWx0ZXInXSA9IHdyYXBGaWx0ZXJJdGVyYWJsZTsK</text>
       </register>
       <register name="-" type="4">
         <text>{ id: '1234', leaseTimeInHours: 5, gracePeriodInMinutes: 11 }</text>
@@ -1093,37 +1093,37 @@
         <text encoding="base64">XDxwZWVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gbGV0cyBzZXQgdXAgZmlsdGVyCi8qKgogKiBmaWx0ZXIgaXRlcmFibGUgd2l0aCBhIGRlZmF1bHQgZnVuY3Rpb24gb2YgQm9vbGVhbigpCiAqIGZpbHRlcnMgb3V0IG5vbi10cnV0aHkgdGhpbmdzCiAqIEBwYXJhbSBmbgogKi8KY29uc3QgZmlsdGVySXRlcmFibGUgPSBmdW5jdGlvbiogKGZuPUJvb2xlYW4pIHsKCWZvciAobGV0IHggb2YgdGhpcykgewoJCWlmIChmbih4KSkgewoJCQl5aWVsZCB4OwoJCX0KCX0KfTsK</text>
+        <text encoding="base64">Q2hhaW4ucHJvdG90eXBlWydmaWx0ZXInXSA9IHdyYXBGaWx0ZXJJdGVyYWJsZTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICogQHBhcmFtIGRldmljZXMKICogQHBhcmFtIGlkCiAqIEBwYXJhbSBsZWFzZVRpbWVJbkhvdXJzCiAqIEBwYXJhbSBncmFjZVBlcmlvZEluTWludXRlcwogKiBAcmV0dXJuIHtQcm9taXNlPEZha2VXZWJTb2NrZXRDbGllbnQ+fQo=</text>
+        <text encoding="base64">Y29uc3Qgd3JhcE1hcEl0ZXJhYmxlID0gZnVuY3Rpb24oLi4uYXJncykgewoJcmV0dXJuIGNoYWluKG1hcEl0ZXJhYmxlLmNhbGwodGhpcywgLi4uYXJncykpOwp9Owo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogQHJldHVybiB7UHJvbWlzZTx2b2lkPn0K</text>
+        <text encoding="base64">ICogQHBhcmFtIGRldmljZXMKICogQHBhcmFtIGlkCiAqIEBwYXJhbSBsZWFzZVRpbWVJbkhvdXJzCiAqIEBwYXJhbSBncmFjZVBlcmlvZEluTWludXRlcwogKiBAcmV0dXJuIHtQcm9taXNlPEZha2VXZWJTb2NrZXRDbGllbnQ+fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICogQHBhcmFtIGRldmljZXMK</text>
+        <text encoding="base64">ICogQHJldHVybiB7UHJvbWlzZTx2b2lkPn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICogQHJldHVybiB7UHJvbWlzZTx2b2lkPn0gcHJvbWlzZQo=</text>
+        <text encoding="base64">ICogQHBhcmFtIGRldmljZXMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICogCg==</text>
+        <text encoding="base64">ICogQHJldHVybiB7UHJvbWlzZTx2b2lkPn0gcHJvbWlzZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">KiBoZWxwZXIgbWV0aG9kIHRvIHBlcmZvcm0gYSBjb25uZWN0IGFuZCBkaXNjb25uZWN0IG9wZXJhdGlvbgo=</text>
+        <text encoding="base64">ICogCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyoqCiAqIEBwYXJhbSB7RmFrZVdlYlNvY2tldENsaWVudH0gZmFrZUNsaWVudCBmYWtlIGNsaWVudCB0byBkaXNjb25uZWN0CiAqLwo=</text>
+        <text encoding="base64">KiBoZWxwZXIgbWV0aG9kIHRvIHBlcmZvcm0gYSBjb25uZWN0IGFuZCBkaXNjb25uZWN0IG9wZXJhdGlvbgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICogaGVscGVyIG1ldGhvZCB0byBwZXJmb3JtIGEgY29ubmVjdCBhbmQgZGlzY29ubmVjdCBvcGVyYXRpb24K</text>
+        <text encoding="base64">LyoqCiAqIEBwYXJhbSB7RmFrZVdlYlNvY2tldENsaWVudH0gZmFrZUNsaWVudCBmYWtlIGNsaWVudCB0byBkaXNjb25uZWN0CiAqLwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQljb25zdCBmYWtlQ2xpZW50MSA9IG5ldyBGYWtlV2ViU29ja2V0Q2xpZW50KCcnKTsKCQljb25zdCByZWdpc3RyYXRpb25Qcm9taXNlMSA9IGRldmljZXMuX3N0YXJ0UmVnaXN0cmF0aW9uQXN5bmMoZmFrZUNsaWVudDEpOwoJCWZha2VDbGllbnQxLmVtaXREZXZpY2VJbmZvKCk7CgkJYXdhaXQgcmVnaXN0cmF0aW9uUHJvbWlzZTE7Cg==</text>
+        <text encoding="base64">ICogaGVscGVyIG1ldGhvZCB0byBwZXJmb3JtIGEgY29ubmVjdCBhbmQgZGlzY29ubmVjdCBvcGVyYXRpb24K</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
