@@ -878,11 +878,11 @@
         <mark key="^" line="20" column="30" />
         <mark key="." line="20" column="30" />
       </file>
-      <file name="D:/Documents/Dropbox/Misc/projects/iterators/chain.js" timestamp="1522119113265">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="47" />
-        <mark key="." line="58" column="0" />
-        <mark key="^" line="54" column="0" />
+      <file name="D:/Documents/Dropbox/Misc/projects/iterators/chain.js" timestamp="1522119915158">
+        <mark key="[" line="58" column="15" />
+        <mark key="]" line="58" column="21" />
+        <mark key="." line="58" column="21" />
+        <mark key="^" line="58" column="21" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/src/instruments/src/sfp-components/sfp-property-container/sfp-property-container.html" timestamp="1521205754848">
         <mark key="[" line="13" column="28" />
@@ -913,9 +913,9 @@
         <mark key="." line="38" column="5" />
         <mark key="^" line="21" column="0" />
       </file>
-      <file name="D:/Documents/Dropbox/Misc/projects/iterators/index.js" timestamp="1522119111202">
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="93" column="47" />
+      <file name="D:/Documents/Dropbox/Misc/projects/iterators/index.js" timestamp="1522120118341">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="50" column="1" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/signalingserver/test/testhelpers.js" timestamp="1518793425071">
         <mark key="[" line="47" column="1" />
@@ -1084,7 +1084,7 @@
         <text>{ leaseTimeInHours:</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Q2hhaW4ucHJvdG90eXBlWydmaWx0ZXInXSA9IHdyYXBGaWx0ZXJJdGVyYWJsZTsK</text>
+        <text encoding="base64">Y29uc3QgdGVzdEl0ZXJhYmxlID0gZnVuY3Rpb24qICgpIHsKCXlpZWxkIDE7Cgl5aWVsZCAndHdvJzsKCXlpZWxkIDM7Cn07Cg==</text>
       </register>
       <register name="-" type="4">
         <text>{ id: '1234', leaseTimeInHours: 5, gracePeriodInMinutes: 11 }</text>
@@ -1093,7 +1093,7 @@
         <text encoding="base64">XDxwZWVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Q2hhaW4ucHJvdG90eXBlWydmaWx0ZXInXSA9IHdyYXBGaWx0ZXJJdGVyYWJsZTsK</text>
+        <text encoding="base64">Y29uc3QgdGVzdEl0ZXJhYmxlID0gZnVuY3Rpb24qICgpIHsKCXlpZWxkIDE7Cgl5aWVsZCAndHdvJzsKCXlpZWxkIDM7Cn07Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Y29uc3Qgd3JhcE1hcEl0ZXJhYmxlID0gZnVuY3Rpb24oLi4uYXJncykgewoJcmV0dXJuIGNoYWluKG1hcEl0ZXJhYmxlLmNhbGwodGhpcywgLi4uYXJncykpOwp9Owo=</text>
