@@ -878,11 +878,11 @@
         <mark key="^" line="20" column="30" />
         <mark key="." line="20" column="30" />
       </file>
-      <file name="D:/Documents/Dropbox/Misc/projects/iterators/chain.js" timestamp="1522119915158">
-        <mark key="[" line="58" column="15" />
-        <mark key="]" line="58" column="21" />
-        <mark key="." line="58" column="21" />
-        <mark key="^" line="58" column="21" />
+      <file name="D:/Documents/Dropbox/Misc/projects/iterators/chain.js" timestamp="1522203976864">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="18" column="5" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/src/instruments/src/sfp-components/sfp-property-container/sfp-property-container.html" timestamp="1521205754848">
         <mark key="[" line="13" column="28" />
@@ -1084,7 +1084,7 @@
         <text>{ leaseTimeInHours:</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgdGVzdEl0ZXJhYmxlID0gZnVuY3Rpb24qICgpIHsKCXlpZWxkIDE7Cgl5aWVsZCAndHdvJzsKCXlpZWxkIDM7Cn07Cg==</text>
+        <text encoding="base64">CSAqCg==</text>
       </register>
       <register name="-" type="4">
         <text>{ id: '1234', leaseTimeInHours: 5, gracePeriodInMinutes: 11 }</text>
@@ -1096,34 +1096,34 @@
         <text encoding="base64">Y29uc3QgdGVzdEl0ZXJhYmxlID0gZnVuY3Rpb24qICgpIHsKCXlpZWxkIDE7Cgl5aWVsZCAndHdvJzsKCXlpZWxkIDM7Cn07Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3Qgd3JhcE1hcEl0ZXJhYmxlID0gZnVuY3Rpb24oLi4uYXJncykgewoJcmV0dXJuIGNoYWluKG1hcEl0ZXJhYmxlLmNhbGwodGhpcywgLi4uYXJncykpOwp9Owo=</text>
+        <text encoding="base64">CSAqCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogQHBhcmFtIGRldmljZXMKICogQHBhcmFtIGlkCiAqIEBwYXJhbSBsZWFzZVRpbWVJbkhvdXJzCiAqIEBwYXJhbSBncmFjZVBlcmlvZEluTWludXRlcwogKiBAcmV0dXJuIHtQcm9taXNlPEZha2VXZWJTb2NrZXRDbGllbnQ+fQo=</text>
+        <text encoding="base64">Ly8gR2V0IHRoZSBpdGVyYXRvciBmb3IgdGhlIHRoaW5nIG9yIHRocm93IGFuIGVycm9yLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICogQHJldHVybiB7UHJvbWlzZTx2b2lkPn0K</text>
+        <text encoding="base64">CSAqIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICogQHBhcmFtIGRldmljZXMK</text>
+        <text encoding="base64">CVJldHVybiB3aGV0aGVyIGEgdGhpbmcgaXMgaXRlcmFibGUuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICogQHJldHVybiB7UHJvbWlzZTx2b2lkPn0gcHJvbWlzZQo=</text>
+        <text encoding="base64">CVJldHVybiB3aGV0aGVyIGEgdGhpbmcgaXMgaXRlcmFibGUuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICogCg==</text>
+        <text encoding="base64">Y29uc3Qgd3JhcE1hcEl0ZXJhYmxlID0gZnVuY3Rpb24oLi4uYXJncykgewoJcmV0dXJuIGNoYWluKG1hcEl0ZXJhYmxlLmNhbGwodGhpcywgLi4uYXJncykpOwp9Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">KiBoZWxwZXIgbWV0aG9kIHRvIHBlcmZvcm0gYSBjb25uZWN0IGFuZCBkaXNjb25uZWN0IG9wZXJhdGlvbgo=</text>
+        <text encoding="base64">ICogQHBhcmFtIGRldmljZXMKICogQHBhcmFtIGlkCiAqIEBwYXJhbSBsZWFzZVRpbWVJbkhvdXJzCiAqIEBwYXJhbSBncmFjZVBlcmlvZEluTWludXRlcwogKiBAcmV0dXJuIHtQcm9taXNlPEZha2VXZWJTb2NrZXRDbGllbnQ+fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LyoqCiAqIEBwYXJhbSB7RmFrZVdlYlNvY2tldENsaWVudH0gZmFrZUNsaWVudCBmYWtlIGNsaWVudCB0byBkaXNjb25uZWN0CiAqLwo=</text>
+        <text encoding="base64">ICogQHJldHVybiB7UHJvbWlzZTx2b2lkPn0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogaGVscGVyIG1ldGhvZCB0byBwZXJmb3JtIGEgY29ubmVjdCBhbmQgZGlzY29ubmVjdCBvcGVyYXRpb24K</text>
+        <text encoding="base64">ICogQHBhcmFtIGRldmljZXMK</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
