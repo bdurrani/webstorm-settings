@@ -238,12 +238,12 @@
         <mark key="^" line="2" column="48" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/ubuntu/sfp/lobbybar/src/instruments/test/AnalysisScreenCaptureTest.js" timestamp="1522344003333">
-        <mark key="'" line="286" column="82" />
-        <mark key="[" line="277" column="80" />
-        <mark key="]" line="277" column="81" />
-        <mark key="." line="277" column="81" />
-        <mark key="^" line="1" column="29" />
+      <file name="C:/ubuntu/sfp/lobbybar/src/instruments/test/AnalysisScreenCaptureTest.js" timestamp="1522345378568">
+        <mark key="'" line="36" column="43" />
+        <mark key="[" line="2" column="55" />
+        <mark key="]" line="2" column="55" />
+        <mark key="." line="2" column="55" />
+        <mark key="^" line="2" column="55" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/selenium/test/browserStartup.js" timestamp="1516310222842">
         <mark key="[" line="18" column="89" />
@@ -985,9 +985,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="512" column="26" filename="C:/ubuntu-home/johnnycash/lobbybar/src/manager.js" />
-      <jump line="534" column="12" filename="C:/ubuntu-home/johnnycash/lobbybar/src/manager.js" />
-      <jump line="537" column="63" filename="C:/ubuntu-home/johnnycash/lobbybar/src/manager.js" />
       <jump line="546" column="74" filename="C:/ubuntu-home/johnnycash/lobbybar/src/manager.js" />
       <jump line="561" column="58" filename="C:/ubuntu-home/johnnycash/lobbybar/src/manager.js" />
       <jump line="552" column="50" filename="C:/ubuntu-home/johnnycash/lobbybar/src/manager.js" />
@@ -1085,6 +1082,9 @@
       <jump line="176" column="34" filename="C:/ubuntu/sfp/lobbybar/src/instruments/test/AnalysisScreenCaptureTest.js" />
       <jump line="24" column="23" filename="C:/ubuntu/sfp/lobbybar/src/instruments/test/AnalysisScreenCaptureTest.js" />
       <jump line="286" column="82" filename="C:/ubuntu/sfp/lobbybar/src/instruments/test/AnalysisScreenCaptureTest.js" />
+      <jump line="267" column="28" filename="C:/ubuntu/sfp/lobbybar/src/instruments/test/AnalysisScreenCaptureTest.js" />
+      <jump line="48" column="9" filename="C:/ubuntu/sfp/lobbybar/src/instruments/test/AnalysisScreenCaptureTest.js" />
+      <jump line="36" column="43" filename="C:/ubuntu/sfp/lobbybar/src/instruments/test/AnalysisScreenCaptureTest.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
