@@ -238,6 +238,13 @@
         <mark key="^" line="2" column="48" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="C:/ubuntu/sfp/lobbybar/src/instruments/test/AnalysisScreenCaptureTest.js" timestamp="1522344003333">
+        <mark key="'" line="286" column="82" />
+        <mark key="[" line="277" column="80" />
+        <mark key="]" line="277" column="81" />
+        <mark key="." line="277" column="81" />
+        <mark key="^" line="1" column="29" />
+      </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/selenium/test/browserStartup.js" timestamp="1516310222842">
         <mark key="[" line="18" column="89" />
         <mark key="]" line="18" column="92" />
@@ -978,9 +985,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="498" column="12" filename="C:/ubuntu-home/johnnycash/lobbybar/src/manager.js" />
-      <jump line="485" column="0" filename="C:/ubuntu-home/johnnycash/lobbybar/src/manager.js" />
-      <jump line="518" column="26" filename="C:/ubuntu-home/johnnycash/lobbybar/src/manager.js" />
       <jump line="512" column="26" filename="C:/ubuntu-home/johnnycash/lobbybar/src/manager.js" />
       <jump line="534" column="12" filename="C:/ubuntu-home/johnnycash/lobbybar/src/manager.js" />
       <jump line="537" column="63" filename="C:/ubuntu-home/johnnycash/lobbybar/src/manager.js" />
@@ -1078,16 +1082,19 @@
       <jump line="229" column="0" filename="C:/ubuntu/sfp/signaling-server/test/devicestests.js" />
       <jump line="221" column="7" filename="C:/ubuntu/sfp/signaling-server/test/devicestests.js" />
       <jump line="352" column="31" filename="C:/ubuntu/sfp/signaling-server/src/devices.js" />
+      <jump line="176" column="34" filename="C:/ubuntu/sfp/lobbybar/src/instruments/test/AnalysisScreenCaptureTest.js" />
+      <jump line="24" column="23" filename="C:/ubuntu/sfp/lobbybar/src/instruments/test/AnalysisScreenCaptureTest.js" />
+      <jump line="286" column="82" filename="C:/ubuntu/sfp/lobbybar/src/instruments/test/AnalysisScreenCaptureTest.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>{ leaseTimeInHours:</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Zmlyc3QgJiYg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CWxldCBjc3NMaW5rOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Zmlyc3QgJiYg</text>
+        <text>AnalysisScreenCapture</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZWVyXD4=</text>
@@ -1096,34 +1103,34 @@
         <text encoding="base64">Y29uc3QgdGVzdEl0ZXJhYmxlID0gZnVuY3Rpb24qICgpIHsKCXlpZWxkIDE7Cgl5aWVsZCAndHdvJzsKCXlpZWxkIDM7Cn07Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CS8vIHByb3RvdHlwZUFuZFN0YXRpYygicmVkdWNlIiwgZnVuY3Rpb24gKGZuLCBpbml0aWFsPXVuZGVmaW5lZCkgewoJLy8gCWxldCB2YWwgPSBpbml0aWFsOwoJLy8gCWlmICh2YWwgPT09IHVuZGVmaW5lZCkgewoJLy8gCQlmb3IgKGxldCB4IG9mIHRoaXMpIHsKCS8vIAkJCXZhbCA9IHg7CgkvLyAJCQlicmVhazsKCS8vIAkJfQoJLy8gCX0KCS8vCgkvLyAJZm9yIChsZXQgeCBvZiB0aGlzKSB7CgkvLyAJCXZhbCA9IGZuKHZhbCwgeCk7CgkvLyAJfQoJLy8KCS8vIAlyZXR1cm4gdmFsOwoJLy8gfSwgMik7Cgo=</text>
+        <text encoding="base64">CWxldCBjc3NMaW5rOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkvLyBmb3IgKGxldCB4IG9mIHRoaXMpIHsKCQkvLyAJY29uc29sZS5sb2coeCk7CgkJLy8gfQo=</text>
+        <text encoding="base64">aW1wb3J0IHt9IGZyb20gJy4uL3NyYy91dGlsaXRpZXMvQW5hbHlzaXNTY3JlZW5DYXB0dXJlJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CSAqCg==</text>
+        <text encoding="base64">Ly8gaW1wb3J0ICcuLi9zcmMvdXRpbGl0aWVzL0FuYWx5c2lzU2NyZWVuQ2FwdHVyZS5qcyc7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gR2V0IHRoZSBpdGVyYXRvciBmb3IgdGhlIHRoaW5nIG9yIHRocm93IGFuIGVycm9yLgo=</text>
+        <text encoding="base64">CS8vIHByb3RvdHlwZUFuZFN0YXRpYygicmVkdWNlIiwgZnVuY3Rpb24gKGZuLCBpbml0aWFsPXVuZGVmaW5lZCkgewoJLy8gCWxldCB2YWwgPSBpbml0aWFsOwoJLy8gCWlmICh2YWwgPT09IHVuZGVmaW5lZCkgewoJLy8gCQlmb3IgKGxldCB4IG9mIHRoaXMpIHsKCS8vIAkJCXZhbCA9IHg7CgkvLyAJCQlicmVhazsKCS8vIAkJfQoJLy8gCX0KCS8vCgkvLyAJZm9yIChsZXQgeCBvZiB0aGlzKSB7CgkvLyAJCXZhbCA9IGZuKHZhbCwgeCk7CgkvLyAJfQoJLy8KCS8vIAlyZXR1cm4gdmFsOwoJLy8gfSwgMik7Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CSAqIAo=</text>
+        <text encoding="base64">CQkvLyBmb3IgKGxldCB4IG9mIHRoaXMpIHsKCQkvLyAJY29uc29sZS5sb2coeCk7CgkJLy8gfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CVJldHVybiB3aGV0aGVyIGEgdGhpbmcgaXMgaXRlcmFibGUuCg==</text>
+        <text encoding="base64">CSAqCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CVJldHVybiB3aGV0aGVyIGEgdGhpbmcgaXMgaXRlcmFibGUuCg==</text>
+        <text encoding="base64">Ly8gR2V0IHRoZSBpdGVyYXRvciBmb3IgdGhlIHRoaW5nIG9yIHRocm93IGFuIGVycm9yLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3Qgd3JhcE1hcEl0ZXJhYmxlID0gZnVuY3Rpb24oLi4uYXJncykgewoJcmV0dXJuIGNoYWluKG1hcEl0ZXJhYmxlLmNhbGwodGhpcywgLi4uYXJncykpOwp9Owo=</text>
+        <text encoding="base64">CSAqIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogQHBhcmFtIGRldmljZXMKICogQHBhcmFtIGlkCiAqIEBwYXJhbSBsZWFzZVRpbWVJbkhvdXJzCiAqIEBwYXJhbSBncmFjZVBlcmlvZEluTWludXRlcwogKiBAcmV0dXJuIHtQcm9taXNlPEZha2VXZWJTb2NrZXRDbGllbnQ+fQo=</text>
+        <text encoding="base64">CVJldHVybiB3aGV0aGVyIGEgdGhpbmcgaXMgaXRlcmFibGUuCg==</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
