@@ -500,11 +500,11 @@
         <mark key="^" line="96" column="96" />
         <mark key="." line="96" column="96" />
       </file>
-      <file name="C:/ubuntu/sfp/lobbybar/src/instruments/.eslintignore" timestamp="1522679389659">
-        <mark key="[" line="4" column="7" />
-        <mark key="]" line="4" column="35" />
-        <mark key="^" line="4" column="35" />
-        <mark key="." line="4" column="35" />
+      <file name="C:/ubuntu/sfp/lobbybar/src/instruments/.eslintignore" timestamp="1522681219456">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="1" />
+        <mark key="^" line="3" column="1" />
+        <mark key="." line="3" column="1" />
       </file>
       <file name="C:/ubuntu/sfp/lobbybar/src/instruments/test/graphaxisdatatest.js" timestamp="1522679526663">
         <mark key="'" line="18" column="38" />
@@ -595,12 +595,11 @@
         <mark key="^" line="5" column="24" />
         <mark key="." line="5" column="24" />
       </file>
-      <file name="C:/ubuntu/sfp/lobbybar/src/instruments/test/graphdatablocktest.js" timestamp="1522679763626">
-        <mark key="'" line="52" column="20" />
-        <mark key="[" line="53" column="8" />
-        <mark key="]" line="53" column="12" />
-        <mark key="." line="53" column="12" />
-        <mark key="^" line="53" column="12" />
+      <file name="C:/ubuntu/sfp/lobbybar/src/instruments/test/graphdatablocktest.js" timestamp="1522681069831">
+        <mark key="'" line="180" column="18" />
+        <mark key="[" line="181" column="0" />
+        <mark key="]" line="181" column="0" />
+        <mark key="." line="181" column="0" />
       </file>
       <file name="D:/Documents/Dropbox/Misc/projects/websocket/package.json" timestamp="1519481464636">
         <mark key="[" line="8" column="44" />
@@ -1062,18 +1061,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="0" filename="D:/deletethis/random-tests/index.js" />
-      <jump line="117" column="87" filename="C:/ubuntu-home/johnnycash/lobbybar/src/instruments/eslintrc.js" />
-      <jump line="66" column="43" filename="C:/ubuntu-home/johnnycash/signalingserver/src/app.js" />
-      <jump line="70" column="0" filename="C:/ubuntu-home/johnnycash/signalingserver/src/app.js" />
-      <jump line="54" column="30" filename="C:/ubuntu-home/johnnycash/signalingserver/src/server.js" />
-      <jump line="100" column="16" filename="C:/ubuntu-home/johnnycash/signalingserver/src/devices.js" />
-      <jump line="26" column="12" filename="C:/ubuntu-home/johnnycash/signalingserver/test/devicestests.js" />
-      <jump line="45" column="50" filename="C:/ubuntu-home/johnnycash/signalingserver/test/devicestests.js" />
-      <jump line="33" column="8" filename="C:/ubuntu-home/johnnycash/signalingserver/test/devicestests.js" />
-      <jump line="76" column="4" filename="C:/ubuntu-home/johnnycash/signalingserver/test/devicestests.js" />
-      <jump line="110" column="50" filename="C:/ubuntu-home/johnnycash/signalingserver/test/devicestests.js" />
-      <jump line="4" column="45" filename="C:/ubuntu-home/johnnycash/signalingserver/test/devicestests.js" />
       <jump line="106" column="4" filename="C:/ubuntu/sfp/signaling-server/test/graceperiodtests.js" />
       <jump line="20" column="6" filename="C:/ubuntu/sfp/signaling-server/test/graceperiodtests.js" />
       <jump line="90" column="0" filename="C:/ubuntu/sfp/signaling-server/test/graceperiodtests.js" />
@@ -1162,16 +1149,28 @@
       <jump line="18" column="38" filename="C:/ubuntu/sfp/lobbybar/src/instruments/test/graphaxisdatatest.js" />
       <jump line="30" column="4" filename="C:/ubuntu/sfp/lobbybar/src/instruments/test/graphdatablocktest.js" />
       <jump line="52" column="20" filename="C:/ubuntu/sfp/lobbybar/src/instruments/test/graphdatablocktest.js" />
+      <jump line="43" column="17" filename="C:/ubuntu/sfp/lobbybar/src/instruments/test/graphdatablocktest.js" />
+      <jump line="25" column="12" filename="C:/ubuntu/sfp/lobbybar/src/instruments/test/graphdatablocktest.js" />
+      <jump line="22" column="24" filename="C:/ubuntu/sfp/lobbybar/src/instruments/test/graphdatablocktest.js" />
+      <jump line="46" column="13" filename="C:/ubuntu/sfp/lobbybar/src/instruments/test/graphdatablocktest.js" />
+      <jump line="59" column="87" filename="C:/ubuntu/sfp/lobbybar/src/instruments/test/graphdatablocktest.js" />
+      <jump line="116" column="12" filename="C:/ubuntu/sfp/lobbybar/src/instruments/test/graphdatablocktest.js" />
+      <jump line="105" column="34" filename="C:/ubuntu/sfp/lobbybar/src/instruments/test/graphdatablocktest.js" />
+      <jump line="84" column="12" filename="C:/ubuntu/sfp/lobbybar/src/instruments/test/graphdatablocktest.js" />
+      <jump line="124" column="16" filename="C:/ubuntu/sfp/lobbybar/src/instruments/test/graphdatablocktest.js" />
+      <jump line="158" column="6" filename="C:/ubuntu/sfp/lobbybar/src/instruments/test/graphdatablocktest.js" />
+      <jump line="162" column="8" filename="C:/ubuntu/sfp/lobbybar/src/instruments/test/graphdatablocktest.js" />
+      <jump line="180" column="18" filename="C:/ubuntu/sfp/lobbybar/src/instruments/test/graphdatablocktest.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>/* does nothing */</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>let</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>let</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZWVyXD4=</text>
@@ -1180,34 +1179,34 @@
         <text encoding="base64">IyB0ZXN0LyoqCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgc2V0dXBDaGFubmVscyB9IGZyb20gJy4vZ3JhcGhkYXRhYmxvY2t0ZXN0LmpzJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CS8qKgoJICogY3JlYXRlIGNsaWVudCBoZWxwZXIKCSAqIEByZXR1cm4ge0RldmljZVdpbmRvd01lc3NhZ2VQcm94eX0KCSAqLwo=</text>
+        <text encoding="base64">CQljb25zdCBibG9jayA9IG5ldyBHcmFwaERhdGFCbG9jaygzKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CS8qKgoJICogQ3JlYXRlIHNlcnZlciBoZWxwZXIKCSAqIEByZXR1cm4ge0RldmljZVdpbmRvd01lc3NhZ2VQcm94eVNlcnZlcn0KCSAqLwo=</text>
+        <text encoding="base64">ICogQHBhcmFtIHsqfSBibG9jayB0aGUgYmxvY2sK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkvKioKCQkgKiBtb2NrIHdpbmRvdwoJCSAqIEB0eXBlIHt7bmV3KCk6IFdpbmRvd01vY2ssIHByb3RvdHlwZTogV2luZG93TW9ja319CgkJICovCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgc2V0dXBDaGFubmVscyB9IGZyb20gJy4vZ3JhcGhkYXRhYmxvY2t0ZXN0LmpzJzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CSogQHJldHVybiB7RGV2aWNlV2luZG93TWVzc2FnZVByb3h5fQo=</text>
+        <text encoding="base64">CS8qKgoJICogY3JlYXRlIGNsaWVudCBoZWxwZXIKCSAqIEByZXR1cm4ge0RldmljZVdpbmRvd01lc3NhZ2VQcm94eX0KCSAqLwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CSAqIEBjb25zdHJ1Y3Rvcgo=</text>
+        <text encoding="base64">CS8qKgoJICogQ3JlYXRlIHNlcnZlciBoZWxwZXIKCSAqIEByZXR1cm4ge0RldmljZVdpbmRvd01lc3NhZ2VQcm94eVNlcnZlcn0KCSAqLwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CSAqIEBjb25zdHJ1Y3Rvcgo=</text>
+        <text encoding="base64">CQkvKioKCQkgKiBtb2NrIHdpbmRvdwoJCSAqIEB0eXBlIHt7bmV3KCk6IFdpbmRvd01vY2ssIHByb3RvdHlwZTogV2luZG93TW9ja319CgkJICovCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CmNvbnN0IG1vY2tDaGlsZFdpbmRvdyA9IHsKCWxvY2F0aW9uOiBjaGlsZFVybCwKCXBvc3RNZXNzYWdlKG1zZykgewoJCXJldHVybiBtc2c7Cgl9LAoJTmF0aW9uYWxJbnN0cnVtZW50czogeyBtZWFzdXJlbWVudHNMaXZlOiB7IGluc3RydW1lbnQ6IHt9IH0gfSwKfTsK</text>
+        <text encoding="base64">CSogQHJldHVybiB7RGV2aWNlV2luZG93TWVzc2FnZVByb3h5fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgbW9ja0NoaWxkV2luZG93ID0gewoJbG9jYXRpb246IGNoaWxkVXJsLAoJcG9zdE1lc3NhZ2UobXNnKSB7CgkJcmV0dXJuIG1zZzsKCX0sCglOYXRpb25hbEluc3RydW1lbnRzOiB7IG1lYXN1cmVtZW50c0xpdmU6IHsgaW5zdHJ1bWVudDoge30gfSB9LAp9OwoK</text>
+        <text encoding="base64">CSAqIEBjb25zdHJ1Y3Rvcgo=</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
