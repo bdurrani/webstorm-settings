@@ -331,11 +331,11 @@
         <mark key="." line="85" column="7" />
         <mark key="^" line="87" column="64" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/src/apiroute.js" timestamp="1522779036309">
-        <mark key="[" line="71" column="23" />
-        <mark key="]" line="71" column="64" />
-        <mark key="^" line="71" column="22" />
-        <mark key="." line="71" column="22" />
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/src/apiroute.js" timestamp="1522780091558">
+        <mark key="[" line="72" column="41" />
+        <mark key="]" line="72" column="38" />
+        <mark key="^" line="72" column="38" />
+        <mark key="." line="72" column="38" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/selenium/helper/testDeviceHelper.js" timestamp="1516305446456">
         <mark key="[" line="1" column="52" />
@@ -1110,11 +1110,11 @@
       <register name="a" type="4">
         <text>{ leaseTimeInHours:</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CWFwaUtleSA6ICdTb21lIGxvbmcgc3RyaW5nIHRoYXQgYWN0cyBhcyBhbiBBUEkgS2V5JywK</text>
+      <register name="&quot;" type="4">
+        <text>'codePrefix'</text>
       </register>
       <register name="-" type="4">
-        <text>'Some long string that acts as an API Key'</text>
+        <text>'codePrefix'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZWVyXD4=</text>
