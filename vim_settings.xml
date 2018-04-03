@@ -181,6 +181,12 @@
         <mark key="." line="204" column="55" />
         <mark key="^" line="204" column="55" />
       </file>
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/dashboard/dashboard.js" timestamp="1522782204837">
+        <mark key="[" line="189" column="19" />
+        <mark key="]" line="190" column="12" />
+        <mark key="." line="190" column="12" />
+        <mark key="^" line="190" column="12" />
+      </file>
       <file name="C:/ubuntu/sfp/signaling-server/test/graceperiodtests.js" timestamp="1521654757982">
         <mark key="'" line="160" column="7" />
         <mark key="[" line="161" column="0" />
@@ -331,11 +337,18 @@
         <mark key="." line="85" column="7" />
         <mark key="^" line="87" column="64" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/src/apiroute.js" timestamp="1522780091558">
-        <mark key="[" line="72" column="41" />
-        <mark key="]" line="72" column="38" />
-        <mark key="^" line="72" column="38" />
-        <mark key="." line="72" column="38" />
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/src/apiroute.js" timestamp="1522782616417">
+        <mark key="'" line="54" column="9" />
+        <mark key="[" line="105" column="9" />
+        <mark key="]" line="105" column="9" />
+        <mark key="^" line="105" column="9" />
+        <mark key="." line="105" column="9" />
+      </file>
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/dashboard/dashboard.html" timestamp="1522781161572">
+        <mark key="[" line="177" column="13" />
+        <mark key="]" line="177" column="12" />
+        <mark key="." line="177" column="12" />
+        <mark key="^" line="177" column="12" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/selenium/helper/testDeviceHelper.js" timestamp="1516305446456">
         <mark key="[" line="1" column="52" />
@@ -813,6 +826,13 @@
         <mark key="^" line="134" column="4" />
         <mark key="." line="181" column="0" />
       </file>
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/src/clientroute.js" timestamp="1519915906397">
+        <mark key="'" line="18" column="6" />
+        <mark key="[" line="40" column="12" />
+        <mark key="]" line="40" column="19" />
+        <mark key="." line="40" column="19" />
+        <mark key="^" line="40" column="19" />
+      </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/src/instruments/src/bode/components/bode-analyzer/bode-analyzer.js" timestamp="1517412192962">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="72" />
@@ -1005,8 +1025,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="654" column="16" filename="C:/ubuntu-home/johnnycash/lobbybar/src/manager.js" />
-      <jump line="655" column="13" filename="C:/ubuntu-home/johnnycash/lobbybar/src/manager.js" />
       <jump line="647" column="47" filename="C:/ubuntu-home/johnnycash/lobbybar/src/manager.js" />
       <jump line="566" column="0" filename="C:/ubuntu-home/johnnycash/lobbybar/src/manager.js" />
       <jump line="567" column="58" filename="C:/ubuntu-home/johnnycash/lobbybar/src/manager.js" />
@@ -1105,22 +1123,24 @@
       <jump line="144" column="47" filename="C:/ubuntu/sfp/lobbybar/src/instruments/test/bode-analyzertest.js" />
       <jump line="171" column="47" filename="C:/ubuntu/sfp/lobbybar/src/instruments/test/bode-analyzertest.js" />
       <jump line="205" column="47" filename="C:/ubuntu/sfp/lobbybar/src/instruments/test/bode-analyzertest.js" />
+      <jump line="93" column="48" filename="C:/ubuntu-home/johnnycash/signalingserver/src/apiroute.js" />
+      <jump line="54" column="9" filename="C:/ubuntu-home/johnnycash/signalingserver/src/apiroute.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>{ leaseTimeInHours:</text>
       </register>
       <register name="&quot;" type="4">
-        <text>'codePrefix'</text>
+        <text>signalingServer</text>
       </register>
       <register name="-" type="4">
-        <text>'codePrefix'</text>
+        <text>signalingServer</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZWVyXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>'Some long string that acts as an API Key'</text>
+      <register name="0" type="2">
+        <text encoding="base64">CQkJCXNpZ25hbGluZ1NlcnZlci5hZGRFdmVudExpc3RlbmVyKCdvcGVuJywgKHBfRXZlbnQpID0+IHsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CWFwaUtleSA6ICdTb21lIGxvbmcgc3RyaW5nIHRoYXQgYWN0cyBhcyBhbiBBUEkgS2V5JywK</text>
