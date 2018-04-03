@@ -344,11 +344,11 @@
         <mark key="^" line="105" column="9" />
         <mark key="." line="105" column="9" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/dashboard/dashboard.html" timestamp="1522786483123">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="10" column="36" />
-        <mark key="." line="10" column="0" />
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/dashboard/dashboard.html" timestamp="1522787168643">
+        <mark key="[" line="40" column="35" />
+        <mark key="]" line="40" column="35" />
+        <mark key="^" line="40" column="35" />
+        <mark key="." line="40" column="35" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/selenium/helper/testDeviceHelper.js" timestamp="1516305446456">
         <mark key="[" line="1" column="52" />
@@ -1130,17 +1130,17 @@
       <register name="a" type="4">
         <text>{ leaseTimeInHours:</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJZmxleC1kaXJlY3Rpb246IGNvbHVtbjsK</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZWVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJncm91cCI+CiAgICAgICAgICAgIDxkaXYgY2xhc3M9Im1haW5IZWFkZXIiPlNpZ25hbGluZ3NlcnZlcjogPGRpdiBpZD0iY29ubmVjdGlvblN0YXRlIj5Ob3QgY29ubmVjdGVkPC9kaXY+PC9kaXY+CiAgICAgICAgICAgIDxkaXY+U2lnbmFsaW5nIHNlcnZlciBhZGRyZXNzPC9kaXY+CiAgICAgICAgICAgIDxkaXY+PGlucHV0IHR5cGU9InRleHQiIGlkPSJzaWduYWxpbmdzZXJ2ZXIiIHBsYWNlaG9sZGVyPSJTaWduYWxpbmcgc2VydmVyIj48aW5wdXQgdHlwZT0iYnV0dG9uIiBpZD0iY29ubmVjdCIgdmFsdWU9IkNvbm5lY3QiPjwvZGl2PgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJpbmZvIGxlZnQiPlByZWZpeDogPHNwYW4+QmxhaCBibGFoIGJsc2g8L3NwYW4+PC9kaXY+CiAgICAgICAgICAgIDxkaXY+TWVhc3VyZW1lbnRzIGxpdmUgYWRkcmVzczwvZGl2PgogICAgICAgICAgICA8ZGl2PjxpbnB1dCB0eXBlPSJ0ZXh0IiBpZD0ib3BlbndpdGgiIHBsYWNlaG9sZGVyPSJ1cmwgdG8gbWVhc3VyZW1lbnRzIGxpdmUiPjwvZGl2PgogICAgICAgICAgICA8ZGl2PjxpbnB1dCB0eXBlPSJidXR0b24iIGlkPSJyZXNldFNldHRpbmdzIiB2YWx1ZT0iUmVzZXQgc2V0dGluZ3MgdG8gZGVmYXVsdHMgYW5kIHJlbG9hZCBwYWdlIj48L2Rpdj4KCQk8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm9yZGVyOiAxMHB4IHNvbGlkIG1pc3R5cm9zZTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkJZmxleC1kaXJlY3Rpb246IGNvbHVtbjsK</text>
