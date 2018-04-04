@@ -337,12 +337,12 @@
         <mark key="." line="85" column="7" />
         <mark key="^" line="87" column="64" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/src/apiroute.js" timestamp="1522856659780">
-        <mark key="'" line="119" column="25" />
-        <mark key="[" line="72" column="42" />
-        <mark key="]" line="72" column="43" />
-        <mark key="^" line="72" column="43" />
-        <mark key="." line="72" column="43" />
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/src/apiroute.js" timestamp="1522857738551">
+        <mark key="'" line="109" column="39" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="32" />
+        <mark key="^" line="112" column="8" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/signalingserver/dashboard/dashboard.html" timestamp="1522854928402">
         <mark key="[" line="204" column="52" />
@@ -374,9 +374,9 @@
         <mark key="^" line="162" column="98" />
         <mark key="." line="162" column="92" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/src/deviceroute.js" timestamp="1519921061755">
-        <mark key="[" line="10" column="8" />
-        <mark key="]" line="10" column="15" />
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/src/deviceroute.js" timestamp="1522857731194">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="32" />
         <mark key="." line="10" column="15" />
         <mark key="^" line="10" column="15" />
       </file>
@@ -839,7 +839,7 @@
         <mark key="." line="3" column="61" />
         <mark key="^" line="3" column="61" />
       </file>
-      <file name="/JavaScript Console" timestamp="1522856665640">
+      <file name="/JavaScript Console" timestamp="1522857745049">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="^" line="0" column="7" />
@@ -1025,7 +1025,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="566" column="0" filename="C:/ubuntu-home/johnnycash/lobbybar/src/manager.js" />
       <jump line="567" column="58" filename="C:/ubuntu-home/johnnycash/lobbybar/src/manager.js" />
       <jump line="559" column="24" filename="C:/ubuntu-home/johnnycash/lobbybar/src/manager.js" />
       <jump line="558" column="53" filename="C:/ubuntu-home/johnnycash/lobbybar/src/manager.js" />
@@ -1125,22 +1124,23 @@
       <jump line="93" column="48" filename="C:/ubuntu-home/johnnycash/signalingserver/src/apiroute.js" />
       <jump line="54" column="9" filename="C:/ubuntu-home/johnnycash/signalingserver/src/apiroute.js" />
       <jump line="119" column="25" filename="C:/ubuntu-home/johnnycash/signalingserver/src/apiroute.js" />
+      <jump line="108" column="39" filename="C:/ubuntu-home/johnnycash/signalingserver/src/apiroute.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>{ leaseTimeInHours:</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>devicecodePrefix</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y29uc3QgV2ViU29ja2V0ID0gcmVxdWlyZSgnd3MnKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>devicecodePrefix</text>
+        <text>Closi</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZWVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJcGFnZS5kZXZpY2Vjb2RlUHJlZml4LnRleHRDb250ZW50ID0gcF9SZXN1bHQ7Cg==</text>
+        <text encoding="base64">Y29uc3QgV2ViU29ja2V0ID0gcmVxdWlyZSgnd3MnKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkJY29uc29sZS5sb2cocF9SZXN1bHQpOwo=</text>
