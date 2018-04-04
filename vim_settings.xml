@@ -181,11 +181,11 @@
         <mark key="." line="204" column="55" />
         <mark key="^" line="204" column="55" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/dashboard/dashboard.js" timestamp="1522856169669">
-        <mark key="[" line="487" column="53" />
-        <mark key="]" line="487" column="56" />
-        <mark key="." line="487" column="56" />
-        <mark key="^" line="487" column="56" />
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/dashboard/dashboard.js" timestamp="1522864052055">
+        <mark key="[" line="207" column="32" />
+        <mark key="]" line="207" column="33" />
+        <mark key="." line="207" column="33" />
+        <mark key="^" line="207" column="71" />
       </file>
       <file name="C:/ubuntu/sfp/signaling-server/test/graceperiodtests.js" timestamp="1521654757982">
         <mark key="'" line="160" column="7" />
@@ -1132,16 +1132,16 @@
         <text>{ leaseTimeInHours:</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">Y2xhc3M9J2luZm8nIA==</text>
+        <text>`</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y2xhc3M9J2luZm8nIA==</text>
+        <text>`</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZWVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkuY29udGFpbmVyIC5pbmZvIHNwYW4gLAo=</text>
+        <text encoding="base64">CQkJCQljb25zb2xlLmxvZyhgVGhlIGNvbm5lY3Rpb24gd2FzIGNsb3NlZC4gcmVhc29uOiAke3BfRXZlbnQucmVhc29ufWApOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkJZmxleC1kaXJlY3Rpb246IGNvbHVtbjsK</text>
