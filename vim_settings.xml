@@ -55,6 +55,13 @@
         <mark key="^" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="C:/ubuntu-home/johnnycash/lobbybar/test/app_integration.test.js" timestamp="1522955024491">
+        <mark key="'" line="40" column="0" />
+        <mark key="[" line="38" column="26" />
+        <mark key="]" line="38" column="33" />
+        <mark key="^" line="38" column="33" />
+        <mark key="." line="38" column="33" />
+      </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/src/instruments/src/multisim-shared/exporters/multisimCsvDataExporter.js" timestamp="1522177551502">
         <mark key="[" line="135" column="94" />
         <mark key="]" line="156" column="37" />
@@ -299,11 +306,11 @@
         <mark key="." line="85" column="23" />
         <mark key="^" line="85" column="23" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/lobbybar/.eslintignore" timestamp="1513173497353">
-        <mark key="[" line="2" column="17" />
-        <mark key="]" line="4" column="14" />
-        <mark key="^" line="4" column="14" />
-        <mark key="." line="4" column="14" />
+      <file name="C:/ubuntu-home/johnnycash/lobbybar/.eslintignore" timestamp="1522954482473">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="3" column="14" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/src/instruments/test/webchartsiframetest.js" timestamp="1517929390938">
         <mark key="[" line="61" column="4" />
@@ -311,10 +318,10 @@
         <mark key="." line="61" column="0" />
         <mark key="^" line="61" column="0" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/lobbybar/src/instruments/eslintrc.js" timestamp="1517588728332">
-        <mark key="'" line="117" column="87" />
-        <mark key="[" line="253" column="64" />
-        <mark key="]" line="253" column="75" />
+      <file name="C:/ubuntu-home/johnnycash/lobbybar/src/instruments/eslintrc.js" timestamp="1522954699713">
+        <mark key="'" line="247" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="9" column="5" />
         <mark key="." line="253" column="75" />
         <mark key="^" line="253" column="75" />
       </file>
@@ -721,6 +728,13 @@
         <mark key="^" line="48" column="2" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="C:/ubuntu-home/johnnycash/lobbybar/eslintrc.js" timestamp="1522954703345">
+        <mark key="'" line="247" column="88" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="9" column="6" />
+        <mark key="^" line="246" column="4" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="C:/ubuntu-home/johnnycash/signalingserver/test/graceperiodtests.js" timestamp="1518789019811">
         <mark key="'" line="11" column="25" />
         <mark key="[" line="4" column="0" />
@@ -1033,12 +1047,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="559" column="24" filename="C:/ubuntu-home/johnnycash/lobbybar/src/manager.js" />
-      <jump line="558" column="53" filename="C:/ubuntu-home/johnnycash/lobbybar/src/manager.js" />
-      <jump line="623" column="21" filename="C:/ubuntu-home/johnnycash/lobbybar/src/manager.js" />
-      <jump line="652" column="16" filename="C:/ubuntu-home/johnnycash/lobbybar/src/manager.js" />
-      <jump line="644" column="49" filename="C:/ubuntu-home/johnnycash/lobbybar/src/manager.js" />
-      <jump line="59" column="0" filename="C:/ubuntu-home/johnnycash/lobbybar/src/sfp_api.js" />
       <jump line="37" column="16" filename="C:/ubuntu-home/johnnycash/lobbybar/src/manager.js" />
       <jump line="564" column="45" filename="C:/ubuntu-home/johnnycash/lobbybar/src/manager.js" />
       <jump line="645" column="47" filename="C:/ubuntu-home/johnnycash/lobbybar/src/manager.js" />
@@ -1133,52 +1141,58 @@
       <jump line="119" column="25" filename="C:/ubuntu-home/johnnycash/signalingserver/src/apiroute.js" />
       <jump line="108" column="39" filename="C:/ubuntu-home/johnnycash/signalingserver/src/apiroute.js" />
       <jump line="195" column="9" filename="C:/ubuntu-home/johnnycash/signalingserver/dashboard/dashboard.html" />
+      <jump line="247" column="0" filename="C:/ubuntu-home/johnnycash/lobbybar/src/instruments/eslintrc.js" />
+      <jump line="244" column="88" filename="C:/ubuntu-home/johnnycash/lobbybar/eslintrc.js" />
+      <jump line="5" column="16" filename="C:/ubuntu-home/johnnycash/lobbybar/test/app_integration.test.js" />
+      <jump line="33" column="40" filename="C:/ubuntu-home/johnnycash/lobbybar/test/app_integration.test.js" />
+      <jump line="155" column="33" filename="C:/ubuntu-home/johnnycash/lobbybar/test/app_integration.test.js" />
+      <jump line="40" column="0" filename="C:/ubuntu-home/johnnycash/lobbybar/test/app_integration.test.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>{ leaseTimeInHours:</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>data-use-notice.html</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CWxldCBsb2JieVJvb3RVcmw7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>data-use-notice.html</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZWVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCQljb25zb2xlLmxvZyhgVGhlIGNvbm5lY3Rpb24gd2FzIGNsb3NlZC4gcmVhc29uOiAke3BfRXZlbnQucmVhc29ufWApOwo=</text>
+        <text encoding="base64">CXBsdWdpbnM6IFsKCQknamFzbWluZScKCV0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJZmxleC1kaXJlY3Rpb246IGNvbHVtbjsK</text>
+        <text encoding="base64">CWxldCBsb2JieVJvb3RVcmw7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJLypmbGV4OiAxIDEgYXV0bzsqLwo=</text>
+        <text encoding="base64">CWxldCBpbnN0clJvb3RVcmw7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJLyp3aWR0aDogNTAlOyovCgkJCS8qbWFyZ2luLXJpZ2h0OiAyMHB4OyovCg==</text>
+        <text encoding="base64">CQlsb2JieVJvb3RVcmwgPSBtZWFzdXJlbWVudHNMaXZlLmRldmljZUNvbnRyb2wucm9vdFVybDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkvKi50b3AtY29udGFpbmVyIHsqLwoJCQkvKmJveC1zaXppbmc6IGJvcmRlci1ib3g7Ki8KCQkJLypwYWRkaW5nOiAxZW07Ki8KCQkJLypib3gtc2hhZG93OiAwIDAgMWVtIGdyYXk7Ki8KCQkJLyptYXJnaW4tYm90dG9tOiAxZW07Ki8KCQkJLypkaXNwbGF5OiBmbGV4OyovCgkJCS8qZmxleC1mbG93OiByb3cgbm93cmFwOyovCgkJCS8qISpmbGV4OiAxIDEgYXV0bzsqISovCgkJLyp9Ki8KCg==</text>
+        <text encoding="base64">CQlpbnN0clJvb3RVcmwgPSBtZWFzdXJlbWVudHNMaXZlLmluc3RydW1lbnQucm9vdFVybDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJLypmbGV4OiAxIDEgYXV0bzsqLwo=</text>
+        <text encoding="base64">CQkJLy8JCQkianN4IjogdHJ1ZSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJZGlzcGxheTogZmxleDsK</text>
+        <text encoding="base64">dGVzdC8qKgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJbWFyZ2luLWJvdHRvbTogMWVtOwo=</text>
+        <text encoding="base64">CQkJZmxleC1kaXJlY3Rpb246IGNvbHVtbjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJYm94LXNpemluZzogYm9yZGVyLWJveDsK</text>
+        <text encoding="base64">CQkJLypmbGV4OiAxIDEgYXV0bzsqLwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJYm94LXNoYWRvdzogMCAwIDFlbSBncmF5Owo=</text>
+        <text encoding="base64">CQkJLyp3aWR0aDogNTAlOyovCgkJCS8qbWFyZ2luLXJpZ2h0OiAyMHB4OyovCg==</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
