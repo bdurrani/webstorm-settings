@@ -55,12 +55,12 @@
         <mark key="^" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/lobbybar/test/app_integration.test.js" timestamp="1522955024491">
-        <mark key="'" line="40" column="0" />
-        <mark key="[" line="38" column="26" />
-        <mark key="]" line="38" column="33" />
-        <mark key="^" line="38" column="33" />
-        <mark key="." line="38" column="33" />
+      <file name="C:/ubuntu-home/johnnycash/lobbybar/test/app_integration.test.js" timestamp="1522957854143">
+        <mark key="'" line="150" column="8" />
+        <mark key="[" line="164" column="0" />
+        <mark key="]" line="164" column="0" />
+        <mark key="." line="164" column="0" />
+        <mark key="^" line="140" column="73" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/src/instruments/src/multisim-shared/exporters/multisimCsvDataExporter.js" timestamp="1522177551502">
         <mark key="[" line="135" column="94" />
@@ -257,6 +257,13 @@
         <mark key="]" line="45" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="C:/ubuntu-home/johnnycash/lobbybar/test/topBoardInfoParser.test.js" timestamp="1522958203695">
+        <mark key="'" line="19" column="34" />
+        <mark key="[" line="87" column="21" />
+        <mark key="]" line="88" column="22" />
+        <mark key="^" line="88" column="22" />
+        <mark key="." line="88" column="22" />
+      </file>
       <file name="C:/ubuntu/sfp/signaling-server/src/deviceroute.js" timestamp="1521638935857">
         <mark key="[" line="84" column="20" />
         <mark key="]" line="84" column="24" />
@@ -306,10 +313,10 @@
         <mark key="." line="85" column="23" />
         <mark key="^" line="85" column="23" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/lobbybar/.eslintignore" timestamp="1522954482473">
+      <file name="C:/ubuntu-home/johnnycash/lobbybar/.eslintignore" timestamp="1522960148671">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="^" line="3" column="14" />
+        <mark key="^" line="7" column="8" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/src/instruments/test/webchartsiframetest.js" timestamp="1517929390938">
@@ -619,6 +626,13 @@
         <mark key="^" line="5" column="24" />
         <mark key="." line="5" column="24" />
       </file>
+      <file name="C:/ubuntu-home/johnnycash/lobbybar/test/utilities/testhelper.js" timestamp="1522958409584">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="36" column="20" />
+        <mark key="." line="36" column="20" />
+        <mark key="^" line="36" column="20" />
+      </file>
       <file name="D:/Documents/Dropbox/Misc/projects/websocket/package.json" timestamp="1519481464636">
         <mark key="[" line="8" column="44" />
         <mark key="]" line="8" column="57" />
@@ -734,6 +748,13 @@
         <mark key="]" line="9" column="6" />
         <mark key="^" line="246" column="4" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="C:/ubuntu-home/johnnycash/lobbybar/test/ni-footer.test.js" timestamp="1522958172207">
+        <mark key="'" line="16" column="27" />
+        <mark key="[" line="34" column="6" />
+        <mark key="]" line="34" column="6" />
+        <mark key="^" line="34" column="6" />
+        <mark key="." line="34" column="6" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/signalingserver/test/graceperiodtests.js" timestamp="1518789019811">
         <mark key="'" line="11" column="25" />
@@ -945,11 +966,12 @@
         <mark key="." line="15" column="8" />
         <mark key="^" line="15" column="8" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/lobbybar/test/autoconnect.test.js" timestamp="1516394646555">
-        <mark key="[" line="21" column="50" />
-        <mark key="]" line="21" column="50" />
-        <mark key="^" line="21" column="50" />
-        <mark key="." line="21" column="50" />
+      <file name="C:/ubuntu-home/johnnycash/lobbybar/test/autoconnect.test.js" timestamp="1522958059946">
+        <mark key="'" line="21" column="41" />
+        <mark key="[" line="7" column="90" />
+        <mark key="]" line="7" column="90" />
+        <mark key="^" line="7" column="90" />
+        <mark key="." line="7" column="90" />
       </file>
       <file name="D:/Dropbox/Misc/projects/websocket/src/device.js" timestamp="1519933324408">
         <mark key="[" line="20" column="23" />
@@ -979,6 +1001,13 @@
         <mark key="]" line="3" column="62" />
         <mark key="^" line="3" column="62" />
         <mark key="." line="3" column="62" />
+      </file>
+      <file name="C:/ubuntu-home/johnnycash/lobbybar/test/utilities/fakedevice.js" timestamp="1522959911349">
+        <mark key="'" line="46" column="30" />
+        <mark key="[" line="212" column="32" />
+        <mark key="]" line="213" column="17" />
+        <mark key="." line="213" column="17" />
+        <mark key="^" line="213" column="17" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/src/InstrumentLauncher.html" timestamp="1511551619578">
         <mark key="[" line="444" column="0" />
@@ -1047,26 +1076,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="16" filename="C:/ubuntu-home/johnnycash/lobbybar/src/manager.js" />
-      <jump line="564" column="45" filename="C:/ubuntu-home/johnnycash/lobbybar/src/manager.js" />
-      <jump line="645" column="47" filename="C:/ubuntu-home/johnnycash/lobbybar/src/manager.js" />
-      <jump line="574" column="37" filename="C:/ubuntu-home/johnnycash/lobbybar/src/manager.js" />
-      <jump line="603" column="37" filename="C:/ubuntu-home/johnnycash/lobbybar/src/manager.js" />
-      <jump line="116" column="0" filename="C:/ubuntu-home/johnnycash/lobbybar/src/sfp_api.js" />
-      <jump line="606" column="58" filename="C:/ubuntu-home/johnnycash/lobbybar/src/manager.js" />
-      <jump line="592" column="28" filename="C:/ubuntu-home/johnnycash/lobbybar/src/manager.js" />
-      <jump line="24" column="41" filename="C:/ubuntu-home/johnnycash/lobbybar/.travis.yml" />
-      <jump line="36" column="4" filename="C:/ubuntu-home/johnnycash/lobbybar/.travis.yml" />
-      <jump line="133" column="57" filename="C:/ubuntu-home/johnnycash/lobbybar/src/instruments/src/sfp-components/sfp-input/sfp-input.js" />
-      <jump line="14" column="32" filename="C:/ubuntu-home/johnnycash/lobbybar/src/instruments/src/sfp-components/sfp-input/sfp-input.js" />
-      <jump line="107" column="6" filename="C:/ubuntu-home/johnnycash/lobbybar/src/instruments/src/sfp-components/sfp-input/sfp-input.js" />
-      <jump line="215" column="31" filename="C:/ubuntu-home/johnnycash/lobbybar/src/instruments/src/sfp-components/sfp-input/sfp-input.js" />
-      <jump line="237" column="29" filename="C:/ubuntu-home/johnnycash/lobbybar/src/instruments/src/sfp-components/sfp-input/sfp-input.js" />
-      <jump line="522" column="6" filename="C:/ubuntu-home/johnnycash/lobbybar/src/instruments/src/sfp-components/sfp-input/sfp-input.js" />
-      <jump line="142" column="0" filename="C:/ubuntu-home/johnnycash/lobbybar/src/instruments/src/sfp-components/sfp-input/sfp-input.js" />
-      <jump line="218" column="20" filename="C:/ubuntu-home/johnnycash/lobbybar/src/instruments/src/sfp-components/sfp-input/sfp-input.js" />
-      <jump line="277" column="6" filename="C:/ubuntu-home/johnnycash/lobbybar/src/instruments/src/sfp-components/sfp-input/sfp-input.js" />
-      <jump line="267" column="6" filename="C:/ubuntu-home/johnnycash/lobbybar/src/instruments/src/sfp-components/sfp-input/sfp-input.js" />
       <jump line="9" column="6" filename="C:/ubuntu-home/johnnycash/lobbybar/src/instruments/src/sfp-components/sfp-numeric-input/sfp-numeric-input.js" />
       <jump line="7" column="76" filename="C:/ubuntu-home/johnnycash/lobbybar/src/instruments/src/sfp-components/sfp-numeric-input/sfp-numeric-input.js" />
       <jump line="36" column="21" filename="C:/ubuntu-home/johnnycash/lobbybar/src/instruments/src/sfp-components/sfp-numeric-input/sfp-numeric-input.js" />
@@ -1146,53 +1155,73 @@
       <jump line="5" column="16" filename="C:/ubuntu-home/johnnycash/lobbybar/test/app_integration.test.js" />
       <jump line="33" column="40" filename="C:/ubuntu-home/johnnycash/lobbybar/test/app_integration.test.js" />
       <jump line="155" column="33" filename="C:/ubuntu-home/johnnycash/lobbybar/test/app_integration.test.js" />
+      <jump line="94" column="49" filename="C:/ubuntu-home/johnnycash/lobbybar/test/app_integration.test.js" />
       <jump line="40" column="0" filename="C:/ubuntu-home/johnnycash/lobbybar/test/app_integration.test.js" />
+      <jump line="95" column="60" filename="C:/ubuntu-home/johnnycash/lobbybar/test/app_integration.test.js" />
+      <jump line="135" column="52" filename="C:/ubuntu-home/johnnycash/lobbybar/test/app_integration.test.js" />
+      <jump line="191" column="23" filename="C:/ubuntu-home/johnnycash/lobbybar/test/app_integration.test.js" />
+      <jump line="183" column="59" filename="C:/ubuntu-home/johnnycash/lobbybar/test/app_integration.test.js" />
+      <jump line="60" column="30" filename="C:/ubuntu-home/johnnycash/lobbybar/test/app_integration.test.js" />
+      <jump line="246" column="9" filename="C:/ubuntu-home/johnnycash/lobbybar/test/app_integration.test.js" />
+      <jump line="180" column="10" filename="C:/ubuntu-home/johnnycash/lobbybar/test/app_integration.test.js" />
+      <jump line="90" column="6" filename="C:/ubuntu-home/johnnycash/lobbybar/test/app_integration.test.js" />
+      <jump line="174" column="10" filename="C:/ubuntu-home/johnnycash/lobbybar/test/app_integration.test.js" />
+      <jump line="150" column="8" filename="C:/ubuntu-home/johnnycash/lobbybar/test/app_integration.test.js" />
+      <jump line="34" column="32" filename="C:/ubuntu-home/johnnycash/lobbybar/test/topBoardInfoParser.test.js" />
+      <jump line="95" column="20" filename="C:/ubuntu-home/johnnycash/lobbybar/test/topBoardInfoParser.test.js" />
+      <jump line="21" column="41" filename="C:/ubuntu-home/johnnycash/lobbybar/test/autoconnect.test.js" />
+      <jump line="16" column="27" filename="C:/ubuntu-home/johnnycash/lobbybar/test/ni-footer.test.js" />
+      <jump line="19" column="34" filename="C:/ubuntu-home/johnnycash/lobbybar/test/topBoardInfoParser.test.js" />
+      <jump line="13" column="25" filename="C:/ubuntu-home/johnnycash/lobbybar/test/utilities/testhelper.js" />
+      <jump line="5" column="0" filename="C:/ubuntu-home/johnnycash/lobbybar/test/utilities/testhelper.js" />
+      <jump line="13" column="39" filename="C:/ubuntu-home/johnnycash/lobbybar/test/utilities/fakedevice.js" />
+      <jump line="46" column="30" filename="C:/ubuntu-home/johnnycash/lobbybar/test/utilities/fakedevice.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>{ leaseTimeInHours:</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CWxldCBsb2JieVJvb3RVcmw7Cg==</text>
+        <text encoding="base64">I3Rlc3QvKioK</text>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text encoding="base64">Ly8gcmV0dXJuIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZWVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CXBsdWdpbnM6IFsKCQknamFzbWluZScKCV0sCg==</text>
+        <text encoding="base64">CQkvLyByZXR1cm4gdGhpcy5vbmNsb3NlICYmIHRoaXMub25jbG9zZSgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWxldCBsb2JieVJvb3RVcmw7Cg==</text>
+        <text encoding="base64">I3Rlc3QvKioK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWxldCBpbnN0clJvb3RVcmw7Cg==</text>
+        <text encoding="base64">CQkvLyByZXR1cm4gUHJvbWlzZS5yZXNvbHZlKCkudGhlbigoKSA9PiB7CgkJLy8gCXRoaXMuX2Nvbm5lY3RlZCA9IHRydWU7CgkJLy8gfSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlsb2JieVJvb3RVcmwgPSBtZWFzdXJlbWVudHNMaXZlLmRldmljZUNvbnRyb2wucm9vdFVybDsK</text>
+        <text encoding="base64">CQlyZXR1cm47Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlpbnN0clJvb3RVcmwgPSBtZWFzdXJlbWVudHNMaXZlLmluc3RydW1lbnQucm9vdFVybDsK</text>
+        <text encoding="base64">CQkJdGhpcy5fCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJLy8JCQkianN4IjogdHJ1ZSwK</text>
+        <text encoding="base64">CQlyZXR1cm47Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dGVzdC8qKgo=</text>
+        <text encoding="base64">CQkJdGhpcy5vbmNsb3NlICYmIHRoaXMub25jbG9zZSgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJZmxleC1kaXJlY3Rpb246IGNvbHVtbjsK</text>
+        <text encoding="base64">CQkJdGhpcy5fY29ubmVjdGVkID0gZmFsc2U7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJLypmbGV4OiAxIDEgYXV0bzsqLwo=</text>
+        <text encoding="base64">CQlyZXR1cm47Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJLyp3aWR0aDogNTAlOyovCgkJCS8qbWFyZ2luLXJpZ2h0OiAyMHB4OyovCg==</text>
+        <text encoding="base64">CQlyZXR1cm4gUHJvbWlzZS5yZXNvbHZlKCkudGhlbigoKSA9PiB7CgkJfSkudGhlbigoKSA9PiB7CgkJfSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
