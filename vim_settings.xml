@@ -455,10 +455,11 @@
         <mark key="." line="60" column="4" />
         <mark key="^" line="60" column="4" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/config/default.js" timestamp="1522779055719">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="56" />
-        <mark key="." line="2" column="0" />
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/config/default.js" timestamp="1522937564536">
+        <mark key="[" line="1" column="20" />
+        <mark key="]" line="1" column="75" />
+        <mark key="." line="1" column="75" />
+        <mark key="^" line="1" column="75" />
       </file>
       <file name="D:/deletethis/boilerplate/js/main.js" timestamp="1509995685632">
         <mark key="[" line="11" column="23" />
@@ -1132,10 +1133,10 @@
         <text>{ leaseTimeInHours:</text>
       </register>
       <register name="&quot;" type="4">
-        <text>`</text>
+        <text>data-use-notice.html</text>
       </register>
       <register name="-" type="4">
-        <text>`</text>
+        <text>data-use-notice.html</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZWVyXD4=</text>
