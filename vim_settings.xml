@@ -45,12 +45,12 @@
         <mark key="^" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/lobbybar/test/app_integration.test.js" timestamp="1523019230860">
-        <mark key="'" line="168" column="10" />
-        <mark key="[" line="178" column="25" />
-        <mark key="]" line="178" column="25" />
-        <mark key="." line="178" column="25" />
-        <mark key="^" line="178" column="25" />
+      <file name="C:/ubuntu-home/johnnycash/lobbybar/test/app_integration.test.js" timestamp="1523020858773">
+        <mark key="'" line="170" column="22" />
+        <mark key="[" line="151" column="39" />
+        <mark key="]" line="151" column="39" />
+        <mark key="." line="151" column="39" />
+        <mark key="^" line="151" column="39" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/src/instruments/src/multisim-shared/exporters/multisimCsvDataExporter.js" timestamp="1522177551502">
         <mark key="[" line="135" column="94" />
@@ -987,7 +987,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="0" filename="D:/deletethis/random-tests/index.js" />
       <jump line="117" column="87" filename="C:/ubuntu-home/johnnycash/lobbybar/src/instruments/eslintrc.js" />
       <jump line="66" column="43" filename="C:/ubuntu-home/johnnycash/signalingserver/src/app.js" />
       <jump line="70" column="0" filename="C:/ubuntu-home/johnnycash/signalingserver/src/app.js" />
@@ -1087,6 +1086,7 @@
       <jump line="142" column="10" filename="C:/ubuntu-home/johnnycash/lobbybar/test/app_integration.test.js" />
       <jump line="17" column="31" filename="C:/ubuntu-home/johnnycash/lobbybar/test/app_integration.test.js" />
       <jump line="168" column="10" filename="C:/ubuntu-home/johnnycash/lobbybar/test/app_integration.test.js" />
+      <jump line="170" column="22" filename="C:/ubuntu-home/johnnycash/lobbybar/test/app_integration.test.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
