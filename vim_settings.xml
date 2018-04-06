@@ -324,11 +324,10 @@
         <mark key="." line="85" column="23" />
         <mark key="^" line="85" column="23" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/lobbybar/.eslintignore" timestamp="1523026203476">
+      <file name="C:/ubuntu-home/johnnycash/lobbybar/.eslintignore" timestamp="1523045839071">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="0" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/src/instruments/test/webchartsiframetest.js" timestamp="1517929390938">
         <mark key="[" line="61" column="4" />
@@ -738,12 +737,12 @@
         <mark key="." line="65" column="47" />
         <mark key="^" line="65" column="12" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/lobbybar/test/i18n-validate-test.js" timestamp="1523041088949">
+      <file name="C:/ubuntu-home/johnnycash/lobbybar/test/i18n-validate-test.js" timestamp="1523045673646">
         <mark key="'" line="24" column="6" />
-        <mark key="[" line="116" column="55" />
-        <mark key="]" line="116" column="58" />
-        <mark key="." line="116" column="58" />
-        <mark key="^" line="116" column="58" />
+        <mark key="[" line="124" column="0" />
+        <mark key="]" line="124" column="0" />
+        <mark key="^" line="123" column="68" />
+        <mark key="." line="124" column="0" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/src/instruments/src/multisim-shared/eslintrc.js" timestamp="1517588403807">
         <mark key="[" line="246" column="0" />
@@ -1214,10 +1213,10 @@
         <text>{ leaseTimeInHours:</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHRyYW5zbGF0ZSBmcm9tICcuLi9zcmMvaW5zdHJ1bWVudHMvc3JjL211bHRpc2ltLXNoYXJlZC91dGlsaXRpZXMvdHJhbnNsYXRlJzsK</text>
+        <text encoding="base64">I3Rlc3QvaTE4bi12YWxpZGF0ZS10ZXN0LmpzCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Jg==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZWVyXD4=</text>
@@ -1226,7 +1225,7 @@
         <text>en.locale_data.messages[p_Key]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHRyYW5zbGF0ZSBmcm9tICcuLi9zcmMvaW5zdHJ1bWVudHMvc3JjL211bHRpc2ltLXNoYXJlZC91dGlsaXRpZXMvdHJhbnNsYXRlJzsK</text>
+        <text encoding="base64">I3Rlc3QvaTE4bi12YWxpZGF0ZS10ZXN0LmpzCg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -1238,22 +1237,22 @@
         <text encoding="base64">CQkJCWZhaWwoYGV4cGVjdGVkIGJsYS5sb2NhbGVfZGF0YS5tZXNzYWdlcyB0byBoYXZlIGEgdHJhbnNsYXRpb24gZm9yICIke3BfS2V5fSJgKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCWV4cGVjdChwX0tleSkudG9CZShlbi5sb2NhbGVfZGF0YS5tZXNzYWdlc1twX0tleV0udHJhbnNsYXRpb25bMF0pOwo=</text>
+        <text encoding="base64">aW1wb3J0IHRyYW5zbGF0ZSBmcm9tICcuLi9zcmMvaW5zdHJ1bWVudHMvc3JjL211bHRpc2ltLXNoYXJlZC91dGlsaXRpZXMvdHJhbnNsYXRlJzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJbGV0IHJlc3VsdCA9IDA7Cg==</text>
+        <text encoding="base64">CQkJCWZhaWwoYGV4cGVjdGVkIG5vIHRyYW5zbGF0aW9uICIke3BfS2V5fSIgaW4gYmxhLmxvY2FsZV9kYXRhLm1lc3NhZ2VzYCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">I3Rlc3QvZW1iZWRkZWRfc2ZwLnRlc3QuanMK</text>
+        <text encoding="base64">CQkJCWZhaWwoYGV4cGVjdGVkIGJsYS5sb2NhbGVfZGF0YS5tZXNzYWdlcyB0byBoYXZlIGEgdHJhbnNsYXRpb24gZm9yICIke3BfS2V5fSJgKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQl9KS50aGVuKGRvbmUpOwo=</text>
+        <text encoding="base64">CQkJCWV4cGVjdChwX0tleSkudG9CZShlbi5sb2NhbGVfZGF0YS5tZXNzYWdlc1twX0tleV0udHJhbnNsYXRpb25bMF0pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJLnRoZW4oKCkgPT4gewo=</text>
+        <text encoding="base64">CQkJbGV0IHJlc3VsdCA9IDA7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQl9KTsK</text>
+        <text encoding="base64">I3Rlc3QvZW1iZWRkZWRfc2ZwLnRlc3QuanMK</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
