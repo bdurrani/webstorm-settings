@@ -45,6 +45,13 @@
         <mark key="^" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="C:/ubuntu-home/johnnycash/lobbybar/test/app_integration.test.js" timestamp="1523019230860">
+        <mark key="'" line="168" column="10" />
+        <mark key="[" line="178" column="25" />
+        <mark key="]" line="178" column="25" />
+        <mark key="." line="178" column="25" />
+        <mark key="^" line="178" column="25" />
+      </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/src/instruments/src/multisim-shared/exporters/multisimCsvDataExporter.js" timestamp="1522177551502">
         <mark key="[" line="135" column="94" />
         <mark key="]" line="156" column="37" />
@@ -980,9 +987,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="6" filename="C:/ubuntu-home/johnnycash/lobbybar/src/instruments/src/sfp-components/sfp-numeric-input/sfp-numeric-input.js" />
-      <jump line="7" column="76" filename="C:/ubuntu-home/johnnycash/lobbybar/src/instruments/src/sfp-components/sfp-numeric-input/sfp-numeric-input.js" />
-      <jump line="36" column="21" filename="C:/ubuntu-home/johnnycash/lobbybar/src/instruments/src/sfp-components/sfp-numeric-input/sfp-numeric-input.js" />
       <jump line="25" column="0" filename="D:/deletethis/random-tests/index.js" />
       <jump line="117" column="87" filename="C:/ubuntu-home/johnnycash/lobbybar/src/instruments/eslintrc.js" />
       <jump line="66" column="43" filename="C:/ubuntu-home/johnnycash/signalingserver/src/app.js" />
@@ -1080,16 +1084,19 @@
       <jump line="5" column="0" filename="C:/ubuntu-home/johnnycash/lobbybar/test/utilities/testhelper.js" />
       <jump line="13" column="39" filename="C:/ubuntu-home/johnnycash/lobbybar/test/utilities/fakedevice.js" />
       <jump line="46" column="30" filename="C:/ubuntu-home/johnnycash/lobbybar/test/utilities/fakedevice.js" />
+      <jump line="142" column="10" filename="C:/ubuntu-home/johnnycash/lobbybar/test/app_integration.test.js" />
+      <jump line="17" column="31" filename="C:/ubuntu-home/johnnycash/lobbybar/test/app_integration.test.js" />
+      <jump line="168" column="10" filename="C:/ubuntu-home/johnnycash/lobbybar/test/app_integration.test.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>{ leaseTimeInHours:</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">I3Rlc3QvKioK</text>
+        <text encoding="base64">CQkJZXhwZWN0KG1hbmFnZXIuYWN0aXZlRGV2aWNlKS50b0JlRmFsc3koKTsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Ly8gcmV0dXJuIA==</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZWVyXD4=</text>
@@ -1098,34 +1105,34 @@
         <text encoding="base64">CQkvLyByZXR1cm4gdGhpcy5vbmNsb3NlICYmIHRoaXMub25jbG9zZSgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">I3Rlc3QvKioK</text>
+        <text encoding="base64">CQkJZXhwZWN0KG1hbmFnZXIuYWN0aXZlRGV2aWNlKS50b0JlRmFsc3koKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkvLyByZXR1cm4gUHJvbWlzZS5yZXNvbHZlKCkudGhlbigoKSA9PiB7CgkJLy8gCXRoaXMuX2Nvbm5lY3RlZCA9IHRydWU7CgkJLy8gfSk7Cg==</text>
+        <text encoding="base64">CWxldCBsb2JieVJvb3RVcmw7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlyZXR1cm47Cg==</text>
+        <text encoding="base64">CWxldCBpbnN0clJvb3RVcmw7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJdGhpcy5fCg==</text>
+        <text encoding="base64">I3Rlc3QvKioK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlyZXR1cm47Cg==</text>
+        <text encoding="base64">CQkvLyByZXR1cm4gUHJvbWlzZS5yZXNvbHZlKCkudGhlbigoKSA9PiB7CgkJLy8gCXRoaXMuX2Nvbm5lY3RlZCA9IHRydWU7CgkJLy8gfSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJdGhpcy5vbmNsb3NlICYmIHRoaXMub25jbG9zZSgpOwo=</text>
+        <text encoding="base64">CQlyZXR1cm47Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJdGhpcy5fY29ubmVjdGVkID0gZmFsc2U7Cg==</text>
+        <text encoding="base64">CQkJdGhpcy5fCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">CQlyZXR1cm47Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlyZXR1cm4gUHJvbWlzZS5yZXNvbHZlKCkudGhlbigoKSA9PiB7CgkJfSkudGhlbigoKSA9PiB7CgkJfSk7Cg==</text>
+        <text encoding="base64">CQkJdGhpcy5vbmNsb3NlICYmIHRoaXMub25jbG9zZSgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
