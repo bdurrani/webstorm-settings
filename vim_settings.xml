@@ -652,11 +652,12 @@
         <mark key="^" line="8" column="57" />
         <mark key="." line="8" column="57" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/lobbybar/build.js" timestamp="1515078287540">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
-        <mark key="^" line="42" column="0" />
+      <file name="C:/ubuntu-home/johnnycash/lobbybar/build.js" timestamp="1523048241044">
+        <mark key="'" line="369" column="0" />
+        <mark key="[" line="384" column="4" />
+        <mark key="]" line="384" column="4" />
+        <mark key="." line="384" column="5" />
+        <mark key="^" line="352" column="5" />
       </file>
       <file name="C:/ubuntu-home/dotfiles-for-wsl/zsh/aliases.zsh" timestamp="1511472305060">
         <mark key="[" line="1" column="27" />
@@ -1107,7 +1108,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="90" column="0" filename="C:/ubuntu/sfp/signaling-server/test/graceperiodtests.js" />
       <jump line="41" column="27" filename="C:/github/jc/signalingserver/src/server.js" />
       <jump line="7" column="0" filename="D:/Documents/Dropbox/Misc/projects/websocket/simpleclient.js" />
       <jump line="53" column="0" filename="D:/Documents/Dropbox/Misc/projects/websocket/simpleclient.js" />
@@ -1207,16 +1207,17 @@
       <jump line="86" column="0" filename="C:/ubuntu-home/johnnycash/lobbybar/test/i18n-validate-test.js" />
       <jump line="126" column="10" filename="C:/ubuntu-home/johnnycash/lobbybar/test/i18n-validate-test.js" />
       <jump line="24" column="6" filename="C:/ubuntu-home/johnnycash/lobbybar/test/i18n-validate-test.js" />
+      <jump line="369" column="0" filename="C:/ubuntu-home/johnnycash/lobbybar/build.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>{ leaseTimeInHours:</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">I3Rlc3QvaTE4bi12YWxpZGF0ZS10ZXN0LmpzCg==</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZWVyXD4=</text>
@@ -1225,34 +1226,34 @@
         <text>en.locale_data.messages[p_Key]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">I3Rlc3QvaTE4bi12YWxpZGF0ZS10ZXN0LmpzCg==</text>
+        <text encoding="base64">CQkJLnRoZW4oKCkgPT4gewo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCWZhaWwoYGV4cGVjdGVkIG5vIHRyYW5zbGF0aW9uICIke3BfS2V5fSIgaW4gYmxhLmxvY2FsZV9kYXRhLm1lc3NhZ2VzYCk7Cg==</text>
+        <text encoding="base64">CQkudGhlbigoKSA9PiB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCWZhaWwoYGV4cGVjdGVkIGJsYS5sb2NhbGVfZGF0YS5tZXNzYWdlcyB0byBoYXZlIGEgdHJhbnNsYXRpb24gZm9yICIke3BfS2V5fSJgKTsK</text>
+        <text encoding="base64">CQkudGhlbigoKSA9PiB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHRyYW5zbGF0ZSBmcm9tICcuLi9zcmMvaW5zdHJ1bWVudHMvc3JjL211bHRpc2ltLXNoYXJlZC91dGlsaXRpZXMvdHJhbnNsYXRlJzsK</text>
+        <text encoding="base64">CQkudGhlbigoKSA9PiB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCWZhaWwoYGV4cGVjdGVkIG5vIHRyYW5zbGF0aW9uICIke3BfS2V5fSIgaW4gYmxhLmxvY2FsZV9kYXRhLm1lc3NhZ2VzYCk7Cg==</text>
+        <text encoding="base64">PXMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCWZhaWwoYGV4cGVjdGVkIGJsYS5sb2NhbGVfZGF0YS5tZXNzYWdlcyB0byBoYXZlIGEgdHJhbnNsYXRpb24gZm9yICIke3BfS2V5fSJgKTsK</text>
+        <text encoding="base64">CQkudGhlbigoKSA9PiB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCWV4cGVjdChwX0tleSkudG9CZShlbi5sb2NhbGVfZGF0YS5tZXNzYWdlc1twX0tleV0udHJhbnNsYXRpb25bMF0pOwo=</text>
+        <text encoding="base64">CX0pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJbGV0IHJlc3VsdCA9IDA7Cg==</text>
+        <text encoding="base64">I3Rlc3QvaTE4bi12YWxpZGF0ZS10ZXN0LmpzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">I3Rlc3QvZW1iZWRkZWRfc2ZwLnRlc3QuanMK</text>
+        <text encoding="base64">CQkJCWZhaWwoYGV4cGVjdGVkIG5vIHRyYW5zbGF0aW9uICIke3BfS2V5fSIgaW4gYmxhLmxvY2FsZV9kYXRhLm1lc3NhZ2VzYCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
