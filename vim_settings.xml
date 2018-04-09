@@ -652,12 +652,12 @@
         <mark key="^" line="8" column="57" />
         <mark key="." line="8" column="57" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/lobbybar/build.js" timestamp="1523048241044">
-        <mark key="'" line="369" column="0" />
-        <mark key="[" line="384" column="4" />
-        <mark key="]" line="384" column="4" />
-        <mark key="." line="384" column="5" />
-        <mark key="^" line="352" column="5" />
+      <file name="C:/ubuntu-home/johnnycash/lobbybar/build.js" timestamp="1523304220235">
+        <mark key="'" line="370" column="0" />
+        <mark key="[" line="74" column="41" />
+        <mark key="]" line="74" column="42" />
+        <mark key="." line="74" column="42" />
+        <mark key="^" line="74" column="42" />
       </file>
       <file name="C:/ubuntu-home/dotfiles-for-wsl/zsh/aliases.zsh" timestamp="1511472305060">
         <mark key="[" line="1" column="27" />
@@ -1213,8 +1213,8 @@
       <register name="a" type="4">
         <text>{ leaseTimeInHours:</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CWZzLmNvcHlTeW5jKCdzcmMvaW5zdHJ1bWVudHMvc3JjL0JvZGUuaHRtbCcsIGAke2J1aWxkRGlyfWluc3RydW1lbnRzL0JvZGUuaHRtbGApOwo=</text>
       </register>
       <register name="-" type="4">
         <text>;</text>
@@ -1222,8 +1222,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxwZWVyXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>en.locale_data.messages[p_Key]</text>
+      <register name="0" type="2">
+        <text encoding="base64">CWZzLmNvcHlTeW5jKCdzcmMvaW5zdHJ1bWVudHMvc3JjL0JvZGUuaHRtbCcsIGAke2J1aWxkRGlyfWluc3RydW1lbnRzL0JvZGUuaHRtbGApOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkJLnRoZW4oKCkgPT4gewo=</text>
