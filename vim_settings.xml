@@ -652,12 +652,12 @@
         <mark key="^" line="8" column="57" />
         <mark key="." line="8" column="57" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/lobbybar/build.js" timestamp="1523304220235">
+      <file name="C:/ubuntu-home/johnnycash/lobbybar/build.js" timestamp="1523305031310">
         <mark key="'" line="370" column="0" />
-        <mark key="[" line="74" column="41" />
-        <mark key="]" line="74" column="42" />
-        <mark key="." line="74" column="42" />
-        <mark key="^" line="74" column="42" />
+        <mark key="[" line="396" column="50" />
+        <mark key="]" line="397" column="19" />
+        <mark key="." line="397" column="19" />
+        <mark key="^" line="397" column="19" />
       </file>
       <file name="C:/ubuntu-home/dotfiles-for-wsl/zsh/aliases.zsh" timestamp="1511472305060">
         <mark key="[" line="1" column="27" />
@@ -1214,7 +1214,7 @@
         <text>{ leaseTimeInHours:</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CWZzLmNvcHlTeW5jKCdzcmMvaW5zdHJ1bWVudHMvc3JjL0JvZGUuaHRtbCcsIGAke2J1aWxkRGlyfWluc3RydW1lbnRzL0JvZGUuaHRtbGApOwo=</text>
+        <text encoding="base64">CXByb2Nlc3MuZXhpdAo=</text>
       </register>
       <register name="-" type="4">
         <text>;</text>
@@ -1226,13 +1226,13 @@
         <text encoding="base64">CWZzLmNvcHlTeW5jKCdzcmMvaW5zdHJ1bWVudHMvc3JjL0JvZGUuaHRtbCcsIGAke2J1aWxkRGlyfWluc3RydW1lbnRzL0JvZGUuaHRtbGApOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJLnRoZW4oKCkgPT4gewo=</text>
+        <text encoding="base64">CXByb2Nlc3MuZXhpdAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkudGhlbigoKSA9PiB7Cg==</text>
+        <text encoding="base64">CQkJLnRoZW4oKCkgPT4gewo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">CQkudGhlbigoKSA9PiB7Cg==</text>
@@ -1241,19 +1241,19 @@
         <text encoding="base64">CQkudGhlbigoKSA9PiB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PXMK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">CQkudGhlbigoKSA9PiB7Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">PXMK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">CX0pCg==</text>
+        <text encoding="base64">CQkudGhlbigoKSA9PiB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">I3Rlc3QvaTE4bi12YWxpZGF0ZS10ZXN0LmpzCg==</text>
+        <text encoding="base64">CX0pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCWZhaWwoYGV4cGVjdGVkIG5vIHRyYW5zbGF0aW9uICIke3BfS2V5fSIgaW4gYmxhLmxvY2FsZV9kYXRhLm1lc3NhZ2VzYCk7Cg==</text>
+        <text encoding="base64">I3Rlc3QvaTE4bi12YWxpZGF0ZS10ZXN0LmpzCg==</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
