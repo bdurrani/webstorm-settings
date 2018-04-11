@@ -297,12 +297,12 @@
         <mark key="." line="40" column="19" />
         <mark key="^" line="40" column="19" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/lobbybar/test/measurements-live-bar.test.js" timestamp="1523477009402">
-        <mark key="'" line="54" column="8" />
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
-        <mark key="^" line="54" column="12" />
+      <file name="C:/ubuntu-home/johnnycash/lobbybar/test/measurements-live-bar.test.js" timestamp="1523478382283">
+        <mark key="'" line="77" column="6" />
+        <mark key="[" line="128" column="26" />
+        <mark key="]" line="128" column="26" />
+        <mark key="." line="128" column="26" />
+        <mark key="^" line="128" column="26" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/src/instruments/src/sfp-components/sfp-input/sfp-input.js" timestamp="1517433256361">
         <mark key="'" line="267" column="6" />
@@ -359,7 +359,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="132" column="41" filename="C:/ubuntu-home/johnnycash/signalingserver/src/devices.js" />
       <jump line="65" column="13" filename="C:/ubuntu-home/johnnycash/signalingserver/src/devices.js" />
       <jump line="68" column="0" filename="C:/ubuntu-home/johnnycash/signalingserver/src/leasetime.js" />
       <jump line="91" column="0" filename="C:/ubuntu-home/johnnycash/signalingserver/src/leasetime.js" />
@@ -459,16 +458,17 @@
       <jump line="41" column="6" filename="C:/ubuntu-home/johnnycash/lobbybar/test/measurements-live-bar.test.js" />
       <jump line="58" column="61" filename="C:/ubuntu-home/johnnycash/lobbybar/test/measurements-live-bar.test.js" />
       <jump line="54" column="8" filename="C:/ubuntu-home/johnnycash/lobbybar/test/measurements-live-bar.test.js" />
+      <jump line="77" column="6" filename="C:/ubuntu-home/johnnycash/lobbybar/test/measurements-live-bar.test.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>{ leaseTimeInHours:</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQljb25zdCBjYWxsQ291bnQgPSBhY3RpdmVSZXF1ZXN0Lm9wZW4uY2FsbHMuY291bnQoKTsK</text>
+        <text encoding="base64">CQkJLnRoZW4oKCkgPT4gewo=</text>
       </register>
       <register name="-" type="4">
-        <text>let</text>
+        <text>done</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZWVyXD4=</text>
@@ -477,34 +477,34 @@
         <text>/* do nothing */</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQljb25zdCBjYWxsQ291bnQgPSBhY3RpdmVSZXF1ZXN0Lm9wZW4uY2FsbHMuY291bnQoKTsK</text>
+        <text encoding="base64">CQkJLnRoZW4oKCkgPT4gewo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dGVzdC9tZWFzdXJlbWVudHMtbGl2ZS1iYXIudGVzdC5qcwo=</text>
+        <text encoding="base64">CQl9KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWNvbnN0IGZha2VKY0RldmljZSA9IHsKCQlzZW5kQ29tbWFuZCgpIHsgLyogZG8gbm90aGluZyAqLyB9LAoJCWFjdGl2ZURldmljZTogeyAvKiBkbyBub3RoaW5nICovIH0sCgl9Owo=</text>
+        <text encoding="base64">CQl9KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dGVzdC9pbnN0cnVtZW50LXRhYi50ZXN0LmpzCg==</text>
+        <text encoding="base64">CQl9KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWZzLmNvcHlTeW5jKCdzcmMvaW5zdHJ1bWVudHMvc3JjL0JvZGV4eC5odG1sJywgYCR7YnVpbGREaXJ9aW5zdHJ1bWVudHMvQm9kZS5odG1sYCk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CXByb2Nlc3MuZXhpdAo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">CQkJLnRoZW4oKCkgPT4gewo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJCQkJLnRoZW4oKCkgPT4gewo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQljb25zdCBjYWxsQ291bnQgPSBhY3RpdmVSZXF1ZXN0Lm9wZW4uY2FsbHMuY291bnQoKTsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkudGhlbigoKSA9PiB7Cg==</text>
+        <text encoding="base64">dGVzdC9tZWFzdXJlbWVudHMtbGl2ZS1iYXIudGVzdC5qcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkudGhlbigoKSA9PiB7Cg==</text>
+        <text encoding="base64">CWNvbnN0IGZha2VKY0RldmljZSA9IHsKCQlzZW5kQ29tbWFuZCgpIHsgLyogZG8gbm90aGluZyAqLyB9LAoJCWFjdGl2ZURldmljZTogeyAvKiBkbyBub3RoaW5nICovIH0sCgl9Owo=</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
