@@ -33,12 +33,6 @@
         <mark key="[" line="106" column="0" />
         <mark key="]" line="106" column="70" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/lobbybar/test/instrument-tab.test.js" timestamp="1523476607767">
-        <mark key="'" line="201" column="33" />
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="99" column="0" />
-        <mark key="." line="99" column="0" />
-      </file>
       <file name="C:/ubuntu-home/johnnycash/signalingserver/dashboard/dashboard.js" timestamp="1522864052055">
         <mark key="[" line="207" column="32" />
         <mark key="]" line="207" column="33" />
@@ -74,10 +68,10 @@
       </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/selenium/test/deviceTabTests.js" timestamp="1523545016572">
         <mark key="'" line="16" column="21" />
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="94" column="41" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="41" />
         <mark key="^" line="30" column="40" />
-        <mark key="." line="94" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/test/topBoardInfoParser.test.js" timestamp="1522958203695">
         <mark key="'" line="19" column="34" />
@@ -222,13 +216,7 @@
         <mark key="^" line="265" column="88" />
         <mark key="." line="265" column="88" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/lobbybar/test/resources-tab.tests.js" timestamp="1523543428932">
-        <mark key="'" line="78" column="51" />
-        <mark key="[" line="81" column="104" />
-        <mark key="]" line="81" column="103" />
-        <mark key="^" line="81" column="103" />
-        <mark key="." line="81" column="103" />
-      </file>
+      <file name="C:/ubuntu-home/johnnycash/lobbybar/test/resources-tab.tests.js" timestamp="1523543428932" />
       <file name="C:/ubuntu-home/johnnycash/lobbybar/src/jc-web-peer/src/device.js" timestamp="1516379938799">
         <mark key="[" line="258" column="0" />
         <mark key="]" line="258" column="0" />
@@ -319,13 +307,6 @@
         <mark key="]" line="40" column="19" />
         <mark key="." line="40" column="19" />
         <mark key="^" line="40" column="19" />
-      </file>
-      <file name="C:/ubuntu-home/johnnycash/lobbybar/test/measurements-live-bar.test.js" timestamp="1523542933665">
-        <mark key="'" line="77" column="6" />
-        <mark key="[" line="162" column="14" />
-        <mark key="]" line="162" column="14" />
-        <mark key="." line="162" column="14" />
-        <mark key="^" line="162" column="14" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/src/instruments/src/sfp-components/sfp-input/sfp-input.js" timestamp="1517433256361">
         <mark key="'" line="267" column="6" />
