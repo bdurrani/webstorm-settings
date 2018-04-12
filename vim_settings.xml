@@ -26,6 +26,9 @@
         <mark key="." line="151" column="39" />
         <mark key="^" line="151" column="39" />
       </file>
+      <file name="C:/ubuntu-home/johnnycash/lobbybar/test/device-tab.test.js" timestamp="1523544801101">
+        <mark key="'" line="21" column="6" />
+      </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/src/instruments/test/i18n-validate-test.js" timestamp="1523040818501">
         <mark key="[" line="106" column="0" />
         <mark key="]" line="106" column="70" />
@@ -69,6 +72,13 @@
         <mark key="]" line="45" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="C:/ubuntu-home/johnnycash/lobbybar/selenium/test/deviceTabTests.js" timestamp="1523545016572">
+        <mark key="'" line="16" column="21" />
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="41" />
+        <mark key="^" line="30" column="40" />
+        <mark key="." line="94" column="0" />
+      </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/test/topBoardInfoParser.test.js" timestamp="1522958203695">
         <mark key="'" line="19" column="34" />
         <mark key="[" line="87" column="21" />
@@ -90,7 +100,7 @@
         <mark key="." line="99" column="62" />
         <mark key="^" line="99" column="62" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/lobbybar/.eslintignore" timestamp="1523543274972">
+      <file name="C:/ubuntu-home/johnnycash/lobbybar/.eslintignore" timestamp="1523544784726">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -372,8 +382,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="101" column="6" filename="C:/ubuntu-home/johnnycash/signalingserver/test/fakewebsocketclient.js" />
-      <jump line="6" column="0" filename="C:/ubuntu-home/johnnycash/signalingserver/src/logger.js" />
       <jump line="31" column="1" filename="C:/ubuntu-home/johnnycash/signalingserver/src/app.js" />
       <jump line="69" column="0" filename="C:/ubuntu-home/johnnycash/signalingserver/src/app.js" />
       <jump line="63" column="5" filename="C:/ubuntu-home/johnnycash/signalingserver/src/server.js" />
@@ -472,52 +480,54 @@
       <jump line="64" column="24" filename="C:/ubuntu-home/johnnycash/lobbybar/test/resources-tab.tests.js" />
       <jump line="20" column="6" filename="C:/ubuntu-home/johnnycash/lobbybar/test/resources-tab.tests.js" />
       <jump line="78" column="51" filename="C:/ubuntu-home/johnnycash/lobbybar/test/resources-tab.tests.js" />
+      <jump line="21" column="6" filename="C:/ubuntu-home/johnnycash/lobbybar/test/device-tab.test.js" />
+      <jump line="16" column="21" filename="C:/ubuntu-home/johnnycash/lobbybar/selenium/test/deviceTabTests.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>{ leaseTimeInHours:</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>window.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQlleHBlY3QoZGV2aWNlVGFiKS5ub3QudG9CZShudWxsKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>window.</text>
+        <text>is.not.isNull();</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZWVyXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>/* do nothing */</text>
+      <register name="0" type="2">
+        <text encoding="base64">CQlleHBlY3QoZGV2aWNlVGFiKS5ub3QudG9CZShudWxsKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dGVzdC9yZXNvdXJjZXMtdGFiLnRlc3RzLmpzCg==</text>
+        <text encoding="base64">c2VsZW5pdW0vdGVzdC9kZXZpY2VUYWJUZXN0cy5qcwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQl9KS50aGVuKGRvbmUpOwo=</text>
+        <text encoding="base64">dGVzdC9yZXNvdXJjZXMtdGFiLnRlc3RzLmpzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJLnRoZW4oKCkgPT4gewo=</text>
+        <text encoding="base64">CQl9KS50aGVuKGRvbmUpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCX0pLnRoZW4oZG9uZSk7Cg==</text>
+        <text encoding="base64">CQkJLnRoZW4oKCkgPT4gewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQkudGhlbigoKSA9PiB7Cg==</text>
+        <text encoding="base64">CQkJCX0pLnRoZW4oZG9uZSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQl9IGNhdGNoIChyZWFzb24pID0+IHsK</text>
+        <text encoding="base64">CQkJCQkudGhlbigoKSA9PiB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJLnRoZW4oKCkgPT4gewo=</text>
+        <text encoding="base64">CQl9IGNhdGNoIChyZWFzb24pID0+IHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCS50aGVuKCgpID0+IHsK</text>
+        <text encoding="base64">CQkJLnRoZW4oKCkgPT4gewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJLnRoZW4oKCkgPT4gewo=</text>
+        <text encoding="base64">CQkJCS50aGVuKCgpID0+IHsK</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
