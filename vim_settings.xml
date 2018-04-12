@@ -90,7 +90,7 @@
         <mark key="." line="99" column="62" />
         <mark key="^" line="99" column="62" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/lobbybar/.eslintignore" timestamp="1523476810833">
+      <file name="C:/ubuntu-home/johnnycash/lobbybar/.eslintignore" timestamp="1523543274972">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -212,6 +212,13 @@
         <mark key="^" line="265" column="88" />
         <mark key="." line="265" column="88" />
       </file>
+      <file name="C:/ubuntu-home/johnnycash/lobbybar/test/resources-tab.tests.js" timestamp="1523543428932">
+        <mark key="'" line="78" column="51" />
+        <mark key="[" line="81" column="104" />
+        <mark key="]" line="81" column="103" />
+        <mark key="^" line="81" column="103" />
+        <mark key="." line="81" column="103" />
+      </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/src/jc-web-peer/src/device.js" timestamp="1516379938799">
         <mark key="[" line="258" column="0" />
         <mark key="]" line="258" column="0" />
@@ -303,12 +310,12 @@
         <mark key="." line="40" column="19" />
         <mark key="^" line="40" column="19" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/lobbybar/test/measurements-live-bar.test.js" timestamp="1523478382283">
+      <file name="C:/ubuntu-home/johnnycash/lobbybar/test/measurements-live-bar.test.js" timestamp="1523542933665">
         <mark key="'" line="77" column="6" />
-        <mark key="[" line="128" column="26" />
-        <mark key="]" line="128" column="26" />
-        <mark key="." line="128" column="26" />
-        <mark key="^" line="128" column="26" />
+        <mark key="[" line="162" column="14" />
+        <mark key="]" line="162" column="14" />
+        <mark key="." line="162" column="14" />
+        <mark key="^" line="162" column="14" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/src/instruments/src/sfp-components/sfp-input/sfp-input.js" timestamp="1517433256361">
         <mark key="'" line="267" column="6" />
@@ -365,9 +372,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="13" filename="C:/ubuntu-home/johnnycash/signalingserver/src/devices.js" />
-      <jump line="68" column="0" filename="C:/ubuntu-home/johnnycash/signalingserver/src/leasetime.js" />
-      <jump line="91" column="0" filename="C:/ubuntu-home/johnnycash/signalingserver/src/leasetime.js" />
       <jump line="101" column="6" filename="C:/ubuntu-home/johnnycash/signalingserver/test/fakewebsocketclient.js" />
       <jump line="6" column="0" filename="C:/ubuntu-home/johnnycash/signalingserver/src/logger.js" />
       <jump line="31" column="1" filename="C:/ubuntu-home/johnnycash/signalingserver/src/app.js" />
@@ -465,16 +469,19 @@
       <jump line="58" column="61" filename="C:/ubuntu-home/johnnycash/lobbybar/test/measurements-live-bar.test.js" />
       <jump line="54" column="8" filename="C:/ubuntu-home/johnnycash/lobbybar/test/measurements-live-bar.test.js" />
       <jump line="77" column="6" filename="C:/ubuntu-home/johnnycash/lobbybar/test/measurements-live-bar.test.js" />
+      <jump line="64" column="24" filename="C:/ubuntu-home/johnnycash/lobbybar/test/resources-tab.tests.js" />
+      <jump line="20" column="6" filename="C:/ubuntu-home/johnnycash/lobbybar/test/resources-tab.tests.js" />
+      <jump line="78" column="51" filename="C:/ubuntu-home/johnnycash/lobbybar/test/resources-tab.tests.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>{ leaseTimeInHours:</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJLnRoZW4oKCkgPT4gewo=</text>
+      <register name="&quot;" type="4">
+        <text>window.</text>
       </register>
       <register name="-" type="4">
-        <text>done</text>
+        <text>window.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZWVyXD4=</text>
@@ -483,34 +490,34 @@
         <text>/* do nothing */</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJLnRoZW4oKCkgPT4gewo=</text>
+        <text encoding="base64">dGVzdC9yZXNvdXJjZXMtdGFiLnRlc3RzLmpzCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQl9KTsK</text>
+        <text encoding="base64">CQl9KS50aGVuKGRvbmUpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQl9KTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQl9KTsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">CQkJLnRoZW4oKCkgPT4gewo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJCX0pLnRoZW4oZG9uZSk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJCQkudGhlbigoKSA9PiB7Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQkJLnRoZW4oKCkgPT4gewo=</text>
+        <text encoding="base64">CQl9IGNhdGNoIChyZWFzb24pID0+IHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQljb25zdCBjYWxsQ291bnQgPSBhY3RpdmVSZXF1ZXN0Lm9wZW4uY2FsbHMuY291bnQoKTsK</text>
+        <text encoding="base64">CQkJLnRoZW4oKCkgPT4gewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dGVzdC9tZWFzdXJlbWVudHMtbGl2ZS1iYXIudGVzdC5qcwo=</text>
+        <text encoding="base64">CQkJCS50aGVuKCgpID0+IHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWNvbnN0IGZha2VKY0RldmljZSA9IHsKCQlzZW5kQ29tbWFuZCgpIHsgLyogZG8gbm90aGluZyAqLyB9LAoJCWFjdGl2ZURldmljZTogeyAvKiBkbyBub3RoaW5nICovIH0sCgl9Owo=</text>
+        <text encoding="base64">CQkJLnRoZW4oKCkgPT4gewo=</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
