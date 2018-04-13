@@ -124,10 +124,11 @@
         <mark key="^" line="41" column="28" />
         <mark key="." line="50" column="35" />
       </file>
-      <file name="C:/ubuntu/sfp/signaling-server/src/apiroute.js" timestamp="1523644893199">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="27" />
-        <mark key="." line="3" column="0" />
+      <file name="C:/ubuntu/sfp/signaling-server/src/apiroute.js" timestamp="1523651995803">
+        <mark key="[" line="95" column="82" />
+        <mark key="]" line="97" column="40" />
+        <mark key="." line="111" column="19" />
+        <mark key="^" line="97" column="40" />
       </file>
       <file name="C:/ubuntu-home/dotfiles-for-wsl/vim/.vimrc" timestamp="1511448734536">
         <mark key="[" line="12" column="20" />
@@ -1128,47 +1129,47 @@
       <register name="a" type="4">
         <text>{ leaseTimeInHours:</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>[0]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJb3MuY3B1VXNhZ2UoKHZhbHVlKSA9PiB7CgkJCX0pOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>[0]</text>
+        <text encoding="base64">bGV0IHJlcyA9IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZWVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCQlwYWdlLnNlcnZlclRpbWUudGV4dENvbnRlbnQgPSAobmV3IERhdGUocF9SZXN1bHQuc2VydmVyRGF0ZSkpLnRvU3RyaW5nKCk7Cg==</text>
+        <text encoding="base64">CQkJb3MuY3B1VXNhZ2UoKHZhbHVlKSA9PiB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJcmVzcG9uc2UgPSBKU09OLnN0cmluZ2lmeShsaXN0WzBdKTsK</text>
+        <text encoding="base64">CQkJb3MuY3B1VXNhZ2UoKHZhbHVlKSA9PiB7CgkJCX0pOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgcG0yID0gcmVxdWlyZSgncG0yJyk7Cg==</text>
+        <text encoding="base64">CQkJCXRoaXMuX2RvTm90aWZ5QWxsQ2xpZW50cyh7CgkJCQkJY2hhbmdlOiAnc2lnbmFsaW5nU2VydmVyU3RhdHVzJywKCQkJCQlkZXZpY2VDb3VudDogc2VydmVyLmRldmljZXMuYWxsUmVnaXN0ZXJlZERldmljZXMubGVuZ3RoLAoJCQkJCWNsaWVudENvdW50OiBPYmplY3Qua2V5cyhzZXJ2ZXIuY2xpZW50cykubGVuZ3RoLAoJCQkJCXBsYXRmb3JtOiBvcy5wbGF0Zm9ybSgpLAoJCQkJCWNwdTogdmFsdWUsCgkJCQkJY3B1Q291bnQ6IG9zLmNwdUNvdW50KCksCgkJCQkJdG90YWxtZW06IG9zLnRvdGFsbWVtKCksCgkJCQkJZnJlZW1lbTogb3MuZnJlZW1lbSgpLAoJCQkJCXN5c3RlbVVwdGltZTogb3Muc3lzVXB0aW1lKCksCgkJCQkJcHJvY2Vzc1VwdGltZTogb3MucHJvY2Vzc1VwdGltZSgpLAoJCQkJCXNlcnZlckRhdGU6IERhdGUubm93KCksCgkJCQkJc2VydmVyVmVyc2lvbjogY29uZmlnLnNlcnZlclZlcnNpb24sCgkJCQl9KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlsZXQgYmxhaDsKCQlibGFoLmV4KCk7Cg==</text>
+        <text encoding="base64">CQkJfSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlsZXQgcmVzcG9uc2UgPSAnJzsK</text>
+        <text encoding="base64">CQkJCS50aGVuKChjcHVVc2FnZSkgPT57Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlyZXMuc2VuZCgnSGVsbG8gV29ybGQnICsgcmVzcG9uc2UpOwo=</text>
+        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKGVycik7CgkJCQlwcm9jZXNzLmV4aXQoMik7Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJZXhwZWN0KG1hbmFnZXIuYWN0aXZlRGV2aWNlKS50b0JlRmFsc3koKTsK</text>
+      <register name="6" type="4">
+        <text>(value)</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWxldCBsb2JieVJvb3RVcmw7Cg==</text>
+        <text encoding="base64">CW9zLmNwdVVzYWdlKCh2YWx1ZSkgPT4gewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWxldCBpbnN0clJvb3RVcmw7Cg==</text>
+        <text encoding="base64">fSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">I3Rlc3QvKioK</text>
+        <text encoding="base64">CW9zLmNwdVVzYWdlKCh2YWx1ZSkgPT4gewo=</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
