@@ -124,6 +124,12 @@
         <mark key="^" line="41" column="28" />
         <mark key="." line="50" column="35" />
       </file>
+      <file name="C:/ubuntu/sfp/signaling-server/src/apiroute.js" timestamp="1523643678933">
+        <mark key="[" line="88" column="43" />
+        <mark key="]" line="89" column="55" />
+        <mark key="^" line="89" column="55" />
+        <mark key="." line="89" column="55" />
+      </file>
       <file name="C:/ubuntu-home/dotfiles-for-wsl/vim/.vimrc" timestamp="1511448734536">
         <mark key="[" line="12" column="20" />
         <mark key="]" line="12" column="20" />
@@ -214,6 +220,7 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="C:/ubuntu/sfp/signaling-server/src/utilities.js" timestamp="1523643399189" />
       <file name="C:/github/node-hey/index.js" timestamp="1518782922161">
         <mark key="[" line="2" column="2" />
         <mark key="]" line="2" column="2" />
@@ -421,6 +428,12 @@
         <mark key="^" line="2" column="22" />
         <mark key="." line="2" column="22" />
       </file>
+      <file name="C:/ubuntu/sfp/signaling-server/config/default.js" timestamp="1523643323980">
+        <mark key="[" line="6" column="28" />
+        <mark key="]" line="6" column="29" />
+        <mark key="^" line="6" column="29" />
+        <mark key="." line="6" column="29" />
+      </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/src/instruments/src/webchartsiframe.html" timestamp="1520014576504">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -557,6 +570,12 @@
         <mark key="." line="84" column="0" />
         <mark key="^" line="100" column="37" />
       </file>
+      <file name="C:/ubuntu/sfp/signaling-server/dashboard/dashboard.js" timestamp="1523644008894">
+        <mark key="[" line="502" column="17" />
+        <mark key="]" line="502" column="17" />
+        <mark key="." line="502" column="17" />
+        <mark key="^" line="502" column="17" />
+      </file>
       <file name="C:/ubuntu/sfp/lobbybar/src/instruments/src/sfp-components/sfp-numeric-input/sfp-numeric-input.html" timestamp="1517259893409">
         <mark key="[" line="152" column="163" />
         <mark key="]" line="152" column="170" />
@@ -583,6 +602,12 @@
         <mark key="]" line="8" column="57" />
         <mark key="^" line="8" column="57" />
         <mark key="." line="8" column="57" />
+      </file>
+      <file name="C:/ubuntu/sfp/signaling-server/dashboard/dashboard.html" timestamp="1523643863195">
+        <mark key="[" line="215" column="58" />
+        <mark key="]" line="215" column="64" />
+        <mark key="." line="215" column="64" />
+        <mark key="^" line="215" column="64" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/build.js" timestamp="1515078287540">
         <mark key="[" line="61" column="0" />
@@ -812,7 +837,7 @@
         <mark key="." line="3" column="61" />
         <mark key="^" line="3" column="61" />
       </file>
-      <file name="/JavaScript Console" timestamp="1522861872822">
+      <file name="/JavaScript Console" timestamp="1523643401451">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="^" line="0" column="7" />
@@ -1103,17 +1128,17 @@
       <register name="a" type="4">
         <text>{ leaseTimeInHours:</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQlsZXQgYmxhaDsKCQlibGFoLmV4KCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>(new Date(p_Result.serverDate)).toString()</text>
       </register>
       <register name="-" type="4">
-        <text>console.log</text>
+        <text>(new Date(p_Result.serverDate)).toString()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZWVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkvLyByZXR1cm4gdGhpcy5vbmNsb3NlICYmIHRoaXMub25jbG9zZSgpOwo=</text>
+        <text encoding="base64">CQkJCQlwYWdlLnNlcnZlclRpbWUudGV4dENvbnRlbnQgPSAobmV3IERhdGUocF9SZXN1bHQuc2VydmVyRGF0ZSkpLnRvU3RyaW5nKCk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQlsZXQgYmxhaDsKCQlibGFoLmV4KCk7Cg==</text>
