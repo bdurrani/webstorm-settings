@@ -124,12 +124,12 @@
         <mark key="^" line="41" column="28" />
         <mark key="." line="50" column="35" />
       </file>
-      <file name="C:/ubuntu/sfp/signaling-server/src/apiroute.js" timestamp="1523900274002">
-        <mark key="'" line="167" column="0" />
-        <mark key="[" line="88" column="24" />
-        <mark key="]" line="88" column="28" />
-        <mark key="^" line="88" column="28" />
-        <mark key="." line="88" column="28" />
+      <file name="C:/ubuntu/sfp/signaling-server/src/apiroute.js" timestamp="1523901636152">
+        <mark key="'" line="93" column="8" />
+        <mark key="[" line="28" column="26" />
+        <mark key="]" line="28" column="10" />
+        <mark key="^" line="28" column="10" />
+        <mark key="." line="28" column="10" />
       </file>
       <file name="C:/ubuntu-home/dotfiles-for-wsl/vim/.vimrc" timestamp="1511448734536">
         <mark key="[" line="12" column="20" />
@@ -442,11 +442,11 @@
         <mark key="^" line="2" column="22" />
         <mark key="." line="2" column="22" />
       </file>
-      <file name="C:/ubuntu/sfp/signaling-server/config/default.js" timestamp="1523893953719">
-        <mark key="[" line="6" column="28" />
-        <mark key="]" line="6" column="29" />
-        <mark key="^" line="6" column="29" />
-        <mark key="." line="6" column="29" />
+      <file name="C:/ubuntu/sfp/signaling-server/config/default.js" timestamp="1523901176251">
+        <mark key="[" line="6" column="54" />
+        <mark key="]" line="7" column="24" />
+        <mark key="^" line="7" column="24" />
+        <mark key="." line="7" column="24" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/src/instruments/src/webchartsiframe.html" timestamp="1520014576504">
         <mark key="[" line="21" column="0" />
@@ -1044,7 +1044,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="100" column="16" filename="C:/ubuntu-home/johnnycash/signalingserver/src/devices.js" />
       <jump line="26" column="12" filename="C:/ubuntu-home/johnnycash/signalingserver/test/devicestests.js" />
       <jump line="45" column="50" filename="C:/ubuntu-home/johnnycash/signalingserver/test/devicestests.js" />
       <jump line="33" column="8" filename="C:/ubuntu-home/johnnycash/signalingserver/test/devicestests.js" />
@@ -1144,6 +1143,7 @@
       <jump line="182" column="0" filename="C:/ubuntu/sfp/signaling-server/src/apiroute.js" />
       <jump line="206" column="66" filename="C:/ubuntu/sfp/signaling-server/dashboard/dashboard.html" />
       <jump line="0" column="0" filename="C:/ubuntu/sfp/signaling-server/dashboard/dashboard.html" />
+      <jump line="89" column="8" filename="C:/ubuntu/sfp/signaling-server/src/apiroute.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
