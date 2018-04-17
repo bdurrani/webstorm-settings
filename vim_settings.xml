@@ -1012,12 +1012,12 @@
         <mark key="." line="3" column="10" />
         <mark key="^" line="3" column="10" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/test/fakewebsocketclient.js" timestamp="1519663296289">
-        <mark key="'" line="102" column="6" />
-        <mark key="[" line="66" column="14" />
-        <mark key="]" line="66" column="30" />
-        <mark key="." line="66" column="30" />
-        <mark key="^" line="66" column="30" />
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/test/fakewebsocketclient.js" timestamp="1523977565104">
+        <mark key="'" line="103" column="6" />
+        <mark key="[" line="73" column="18" />
+        <mark key="]" line="73" column="38" />
+        <mark key="." line="73" column="38" />
+        <mark key="^" line="73" column="38" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/package.json" timestamp="1516993066131">
         <mark key="[" line="9" column="73" />
@@ -1241,11 +1241,11 @@
       <register name="a" type="4">
         <text>{ leaseTimeInHours:</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgY28K</text>
+      <register name="&quot;" type="4">
+        <text>go</text>
       </register>
       <register name="-" type="4">
-        <text>readWriteSync</text>
+        <text>go</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZWVyXD4=</text>
