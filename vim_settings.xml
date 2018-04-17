@@ -114,10 +114,10 @@
         <mark key="^" line="87" column="64" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/signalingserver/src/apiroute.js" timestamp="1522861879074">
-        <mark key="'" line="109" column="39" />
+        <mark key="'" line="119" column="39" />
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="32" />
-        <mark key="^" line="112" column="8" />
+        <mark key="^" line="122" column="8" />
         <mark key="." line="1" column="0" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/signalingserver/dashboard/dashboard.html" timestamp="1522862546396">
@@ -159,11 +159,11 @@
         <mark key="." line="77" column="70" />
         <mark key="^" line="77" column="70" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/config/default.js" timestamp="1522937564536">
-        <mark key="[" line="1" column="20" />
-        <mark key="]" line="1" column="75" />
-        <mark key="." line="1" column="75" />
-        <mark key="^" line="1" column="75" />
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/config/default.js" timestamp="1523973229966">
+        <mark key="[" line="7" column="19" />
+        <mark key="]" line="7" column="22" />
+        <mark key="." line="7" column="22" />
+        <mark key="^" line="7" column="22" />
       </file>
       <file name="D:/Dropbox/Misc/projects/websocket/client.js" timestamp="1519932441969">
         <mark key="[" line="88" column="0" />
@@ -468,11 +468,11 @@
       <register name="a" type="4">
         <text>{ leaseTimeInHours:</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQlleHBlY3QoZGV2aWNlVGFiKS5ub3QudG9CZShudWxsKTsK</text>
+      <register name="&quot;" type="4">
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>is.not.isNull();</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZWVyXD4=</text>
