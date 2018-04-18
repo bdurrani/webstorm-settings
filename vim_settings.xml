@@ -56,6 +56,12 @@
         <mark key="." line="156" column="37" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/src/instruments/src/multisim-shared/utilities/translate.js" timestamp="1523989003218" />
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/prepublishonly.js" timestamp="1524080253241">
+        <mark key="[" line="0" column="38" />
+        <mark key="]" line="0" column="38" />
+        <mark key="^" line="0" column="38" />
+        <mark key="." line="0" column="38" />
+      </file>
       <file name="D:/Documents/Dropbox/Misc/projects/websocket/ecosystem.config.js" timestamp="1519481421015">
         <mark key="[" line="17" column="34" />
         <mark key="]" line="17" column="38" />
@@ -496,11 +502,11 @@
         <mark key="]" line="34" column="38" />
         <mark key="." line="10" column="73" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/package.json" timestamp="1524078719142">
-        <mark key="[" line="1" column="11" />
-        <mark key="]" line="1" column="41" />
-        <mark key="." line="1" column="41" />
-        <mark key="^" line="1" column="41" />
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/package.json" timestamp="1524080951720">
+        <mark key="[" line="52" column="13" />
+        <mark key="]" line="52" column="15" />
+        <mark key="." line="52" column="15" />
+        <mark key="^" line="52" column="15" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/test/autoconnect.test.js" timestamp="1522958059946">
         <mark key="'" line="21" column="41" />
@@ -1297,10 +1303,10 @@
         <text>{ leaseTimeInHours:</text>
       </register>
       <register name="&quot;" type="4">
-        <text>signalingserver</text>
+        <text encoding="base64">Pj0wLjEwLjMgPDAuMTI=</text>
       </register>
       <register name="-" type="4">
-        <text>signalingserver</text>
+        <text encoding="base64">Pj0wLjEwLjMgPDAuMTI=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZWVyXD4=</text>
