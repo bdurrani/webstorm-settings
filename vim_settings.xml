@@ -496,11 +496,11 @@
         <mark key="]" line="34" column="38" />
         <mark key="." line="10" column="73" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/package.json" timestamp="1524065631080">
-        <mark key="[" line="19" column="14" />
-        <mark key="]" line="19" column="16" />
-        <mark key="." line="19" column="16" />
-        <mark key="^" line="19" column="16" />
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/package.json" timestamp="1524071826228">
+        <mark key="[" line="48" column="3" />
+        <mark key="]" line="48" column="3" />
+        <mark key="." line="48" column="3" />
+        <mark key="^" line="47" column="10" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/test/autoconnect.test.js" timestamp="1522958059946">
         <mark key="'" line="21" column="41" />
@@ -1296,10 +1296,10 @@
         <text>{ leaseTimeInHours:</text>
       </register>
       <register name="&quot;" type="4">
-        <text>NPMreadme</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>NPMreadme</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZWVyXD4=</text>
