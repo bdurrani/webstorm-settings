@@ -172,6 +172,12 @@
         <mark key="." line="84" column="24" />
         <mark key="^" line="84" column="24" />
       </file>
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/config/example-for-npm.js" timestamp="1524152537606">
+        <mark key="[" line="1" column="20" />
+        <mark key="]" line="1" column="57" />
+        <mark key="." line="1" column="57" />
+        <mark key="^" line="1" column="57" />
+      </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/test/device-details.test.js" timestamp="1523024144275">
         <mark key="'" line="42" column="13" />
         <mark key="[" line="64" column="13" />
@@ -706,12 +712,12 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/test/configurationtests.js" timestamp="1523992841275">
-        <mark key="'" line="122" column="0" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="46" />
-        <mark key="^" line="122" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/test/configurationtests.js" timestamp="1524152660462">
+        <mark key="'" line="126" column="0" />
+        <mark key="[" line="124" column="6" />
+        <mark key="]" line="124" column="6" />
+        <mark key="^" line="124" column="6" />
+        <mark key="." line="124" column="6" />
       </file>
       <file name="$USER_HOME$/Dropbox/Misc/projects/streamtodisk/index.js" timestamp="1520200114768">
         <mark key="[" line="20" column="29" />
@@ -1318,10 +1324,10 @@
         <text>{ leaseTimeInHours:</text>
       </register>
       <register name="&quot;" type="4">
-        <text>combine</text>
+        <text>https://measurementslive.ni.com/cdn/data-use-notice.html</text>
       </register>
       <register name="-" type="4">
-        <text>combine</text>
+        <text>https://measurementslive.ni.com/cdn/data-use-notice.html</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZWVyXD4=</text>
