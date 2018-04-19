@@ -230,11 +230,11 @@
         <mark key="." line="69" column="5" />
         <mark key="^" line="69" column="5" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/buildpackage.js" timestamp="1524147683523">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="7" column="23" />
-        <mark key="." line="7" column="23" />
-        <mark key="^" line="7" column="23" />
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/buildpackage.js" timestamp="1524151769662">
+        <mark key="[" line="20" column="26" />
+        <mark key="]" line="20" column="29" />
+        <mark key="." line="20" column="29" />
+        <mark key="^" line="20" column="29" />
       </file>
       <file name="D:/Dropbox/Misc/projects/websocket/src/app.js" timestamp="1520349669162">
         <mark key="'" line="20" column="0" />
@@ -268,9 +268,9 @@
         <mark key="." line="77" column="70" />
         <mark key="^" line="77" column="70" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/config/default.js" timestamp="1523990747279">
-        <mark key="[" line="7" column="19" />
-        <mark key="]" line="7" column="23" />
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/config/default.js" timestamp="1524150864504">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="8" column="2" />
         <mark key="." line="7" column="23" />
         <mark key="^" line="7" column="23" />
       </file>
@@ -676,11 +676,11 @@
         <mark key="." line="204" column="55" />
         <mark key="^" line="204" column="55" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/.gitignore" timestamp="1524144330071">
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/.gitignore" timestamp="1524150723819">
         <mark key="[" line="11" column="8" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+        <mark key="]" line="12" column="4" />
+        <mark key="^" line="12" column="4" />
+        <mark key="." line="12" column="4" />
       </file>
       <file name="D:/Dropbox/Misc/projects/iterators/scratch.js" timestamp="1522940311602">
         <mark key="[" line="1" column="0" />
@@ -1130,7 +1130,7 @@
         <mark key="." line="3" column="61" />
         <mark key="^" line="3" column="61" />
       </file>
-      <file name="/JavaScript Console" timestamp="1523989818160">
+      <file name="/JavaScript Console" timestamp="1524151761389">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="^" line="0" column="7" />
@@ -1178,6 +1178,12 @@
         <mark key="]" line="20" column="30" />
         <mark key="^" line="20" column="30" />
         <mark key="." line="20" column="30" />
+      </file>
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/config/example.js" timestamp="1524151176666">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="30" />
+        <mark key="." line="2" column="30" />
+        <mark key="^" line="2" column="30" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/src/instruments/src/sfp-components/sfp-property-container/sfp-property-container.html" timestamp="1521205754848">
         <mark key="[" line="13" column="28" />
@@ -1311,47 +1317,47 @@
       <register name="a" type="4">
         <text>{ leaseTimeInHours:</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gZGVsZXRlIHRoZSBlbnRpcmUgZGlyZWN0b3J5IHN0cnVjdHVyZSBmcm9tIHByZXZpb3VzIGJ1aWxkCmNvbnNvbGUubG9nKCdjbGVhbiB0aGUgcHJldmlvdXMgYnVpbGQgcmVzdWx0cycpOwpidWlsZERpcnMuZm9yRWFjaCgoYnVpbGREaXIpID0+IHsKCWZzLnJlbW92ZVN5bmMoYnVpbGREaXIpOwp9KTsKZnMucmVtb3ZlU3luYyh0ZXN0RGlyKTsKLy8gY3JlYXRlIHRoZSBkaXJlY3Rvcnkgc3RydWN0dXJlIGZvciB0aGlzIGJ1aWxkCmNvbnNvbGUubG9nKCdwcmVwYXJlIHRhcmdldCBkaXJlY3RvcmllcycpOwpidWlsZERpcnMuZm9yRWFjaCgoYnVpbGREaXIpID0+IHsKCWZzLmVuc3VyZURpclN5bmMoYnVpbGREaXIpOwp9KTsKZnMuZW5zdXJlRGlyU3luYyh0ZXN0RGlyKTsKCg==</text>
+      <register name="&quot;" type="4">
+        <text>combine</text>
       </register>
       <register name="-" type="4">
-        <text>node ./node_modules/pm2/bin/</text>
+        <text>combine</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZWVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgZnMgPSByZXF1aXJlKCdmcy1leHRyYScpOwo=</text>
+        <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSBPYmplY3QuZnJlZXplKHsKCWRhdGFQb2xpY3lVcmw6ICdodHRwczovL21lYXN1cmVtZW50c2xpdmUubmkuY29tL2Nkbi9kYXRhLXVzZS1ub3RpY2UuaHRtbCcsCglhcGlLZXk6ICdTb21lIGxvbmcgc3RyaW5nIHRoYXQgYWN0cyBhcyBhbiBBUEkgS2V5JywKCWNvZGVHZW5lcmF0aW9uOiB7CgkJcHJlZml4OiAnTkknLAoJfSwKCXNlcnZlclZlcnNpb246IHJlcXVpcmUoJy4uL3BhY2thZ2UuanNvbicpLnZlcnNpb24sCglhbGxvd0N1c3RvbUlkOiBmYWxzZSwKfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gZGVsZXRlIHRoZSBlbnRpcmUgZGlyZWN0b3J5IHN0cnVjdHVyZSBmcm9tIHByZXZpb3VzIGJ1aWxkCmNvbnNvbGUubG9nKCdjbGVhbiB0aGUgcHJldmlvdXMgYnVpbGQgcmVzdWx0cycpOwpidWlsZERpcnMuZm9yRWFjaCgoYnVpbGREaXIpID0+IHsKCWZzLnJlbW92ZVN5bmMoYnVpbGREaXIpOwp9KTsKZnMucmVtb3ZlU3luYyh0ZXN0RGlyKTsKLy8gY3JlYXRlIHRoZSBkaXJlY3Rvcnkgc3RydWN0dXJlIGZvciB0aGlzIGJ1aWxkCmNvbnNvbGUubG9nKCdwcmVwYXJlIHRhcmdldCBkaXJlY3RvcmllcycpOwpidWlsZERpcnMuZm9yRWFjaCgoYnVpbGREaXIpID0+IHsKCWZzLmVuc3VyZURpclN5bmMoYnVpbGREaXIpOwp9KTsKZnMuZW5zdXJlRGlyU3luYyh0ZXN0RGlyKTsKCg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ2NsZWFuIHByZXZpb3VzIGJ1aWxkIHJlc3VsdHMnKTsKZnMucmVtb3ZlU3luYyhidWlsZERpcik7CmZzLmVuc3VyZVN5bmMoYnVpbGREaXIpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgZnMgPSByZXF1aXJlKCdmcy1leHRyYScpOwo=</text>
+        <text encoding="base64">CWZzLmNvcHkoJy4vc3JjJywgcGF0aC5qb2luKGJ1aWxkRGlyLCAnc3JjJyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgYnVpbGREaXIgPSAnZGlzdCc7Cg==</text>
+        <text encoding="base64">Ly8gZGVsZXRlIHRoZSBlbnRpcmUgZGlyZWN0b3J5IHN0cnVjdHVyZSBmcm9tIHByZXZpb3VzIGJ1aWxkCmNvbnNvbGUubG9nKCdjbGVhbiB0aGUgcHJldmlvdXMgYnVpbGQgcmVzdWx0cycpOwpidWlsZERpcnMuZm9yRWFjaCgoYnVpbGREaXIpID0+IHsKCWZzLnJlbW92ZVN5bmMoYnVpbGREaXIpOwp9KTsKZnMucmVtb3ZlU3luYyh0ZXN0RGlyKTsKLy8gY3JlYXRlIHRoZSBkaXJlY3Rvcnkgc3RydWN0dXJlIGZvciB0aGlzIGJ1aWxkCmNvbnNvbGUubG9nKCdwcmVwYXJlIHRhcmdldCBkaXJlY3RvcmllcycpOwpidWlsZERpcnMuZm9yRWFjaCgoYnVpbGREaXIpID0+IHsKCWZzLmVuc3VyZURpclN5bmMoYnVpbGREaXIpOwp9KTsKZnMuZW5zdXJlRGlyU3luYyh0ZXN0RGlyKTsKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJwcmVwdWJsaXNoT25seSI6ICJub2RlIC4vcHJlcHVibGlzaG9ubHkuanMiCg==</text>
+        <text encoding="base64">Y29uc3QgZnMgPSByZXF1aXJlKCdmcy1leHRyYScpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAicHJlZmVyR2xvYmFsIjogInRydWUiLAo=</text>
+        <text encoding="base64">Y29uc3QgYnVpbGREaXIgPSAnZGlzdCc7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgbm9kZQo=</text>
+        <text encoding="base64">ICAgICJwcmVwdWJsaXNoT25seSI6ICJub2RlIC4vcHJlcHVibGlzaG9ubHkuanMiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWxvZ2dlci5pbmZvKGNvbG9ycy5yZWQoJ2h0dHAtc2VydmVyIHN0b3BwZWQuJykpOwo=</text>
+        <text encoding="base64">ICAicHJlZmVyR2xvYmFsIjogInRydWUiLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWxvZ2dlci5pbmZvKGNvbG9ycy5yZWQoJ2h0dHAtc2VydmVyIHN0b3BwZWQuJykpOwo=</text>
+        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgbm9kZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">UkVBRE1FLm1kCg==</text>
+        <text encoding="base64">CWxvZ2dlci5pbmZvKGNvbG9ycy5yZWQoJ2h0dHAtc2VydmVyIHN0b3BwZWQuJykpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
