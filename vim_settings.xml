@@ -210,12 +210,12 @@
         <mark key="." line="69" column="5" />
         <mark key="^" line="69" column="5" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/buildpackage.js" timestamp="1524253355685">
-        <mark key="'" line="38" column="0" />
-        <mark key="[" line="67" column="20" />
-        <mark key="]" line="68" column="20" />
-        <mark key="." line="68" column="20" />
-        <mark key="^" line="68" column="20" />
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/buildpackage.js" timestamp="1524256360980">
+        <mark key="'" line="71" column="21" />
+        <mark key="[" line="75" column="74" />
+        <mark key="]" line="75" column="74" />
+        <mark key="^" line="75" column="74" />
+        <mark key="." line="75" column="74" />
       </file>
       <file name="D:/Dropbox/Misc/projects/websocket/src/app.js" timestamp="1520349669162">
         <mark key="'" line="20" column="0" />
@@ -340,7 +340,7 @@
         <mark key="^" line="201" column="75" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/build.js" timestamp="1524161412071">
-        <mark key="]" line="391" column="0" />
+        <mark key="]" line="395" column="0" />
         <mark key="^" line="42" column="0" />
       </file>
       <file name="C:/ubuntu/sfp/signaling-server/test/devicestests.js" timestamp="1521655702963">
@@ -405,11 +405,11 @@
         <mark key="^" line="246" column="4" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/README.md" timestamp="1524161920715">
-        <mark key="[" line="13" column="4" />
-        <mark key="]" line="13" column="48" />
-        <mark key="^" line="13" column="48" />
-        <mark key="." line="13" column="48" />
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/README.md" timestamp="1524254771519">
+        <mark key="[" line="14" column="89" />
+        <mark key="]" line="14" column="89" />
+        <mark key="^" line="14" column="89" />
+        <mark key="." line="14" column="89" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/src/instruments/src/multisim-shared/test/numberparsertest.js" timestamp="1517580175298">
         <mark key="[" line="14" column="0" />
@@ -485,12 +485,12 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="52" column="42" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/package.json" timestamp="1524253282819">
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/package.json" timestamp="1524256830666">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="13" column="12" />
-        <mark key="]" line="13" column="10" />
-        <mark key="." line="13" column="10" />
-        <mark key="^" line="13" column="10" />
+        <mark key="[" line="14" column="19" />
+        <mark key="]" line="14" column="34" />
+        <mark key="." line="14" column="34" />
+        <mark key="^" line="14" column="34" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/test/autoconnect.test.js" timestamp="1522958059946">
         <mark key="'" line="21" column="41" />
@@ -1141,10 +1141,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="C:/ubuntu-home/johnnycash/signalingserver/README.md" />
-      <jump line="115" column="91" filename="C:/ubuntu/sfp/signaling-server/test/devicestests.js" />
-      <jump line="40" column="17" filename="C:/ubuntu/sfp/signaling-server/test/graceperiodtests.js" />
-      <jump line="28" column="32" filename="C:/ubuntu/sfp/signaling-server/test/leasetimetests.js" />
       <jump line="22" column="8" filename="C:/ubuntu/sfp/signaling-server/test/graceperiodtests.js" />
       <jump line="48" column="8" filename="C:/ubuntu/sfp/signaling-server/test/graceperiodtests.js" />
       <jump line="23" column="8" filename="C:/ubuntu/sfp/signaling-server/test/graceperiodtests.js" />
@@ -1241,52 +1237,56 @@
       <jump line="0" column="0" filename="C:/ubuntu-home/johnnycash/signalingserver/package.json" />
       <jump line="53" column="4" filename="C:/ubuntu-home/johnnycash/signalingserver/buildpackage.js" />
       <jump line="38" column="0" filename="C:/ubuntu-home/johnnycash/signalingserver/buildpackage.js" />
+      <jump line="63" column="24" filename="C:/ubuntu-home/johnnycash/signalingserver/buildpackage.js" />
+      <jump line="61" column="0" filename="C:/ubuntu-home/johnnycash/signalingserver/buildpackage.js" />
+      <jump line="42" column="61" filename="C:/ubuntu-home/johnnycash/signalingserver/buildpackage.js" />
+      <jump line="71" column="21" filename="C:/ubuntu-home/johnnycash/signalingserver/buildpackage.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>{ leaseTimeInHours:</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>node ./node_modules/pm2/bin/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CWNvbnN0IGJ1aWxkRGlyID0gZ2VuZXJhdGV0bXBEaXIoKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>node ./node_modules/pm2/bin/</text>
+        <text>clean up package.json for distribution</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZWVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gY2hpbGRfcHJvY2Vzcy5leGVjU3luYygncG0yIHN0YXJ0IC4vZWNvc3lzdGVtLmNvbmZpZy5qcyAtLW9ubHkgc2lnbmFsaW5nLXNlcnZlciAtLWVudiBwcm9kdWN0aW9uIC0tdXBkYXRlLWVudicsIHsKLy8gCWVuY29kaW5nOiAndXRmOCcsCi8vIAljd2Q6ICcuJywKLy8gfSk7Cg==</text>
+        <text encoding="base64">CWNvbnNvbGUubG9nKGluZm8oJ2NsZWFuIHVwIHBhY2thZ2UuanNvbiBmb3IgZGlzdHJpYnV0aW9uJykpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJwb3N0aW5zdGFsbCI6ICJucG0gbGluayBwbTIgLS1sb2NhbCIK</text>
+        <text encoding="base64">CWNvbnN0IGJ1aWxkRGlyID0gZ2VuZXJhdGV0bXBEaXIoKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKCdJcyB0aGlzIGNvcnJlY3Q/Jyk7Cg==</text>
+        <text encoding="base64">CWZzLnJlbW92ZVN5bmMoYnVpbGREaXIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CS8vIGNvbnN0IHBrZyA9IEpTT04ucGFyc2UoJy4vcGFja2FnZS5qc29uJyk7CgkvLyByZXR1cm4gcGtnLnZlcnNpb247Cg==</text>
+        <text encoding="base64">CWNvbnNvbGUubG9nKCdjbGVhbiBwcmV2aW91cyBidWlsZCByZXN1bHRzJyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ2NsZWFuIHByZXZpb3VzIGJ1aWxkIHJlc3VsdHMnKTsKZnMucmVtb3ZlU3luYyhidWlsZERpcik7Cgo=</text>
+        <text encoding="base64">Y29uc3QgYnVpbGREaXIgPSBnZW5lcmF0ZXRtcERpcigpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAiYmluIjogewogICAgInN0YXJ0LXNpZ25hbGluZy1zZXJ2ZXIiOiAicG0yIHN0YXJ0IC4vZWNvc3lzdGVtLmNvbmZpZy5qcyAtLW9ubHkgc2lnbmFsaW5nLXNlcnZlciAtLWVudiBwcm9kdWN0aW9uIC0tdXBkYXRlLWVudiIKICB9Cg==</text>
+        <text encoding="base64">Y29uc3QgYnVpbGREaXIgPSAnLi9kaXN0JzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnMuZW5zdXJlRGlyU3luYyhidWlsZERpcik7Cg==</text>
+        <text encoding="base64">ICAiYmluIjogewogICAgInN0YXJ0LXNpZ25hbGluZy1zZXJ2ZXIiOiAiLi9zdGFydC1zZXJ2ZXIuanMiCiAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CS8vIGZzLmNvcHlTeW5jKCcuL3NyYycsICcuL2Rpc3Qvc3JjJyk7Cg==</text>
+        <text encoding="base64">ICAgICJwb3N0aW5zdGFsbCI6ICJucG0gbGluayBwbTIgLS1sb2NhbCIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">CWNvbnNvbGUubG9nKCdJcyB0aGlzIGNvcnJlY3Q/Jyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXN0ZGlvOiAncGlwZScsCg==</text>
+        <text encoding="base64">CS8vIGNvbnN0IHBrZyA9IEpTT04ucGFyc2UoJy4vcGFja2FnZS5qc29uJyk7CgkvLyByZXR1cm4gcGtnLnZlcnNpb247Cg==</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
