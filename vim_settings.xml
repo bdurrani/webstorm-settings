@@ -485,12 +485,12 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="52" column="42" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/package.json" timestamp="1524237219899">
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/package.json" timestamp="1524239854948">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="55" column="48" />
-        <mark key="]" line="55" column="47" />
-        <mark key="." line="55" column="47" />
-        <mark key="^" line="55" column="47" />
+        <mark key="[" line="13" column="45" />
+        <mark key="]" line="14" column="32" />
+        <mark key="." line="14" column="32" />
+        <mark key="^" line="14" column="32" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/test/autoconnect.test.js" timestamp="1522958059946">
         <mark key="'" line="21" column="41" />
