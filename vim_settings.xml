@@ -171,9 +171,9 @@
         <mark key="." line="84" column="24" />
         <mark key="^" line="84" column="24" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/config/example-for-npm.js" timestamp="1524160437191">
-        <mark key="[" line="7" column="25" />
-        <mark key="]" line="8" column="21" />
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/config/example-for-npm.js" timestamp="1524234086956">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="54" />
         <mark key="." line="8" column="21" />
         <mark key="^" line="8" column="21" />
       </file>
@@ -235,11 +235,11 @@
         <mark key="." line="69" column="5" />
         <mark key="^" line="69" column="5" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/buildpackage.js" timestamp="1524231313820">
-        <mark key="[" line="61" column="7" />
-        <mark key="]" line="61" column="16" />
-        <mark key="." line="62" column="1" />
-        <mark key="^" line="61" column="16" />
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/buildpackage.js" timestamp="1524234127966">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="8" column="44" />
       </file>
       <file name="D:/Dropbox/Misc/projects/websocket/src/app.js" timestamp="1520349669162">
         <mark key="'" line="20" column="0" />
@@ -1329,47 +1329,47 @@
       <register name="a" type="4">
         <text>{ leaseTimeInHours:</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CS8vIGNvbnN0IHBrZyA9IEpTT04ucGFyc2UoJy4vcGFja2FnZS5qc29uJyk7CgkvLyByZXR1cm4gcGtnLnZlcnNpb247Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZWVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnMucmVtb3ZlU3luYyhidWlsZERpcik7Cg==</text>
+        <text encoding="base64">CXNlcnZlclZlcnNpb246IHJlcXVpcmUoJy4uL3BhY2thZ2UuanNvbicpLnZlcnNpb24sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAiYmluIjogewogICAgInN0YXJ0LXNpZ25hbGluZy1zZXJ2ZXIiOiAicG0yIHN0YXJ0IC4vZWNvc3lzdGVtLmNvbmZpZy5qcyAtLW9ubHkgc2lnbmFsaW5nLXNlcnZlciAtLWVudiBwcm9kdWN0aW9uIC0tdXBkYXRlLWVudiIKICB9Cg==</text>
+        <text encoding="base64">CS8vIGNvbnN0IHBrZyA9IEpTT04ucGFyc2UoJy4vcGFja2FnZS5qc29uJyk7CgkvLyByZXR1cm4gcGtnLnZlcnNpb247Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnMuZW5zdXJlRGlyU3luYyhidWlsZERpcik7Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ2NsZWFuIHByZXZpb3VzIGJ1aWxkIHJlc3VsdHMnKTsKZnMucmVtb3ZlU3luYyhidWlsZERpcik7Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CS8vIGZzLmNvcHlTeW5jKCcuL3NyYycsICcuL2Rpc3Qvc3JjJyk7Cg==</text>
+        <text encoding="base64">ICAiYmluIjogewogICAgInN0YXJ0LXNpZ25hbGluZy1zZXJ2ZXIiOiAicG0yIHN0YXJ0IC4vZWNvc3lzdGVtLmNvbmZpZy5qcyAtLW9ubHkgc2lnbmFsaW5nLXNlcnZlciAtLWVudiBwcm9kdWN0aW9uIC0tdXBkYXRlLWVudiIKICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ZnMuZW5zdXJlRGlyU3luYyhidWlsZERpcik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXN0ZGlvOiAncGlwZScsCg==</text>
+        <text encoding="base64">CS8vIGZzLmNvcHlTeW5jKCcuL3NyYycsICcuL2Rpc3Qvc3JjJyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkKCQlpZihrZXkgPT09ICd2ZXJzaW9uJykKCX0pOwo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">RnJvbSB3aXRoaW4gdGhlIHByb2plY3QgZGlyZWN0b3J5IHJ1biA6Cg==</text>
+        <text encoding="base64">CXN0ZGlvOiAncGlwZScsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">R2V0IHRoZSBsYXRlc3QgdmVyc2lvbiBvZiB0aGUgc291cmNlcyBmcm9tIHRoZSByZXBvc2l0b3J5IGF0IGh0dHBzOi8vZ2l0aHViLmNvbS9uaS1raXNtZXQvc2lnbmFsaW5nU2VydmVyLgo=</text>
+        <text encoding="base64">CQkKCQlpZihrZXkgPT09ICd2ZXJzaW9uJykKCX0pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">RnJvbSB3aXRoaW4gdGhlIHByb2plY3QgZGlyZWN0b3J5IHJ1biA6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
