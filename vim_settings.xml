@@ -765,6 +765,12 @@
         <mark key="." line="54" column="30" />
         <mark key="^" line="54" column="30" />
       </file>
+      <file name="C:/ubuntu/sfp/lobbybar/src/jc-web-peer/src/signalingChannel.js" timestamp="1524507208429">
+        <mark key="[" line="137" column="32" />
+        <mark key="]" line="137" column="35" />
+        <mark key="." line="137" column="35" />
+        <mark key="^" line="137" column="35" />
+      </file>
       <file name="C:/ubuntu/sfp/signaling-server/src/devices.js" timestamp="1523910745480">
         <mark key="[" line="79" column="28" />
         <mark key="]" line="79" column="28" />
@@ -875,7 +881,6 @@
         <mark key="." line="22" column="26" />
         <mark key="^" line="22" column="26" />
       </file>
-      <file name="C:/ubuntu/sfp/lobbybar/selenium/test/deviceTabTests.js" timestamp="1524493425004" />
       <file name="C:/ubuntu-home/johnnycash/lobbybar/src/instruments/src/sfp-components/sfp-input/sfp-input.js" timestamp="1517433256361">
         <mark key="'" line="267" column="6" />
         <mark key="[" line="257" column="41" />
@@ -1150,16 +1155,16 @@
         <text>{ leaseTimeInHours:</text>
       </register>
       <register name="&quot;" type="4">
-        <text>l</text>
+        <text>close</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>close</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZWVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgY29uZmlnID0gcmVxdWlyZSgnLi4vY29uZmlnJyk7Cg==</text>
+        <text encoding="base64">CQkJCXRoaXMuX2NoYW5uZWwucmVtb3ZlRXZlbnRMaXN0ZW5lcignY2xvc2UnLCBlcnJvckNsb3NlKTsgLy8gZXNsaW50LWRpc2FibGUtbGluZSBuby11c2UtYmVmb3JlLWRlZmluZQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Y29uc3QgY28K</text>
