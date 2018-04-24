@@ -669,11 +669,11 @@
         <mark key="^" line="152" column="170" />
         <mark key="." line="152" column="170" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/lobbybar/src/jc-web-peer/src/device.js" timestamp="1524591939903">
-        <mark key="[" line="155" column="97" />
-        <mark key="]" line="155" column="131" />
-        <mark key="." line="155" column="131" />
-        <mark key="^" line="155" column="131" />
+      <file name="C:/ubuntu-home/johnnycash/lobbybar/src/jc-web-peer/src/device.js" timestamp="1524594103434">
+        <mark key="[" line="160" column="112" />
+        <mark key="]" line="160" column="108" />
+        <mark key="." line="160" column="108" />
+        <mark key="^" line="160" column="108" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/dist/cloud/components/lobby-bar/lobby-bar.html" timestamp="1514918257018">
         <mark key="[" line="211" column="49" />
@@ -1073,11 +1073,11 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="18" column="5" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/lobbybar/src/jc-web-peer/src/signalingChannel.js" timestamp="1524590808286">
-        <mark key="[" line="129" column="23" />
-        <mark key="]" line="129" column="28" />
-        <mark key="." line="129" column="28" />
-        <mark key="^" line="129" column="28" />
+      <file name="C:/ubuntu-home/johnnycash/lobbybar/src/jc-web-peer/src/signalingChannel.js" timestamp="1524594266065">
+        <mark key="[" line="116" column="30" />
+        <mark key="]" line="116" column="49" />
+        <mark key="." line="116" column="49" />
+        <mark key="^" line="116" column="49" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/src/instruments/src/sfp-components/sfp-property-container/sfp-property-container.html" timestamp="1521205754848">
         <mark key="[" line="13" column="28" />
@@ -1260,46 +1260,46 @@
         <text>{ leaseTimeInHours:</text>
       </register>
       <register name="&quot;" type="4">
-        <text>ChannelError.FailToCreate</text>
+        <text>addEventListener</text>
       </register>
       <register name="-" type="4">
-        <text>ChannelError.FailToCreate</text>
+        <text>addEventListener</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZWVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCXJlamVjdChDaGFubmVsRXJyb3IuRmFpbFRvQ3JlYXRlKTsK</text>
+        <text encoding="base64">CQkJCXRoaXMuX2NoYW5uZWwuYWRkRXZlbnRMaXN0ZW5lcignZXJyb3InLCBlcnJvckhhbmRsZXIpOyAvLyBlc2xpbnQtZGlzYWJsZS1saW5lIG5vLXVzZS1iZWZvcmUtZGVmaW5lCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQkvLyB9Cg==</text>
+        <text encoding="base64">CQkJCXRlYXJEb3duQ29ubmVjdGlvbkxpc3RlbmVycygpOwoJCQkJcmVqZWN0KENoYW5uZWxFcnJvci5GYWlsVG9DcmVhdGUpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQkvLyBpZiAodGhpcy5fc2lnbmFsaW5nQ2hhbm5lbC5pc0Nvbm5lY3RlZCkgewo=</text>
+        <text encoding="base64">CQkJCQkvLyB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">U2V0IHRoZSB2ZXJzaW9ucyBmb3IgdGhlIHBhY2thZ2UgYW5kIHRoZSBkYXNoYm9hcmQK</text>
+        <text encoding="base64">CQkJCQkvLyBpZiAodGhpcy5fc2lnbmFsaW5nQ2hhbm5lbC5pc0Nvbm5lY3RlZCkgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CWNvbnN0IGJ1aWxkRGlyID0gZ2VuZXJhdGV0bXBEaXIoKTsK</text>
+        <text encoding="base64">U2V0IHRoZSB2ZXJzaW9ucyBmb3IgdGhlIHBhY2thZ2UgYW5kIHRoZSBkYXNoYm9hcmQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWZzLnJlbW92ZVN5bmMoYnVpbGREaXIpOwo=</text>
+        <text encoding="base64">CWNvbnN0IGJ1aWxkRGlyID0gZ2VuZXJhdGV0bXBEaXIoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKCdjbGVhbiBwcmV2aW91cyBidWlsZCByZXN1bHRzJyk7Cg==</text>
+        <text encoding="base64">CWZzLnJlbW92ZVN5bmMoYnVpbGREaXIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgYnVpbGREaXIgPSBnZW5lcmF0ZXRtcERpcigpOwo=</text>
+        <text encoding="base64">CWNvbnNvbGUubG9nKCdjbGVhbiBwcmV2aW91cyBidWlsZCByZXN1bHRzJyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgYnVpbGREaXIgPSAnLi9kaXN0JzsK</text>
+        <text encoding="base64">Y29uc3QgYnVpbGREaXIgPSBnZW5lcmF0ZXRtcERpcigpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAiYmluIjogewogICAgInN0YXJ0LXNpZ25hbGluZy1zZXJ2ZXIiOiAiLi9zdGFydC1zZXJ2ZXIuanMiCiAgfQo=</text>
+        <text encoding="base64">Y29uc3QgYnVpbGREaXIgPSAnLi9kaXN0JzsK</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
