@@ -210,12 +210,12 @@
         <mark key="." line="69" column="5" />
         <mark key="^" line="69" column="5" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/buildpackage.js" timestamp="1524256360980">
-        <mark key="'" line="71" column="21" />
-        <mark key="[" line="75" column="74" />
-        <mark key="]" line="75" column="74" />
-        <mark key="^" line="75" column="74" />
-        <mark key="." line="75" column="74" />
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/buildpackage.js" timestamp="1524583443019">
+        <mark key="'" line="75" column="21" />
+        <mark key="[" line="8" column="25" />
+        <mark key="]" line="8" column="27" />
+        <mark key="^" line="8" column="27" />
+        <mark key="." line="8" column="27" />
       </file>
       <file name="D:/Dropbox/Misc/projects/websocket/src/app.js" timestamp="1520349669162">
         <mark key="'" line="20" column="0" />
@@ -928,6 +928,12 @@
         <mark key="." line="10" column="39" />
         <mark key="^" line="10" column="39" />
       </file>
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/INTERNAL-README.md" timestamp="1524583331605">
+        <mark key="[" line="14" column="3" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/selenium/lobbybar-test-device/config/enumerate.json" timestamp="1520369825501">
         <mark key="[" line="273" column="61" />
         <mark key="]" line="273" column="59" />
@@ -1246,47 +1252,47 @@
       <register name="a" type="4">
         <text>{ leaseTimeInHours:</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CWNvbnN0IGJ1aWxkRGlyID0gZ2VuZXJhdGV0bXBEaXIoKTsK</text>
+      <register name="&quot;" type="4">
+        <text>read</text>
       </register>
       <register name="-" type="4">
-        <text>clean up package.json for distribution</text>
+        <text>read</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZWVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKGluZm8oJ2NsZWFuIHVwIHBhY2thZ2UuanNvbiBmb3IgZGlzdHJpYnV0aW9uJykpOwo=</text>
+        <text encoding="base64">CS8vIGNoaWxkX3Byb2Nlc3MuZXhlY1N5bmMoYG5wbS5jbWQgcGFjayAke2J1aWxkRGlyfWAsIHsKCS8vIAllbmNvZGluZzogJ3V0ZjgnLAoJLy8gCWN3ZDogJy4nLAoJLy8gfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWNvbnN0IGJ1aWxkRGlyID0gZ2VuZXJhdGV0bXBEaXIoKTsK</text>
+        <text encoding="base64">U2V0IHRoZSB2ZXJzaW9ucyBmb3IgdGhlIHBhY2thZ2UgYW5kIHRoZSBkYXNoYm9hcmQK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWZzLnJlbW92ZVN5bmMoYnVpbGREaXIpOwo=</text>
+        <text encoding="base64">CWNvbnN0IGJ1aWxkRGlyID0gZ2VuZXJhdGV0bXBEaXIoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKCdjbGVhbiBwcmV2aW91cyBidWlsZCByZXN1bHRzJyk7Cg==</text>
+        <text encoding="base64">CWZzLnJlbW92ZVN5bmMoYnVpbGREaXIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgYnVpbGREaXIgPSBnZW5lcmF0ZXRtcERpcigpOwo=</text>
+        <text encoding="base64">CWNvbnNvbGUubG9nKCdjbGVhbiBwcmV2aW91cyBidWlsZCByZXN1bHRzJyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgYnVpbGREaXIgPSAnLi9kaXN0JzsK</text>
+        <text encoding="base64">Y29uc3QgYnVpbGREaXIgPSBnZW5lcmF0ZXRtcERpcigpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAiYmluIjogewogICAgInN0YXJ0LXNpZ25hbGluZy1zZXJ2ZXIiOiAiLi9zdGFydC1zZXJ2ZXIuanMiCiAgfQo=</text>
+        <text encoding="base64">Y29uc3QgYnVpbGREaXIgPSAnLi9kaXN0JzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJwb3N0aW5zdGFsbCI6ICJucG0gbGluayBwbTIgLS1sb2NhbCIK</text>
+        <text encoding="base64">ICAiYmluIjogewogICAgInN0YXJ0LXNpZ25hbGluZy1zZXJ2ZXIiOiAiLi9zdGFydC1zZXJ2ZXIuanMiCiAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKCdJcyB0aGlzIGNvcnJlY3Q/Jyk7Cg==</text>
+        <text encoding="base64">ICAgICJwb3N0aW5zdGFsbCI6ICJucG0gbGluayBwbTIgLS1sb2NhbCIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CS8vIGNvbnN0IHBrZyA9IEpTT04ucGFyc2UoJy4vcGFja2FnZS5qc29uJyk7CgkvLyByZXR1cm4gcGtnLnZlcnNpb247Cg==</text>
+        <text encoding="base64">CWNvbnNvbGUubG9nKCdJcyB0aGlzIGNvcnJlY3Q/Jyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
