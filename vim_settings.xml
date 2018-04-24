@@ -669,11 +669,12 @@
         <mark key="^" line="152" column="170" />
         <mark key="." line="152" column="170" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/lobbybar/src/jc-web-peer/src/device.js" timestamp="1524594103434">
-        <mark key="[" line="160" column="112" />
-        <mark key="]" line="160" column="108" />
-        <mark key="." line="160" column="108" />
-        <mark key="^" line="160" column="108" />
+      <file name="C:/ubuntu-home/johnnycash/lobbybar/src/jc-web-peer/src/device.js" timestamp="1524596023531">
+        <mark key="'" line="119" column="30" />
+        <mark key="[" line="154" column="143" />
+        <mark key="]" line="154" column="143" />
+        <mark key="." line="154" column="143" />
+        <mark key="^" line="154" column="143" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/dist/cloud/components/lobby-bar/lobby-bar.html" timestamp="1514918257018">
         <mark key="[" line="211" column="49" />
@@ -1073,11 +1074,11 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="18" column="5" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/lobbybar/src/jc-web-peer/src/signalingChannel.js" timestamp="1524594266065">
-        <mark key="[" line="116" column="30" />
-        <mark key="]" line="116" column="49" />
-        <mark key="." line="116" column="49" />
-        <mark key="^" line="116" column="49" />
+      <file name="C:/ubuntu-home/johnnycash/lobbybar/src/jc-web-peer/src/signalingChannel.js" timestamp="1524596799969">
+        <mark key="[" line="117" column="118" />
+        <mark key="]" line="118" column="16" />
+        <mark key="." line="118" column="16" />
+        <mark key="^" line="118" column="16" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/src/instruments/src/sfp-components/sfp-property-container/sfp-property-container.html" timestamp="1521205754848">
         <mark key="[" line="13" column="28" />
@@ -1154,10 +1155,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="8" filename="C:/ubuntu/sfp/signaling-server/test/graceperiodtests.js" />
-      <jump line="87" column="27" filename="C:/ubuntu/sfp/signaling-server/src/devices.js" />
-      <jump line="106" column="35" filename="C:/ubuntu/sfp/signaling-server/test/leasetimetests.js" />
-      <jump line="148" column="0" filename="C:/ubuntu/sfp/signaling-server/test/leasetimetests.js" />
       <jump line="40" column="0" filename="C:/ubuntu/sfp/signaling-server/test/testhelpers.js" />
       <jump line="167" column="6" filename="C:/ubuntu/sfp/signaling-server/test/graceperiodtests.js" />
       <jump line="160" column="7" filename="C:/ubuntu/sfp/signaling-server/test/graceperiodtests.js" />
@@ -1254,16 +1251,20 @@
       <jump line="71" column="21" filename="C:/ubuntu-home/johnnycash/signalingserver/buildpackage.js" />
       <jump line="79" column="4" filename="C:/ubuntu-home/johnnycash/signalingserver/buildpackage.js" />
       <jump line="95" column="4" filename="C:/ubuntu-home/johnnycash/signalingserver/buildpackage.js" />
+      <jump line="146" column="27" filename="C:/ubuntu-home/johnnycash/lobbybar/src/jc-web-peer/src/signalingChannel.js" />
+      <jump line="128" column="45" filename="C:/ubuntu-home/johnnycash/lobbybar/src/jc-web-peer/src/signalingChannel.js" />
+      <jump line="184" column="0" filename="C:/ubuntu-home/johnnycash/lobbybar/src/jc-web-peer/src/device.js" />
+      <jump line="119" column="30" filename="C:/ubuntu-home/johnnycash/lobbybar/src/jc-web-peer/src/device.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>{ leaseTimeInHours:</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>addEventListener</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCWlmICh0aGlzLl9jaGFubmVsKSB7CgkJCQkJdGhpcy5fY2hhbm5lbC5jbG9zZSgpOwoJCQkJfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>addEventListener</text>
+        <text>errorHandler</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZWVyXD4=</text>
@@ -1272,34 +1273,34 @@
         <text encoding="base64">CQkJCXRoaXMuX2NoYW5uZWwuYWRkRXZlbnRMaXN0ZW5lcignZXJyb3InLCBlcnJvckhhbmRsZXIpOyAvLyBlc2xpbnQtZGlzYWJsZS1saW5lIG5vLXVzZS1iZWZvcmUtZGVmaW5lCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCXRlYXJEb3duQ29ubmVjdGlvbkxpc3RlbmVycygpOwoJCQkJcmVqZWN0KENoYW5uZWxFcnJvci5GYWlsVG9DcmVhdGUpOwo=</text>
+        <text encoding="base64">CQkJCWlmICh0aGlzLl9jaGFubmVsKSB7CgkJCQkJdGhpcy5fY2hhbm5lbC5jbG9zZSgpOwoJCQkJfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQkvLyB9Cg==</text>
+        <text encoding="base64">CQkJbGV0IHRpbWVvdXRJRDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQkvLyBpZiAodGhpcy5fc2lnbmFsaW5nQ2hhbm5lbC5pc0Nvbm5lY3RlZCkgewo=</text>
+        <text encoding="base64">CQkJY29uc3Qgc2V0dXBDb25uZWN0aW9uTGlzdGVuZXJzID0gKCkgPT4gewoJCQkJdGhpcy5fY2hhbm5lbC5hZGRFdmVudExpc3RlbmVyKCdvcGVuJywgaGFuZGxlT3Blbik7ICAgICAvLyBlc2xpbnQtZGlzYWJsZS1saW5lIG5vLXVzZS1iZWZvcmUtZGVmaW5lCgkJCQl0aGlzLl9jaGFubmVsLmFkZEV2ZW50TGlzdGVuZXIoJ2Nsb3NlJywgZXJyb3JDbG9zZSk7ICAgIC8vIGVzbGludC1kaXNhYmxlLWxpbmUgbm8tdXNlLWJlZm9yZS1kZWZpbmUKCQkJCXRoaXMuX2NoYW5uZWwuYWRkRXZlbnRMaXN0ZW5lcignZXJyb3InLCBlcnJvckhhbmRsZXIpOyAgLy8gZXNsaW50LWRpc2FibGUtbGluZSBuby11c2UtYmVmb3JlLWRlZmluZQoJCQl9OwoKCQkJY29uc3QgdGVhckRvd25Db25uZWN0aW9uTGlzdGVuZXJzID0gKCkgPT4gewoJCQkJdGhpcy5fY2hhbm5lbC5yZW1vdmVFdmVudExpc3RlbmVyKCdvcGVuJywgaGFuZGxlT3Blbik7ICAgICAgLy8gZXNsaW50LWRpc2FibGUtbGluZSBuby11c2UtYmVmb3JlLWRlZmluZQoJCQkJdGhpcy5fY2hhbm5lbC5yZW1vdmVFdmVudExpc3RlbmVyKCdjbG9zZScsIGVycm9yQ2xvc2UpOyAgICAgLy8gZXNsaW50LWRpc2FibGUtbGluZSBuby11c2UtYmVmb3JlLWRlZmluZQoJCQkJdGhpcy5fY2hhbm5lbC5yZW1vdmVFdmVudExpc3RlbmVyKCdlcnJvcicsIGVycm9ySGFuZGxlcik7ICAgLy8gZXNsaW50LWRpc2FibGUtbGluZSBuby11c2UtYmVmb3JlLWRlZmluZQoJCQl9OwoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">U2V0IHRoZSB2ZXJzaW9ucyBmb3IgdGhlIHBhY2thZ2UgYW5kIHRoZSBkYXNoYm9hcmQK</text>
+        <text encoding="base64">CQkJdHJ5ewoJCQkJYXdhaXQgd2l0aENhbmNlbCgoKSA9PiBjb25uZWN0U2lnbmFsQ2hhbm5lbChzdGVwQ2FuY2VsVG9rZW4pLCB0aGlzLl9jYW5jZWxUb2tlbikoKTsKCQkJCWF3YWl0IHdpdGhDYW5jZWwoKCkgPT4gdGhpcy5fZGV2aWNlQ29ubmVjdGlvbi5jcmVhdGVPZmZlcigpLCB0aGlzLl9jYW5jZWxUb2tlbik7CgkJCQlhd2FpdCAod2l0aENhbmNlbCgob2ZmZXIpID0+IHRoaXMuX2RldmljZUNvbm5lY3Rpb24uc2V0TG9jYWxEZXNjcmlwdGlvbihvZmZlciksIHRoaXMuX2NhbmNlbFRva2VuKSk7CgkJCQlsZXQgcmVzdWx0ID0gYXdhaXQgKHdpdGhSZXRyeSh3aXRoQ2FuY2VsKCgpID0+IHRoaXMuX25lZ290aWF0ZUNvbm5lY3Rpb24oc3RlcENhbmNlbFRva2VuKSwgdGhpcy5fY2FuY2VsVG9rZW4pKSk7CgkJCQl0aGlzLl9zaWduYWxpbmdDaGFubmVsLmZpbmFsaXplKCk7CgkJCQl0aGlzLl9yZW1vdmVTaWduYWxpbmdIb29rcygpOwoJCQkJY29uc3QgdGltZXJJRCA9IHNldFRpbWVvdXQoKCkgPT4gdGhpcy5jYW5jZWwoRGV2aWNlRXJyb3IuVGltZW91dCksIHRpbWVvdXQpOwoKCQkJfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWNvbnN0IGJ1aWxkRGlyID0gZ2VuZXJhdGV0bXBEaXIoKTsK</text>
+        <text encoding="base64">CQkJCXJldHVybiBQcm9taXNlLnJlc29sdmUoYXJnKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWZzLnJlbW92ZVN5bmMoYnVpbGREaXIpOwo=</text>
+        <text encoding="base64">CQkJYXdhaXQgd2l0aENhbmNlbCgoKSA9PiBjb25uZWN0U2lnbmFsQ2hhbm5lbChzdGVwQ2FuY2VsVG9rZW4pLCB0aGlzLl9jYW5jZWxUb2tlbikoKTsKCQlhd2FpdCB3aXRoQ2FuY2VsKCgpID0+IHRoaXMuX2RldmljZUNvbm5lY3Rpb24uY3JlYXRlT2ZmZXIoKSwgdGhpcy5fY2FuY2VsVG9rZW4pOwoJCQkJYXdhaXQgKHdpdGhDYW5jZWwoKG9mZmVyKSA9PiB0aGlzLl9kZXZpY2VDb25uZWN0aW9uLnNldExvY2FsRGVzY3JpcHRpb24ob2ZmZXIpLCB0aGlzLl9jYW5jZWxUb2tlbikpOwoJCQkJYXdhaXQgKHdpdGhSZXRyeSh3aXRoQ2FuY2VsKCgpID0+IHRoaXMuX25lZ290aWF0ZUNvbm5lY3Rpb24oc3RlcENhbmNlbFRva2VuKSwgdGhpcy5fY2FuY2VsVG9rZW4pKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKCdjbGVhbiBwcmV2aW91cyBidWlsZCByZXN1bHRzJyk7Cg==</text>
+        <text encoding="base64">CQkJCXRlYXJEb3duQ29ubmVjdGlvbkxpc3RlbmVycygpOwoJCQkJcmVqZWN0KENoYW5uZWxFcnJvci5GYWlsVG9DcmVhdGUpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgYnVpbGREaXIgPSBnZW5lcmF0ZXRtcERpcigpOwo=</text>
+        <text encoding="base64">CQkJCQkvLyB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgYnVpbGREaXIgPSAnLi9kaXN0JzsK</text>
+        <text encoding="base64">CQkJCQkvLyBpZiAodGhpcy5fc2lnbmFsaW5nQ2hhbm5lbC5pc0Nvbm5lY3RlZCkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
