@@ -65,6 +65,12 @@
         <mark key="." line="121" column="98" />
         <mark key="^" line="121" column="98" />
       </file>
+      <file name="C:/ubuntu-home/johnnycash/lobbybar/src/jc-web-peer/karma.conf.js" timestamp="1524665643421">
+        <mark key="[" line="69" column="22" />
+        <mark key="]" line="69" column="21" />
+        <mark key="." line="69" column="21" />
+        <mark key="^" line="69" column="21" />
+      </file>
       <file name="C:/ubuntu-home/johnnycash/signalingserver/prepublishonly.js" timestamp="1524082668621">
         <mark key="[" line="0" column="39" />
         <mark key="]" line="1" column="0" />
@@ -676,12 +682,8 @@
         <mark key="^" line="152" column="170" />
         <mark key="." line="152" column="170" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/lobbybar/src/jc-web-peer/src/device.js" timestamp="1524663401409">
+      <file name="C:/ubuntu-home/johnnycash/lobbybar/src/jc-web-peer/src/device.js" timestamp="1524665785989">
         <mark key="'" line="282" column="14" />
-        <mark key="[" line="161" column="121" />
-        <mark key="]" line="161" column="119" />
-        <mark key="." line="161" column="119" />
-        <mark key="^" line="161" column="119" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/dist/cloud/components/lobby-bar/lobby-bar.html" timestamp="1514918257018">
         <mark key="[" line="211" column="49" />
@@ -1155,6 +1157,13 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="C:/ubuntu-home/johnnycash/lobbybar/src/instruments/src/jc-web-peer/test/deviceSpec.js" timestamp="1524666398338">
+        <mark key="'" line="271" column="0" />
+        <mark key="[" line="272" column="5" />
+        <mark key="]" line="272" column="4" />
+        <mark key="^" line="272" column="4" />
+        <mark key="." line="272" column="4" />
+      </file>
       <file name="C:/ubuntu-home/dotfiles-for-wsl/installbits.sh" timestamp="1511472522163">
         <mark key="[" line="3" column="13" />
         <mark key="]" line="3" column="13" />
@@ -1163,8 +1172,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="229" column="0" filename="C:/ubuntu/sfp/signaling-server/test/devicestests.js" />
-      <jump line="221" column="7" filename="C:/ubuntu/sfp/signaling-server/test/devicestests.js" />
       <jump line="352" column="31" filename="C:/ubuntu/sfp/signaling-server/src/devices.js" />
       <jump line="176" column="34" filename="C:/ubuntu/sfp/lobbybar/src/instruments/test/AnalysisScreenCaptureTest.js" />
       <jump line="24" column="23" filename="C:/ubuntu/sfp/lobbybar/src/instruments/test/AnalysisScreenCaptureTest.js" />
@@ -1263,16 +1270,18 @@
       <jump line="282" column="14" filename="C:/ubuntu-home/johnnycash/lobbybar/src/jc-web-peer/src/device.js" />
       <jump line="124" column="38" filename="C:/ubuntu-home/johnnycash/lobbybar/src/jc-web-peer/src/signalingChannel.js" />
       <jump line="293" column="32" filename="C:/ubuntu-home/johnnycash/lobbybar/src/utilities/manager.js" />
+      <jump line="148" column="17" filename="C:/ubuntu-home/johnnycash/lobbybar/src/instruments/src/jc-web-peer/test/deviceSpec.js" />
+      <jump line="271" column="0" filename="C:/ubuntu-home/johnnycash/lobbybar/src/instruments/src/jc-web-peer/test/deviceSpec.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>{ leaseTimeInHours:</text>
       </register>
       <register name="&quot;" type="4">
-        <text>--single-run</text>
+        <text>withRetry</text>
       </register>
       <register name="-" type="4">
-        <text>--single-run</text>
+        <text>withRetry</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZWVyXD4=</text>
