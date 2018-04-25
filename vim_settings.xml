@@ -1078,11 +1078,12 @@
         <mark key="^" line="9" column="84" />
         <mark key="." line="9" column="73" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/scripts/buildpackage.js" timestamp="1524684747976">
-        <mark key="[" line="103" column="20" />
-        <mark key="]" line="103" column="20" />
-        <mark key="^" line="103" column="20" />
-        <mark key="." line="103" column="20" />
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/scripts/buildpackage.js" timestamp="1524687743398">
+        <mark key="'" line="131" column="58" />
+        <mark key="[" line="153" column="26" />
+        <mark key="]" line="153" column="26" />
+        <mark key="." line="153" column="26" />
+        <mark key="^" line="155" column="4" />
       </file>
       <file name="D:/deletethis/exercism/very-big-sum.ts" timestamp="1510687811829">
         <mark key="[" line="30" column="1" />
@@ -1121,7 +1122,7 @@
         <mark key="." line="3" column="61" />
         <mark key="^" line="3" column="61" />
       </file>
-      <file name="/JavaScript Console" timestamp="1524167962788">
+      <file name="/JavaScript Console" timestamp="1524687497106">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="^" line="0" column="7" />
@@ -1203,7 +1204,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="286" column="82" filename="C:/ubuntu/sfp/lobbybar/src/instruments/test/AnalysisScreenCaptureTest.js" />
       <jump line="267" column="28" filename="C:/ubuntu/sfp/lobbybar/src/instruments/test/AnalysisScreenCaptureTest.js" />
       <jump line="48" column="9" filename="C:/ubuntu/sfp/lobbybar/src/instruments/test/AnalysisScreenCaptureTest.js" />
       <jump line="36" column="43" filename="C:/ubuntu/sfp/lobbybar/src/instruments/test/AnalysisScreenCaptureTest.js" />
@@ -1303,52 +1303,69 @@
       <jump line="18" column="18" filename="C:/ubuntu-home/johnnycash/lobbybar/src/jc-web-peer/test/deviceSpec.js" />
       <jump line="275" column="0" filename="C:/ubuntu-home/johnnycash/lobbybar/src/jc-web-peer/test/deviceSpec.js" />
       <jump line="291" column="10" filename="C:/ubuntu-home/johnnycash/lobbybar/src/jc-web-peer/test/deviceSpec.js" />
+      <jump line="99" column="58" filename="C:/ubuntu-home/johnnycash/signalingserver/scripts/buildpackage.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>{ leaseTimeInHours:</text>
       </register>
       <register name="&quot;" type="4">
-        <text>node</text>
+        <text>Publishing package</text>
       </register>
       <register name="-" type="4">
-        <text>node</text>
+        <text>Publishing package</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZWVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQljb25zdCB0aW1lb3V0ID0gKG9wdGlvbnMgJiYgb3B0aW9ucy50aW1lb3V0KSB8fCAxMDAwOwo=</text>
+        <text encoding="base64">CQljb25zb2xlLmxvZyhpbmZvKCdQdWJsaXNoaW5nIHBhY2thZ2UnKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWNoaWxkX3Byb2Nlc3MuZXhlY1N5bmMoYG5wbS5jbWQgcHVibGlzaCAke2J1aWxkRGlyfSAtLXRhZz1kZXZgLCB7CgkJZW5jb2Rpbmc6ICd1dGY4JywKCQljd2Q6ICcuJywKCX0pOwo=</text>
+        <text encoding="base64">CWZzLnJlbW92ZVN5bmMoYnVpbGREaXIpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CS8vIGNoaWxkX3Byb2Nlc3MuZXhlY1N5bmMoYG5wbS5jbWQgcGFjayAke2J1aWxkRGlyfWAsIHsKCS8vIAllbmNvZGluZzogJ3V0ZjgnLAoJLy8gCWN3ZDogJy4nLAoJLy8gfSk7Cg==</text>
+        <text encoding="base64">CWNvbnNvbGUubG9nKGluZm8oJ1B1Ymxpc2hpbmcgcGFja2FnZScpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJZXhwZWN0KGVycm9yKS50b0JlKERldmljZUVycm9yLlRpbWVvdXQpOwo=</text>
+        <text encoding="base64">Y29uc3Qgb3B0aW9ucyA9IGNvbW1hbmRMaW5lQXJncyhvcHRpb25EZWZpbml0aW9ucyk7Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkJZXhwZWN0KGVycm9yKS50b0JlKERldmljZUVycm9yLlRpbWVvdXQpOwo=</text>
+      <register name="4" type="4">
+        <text>[
+			{
+				name: 'keep-dist-folder',
+				description: 'When creating the package, we first create a sanitized copy of the application in a dist folder. ' +
+				'Use this option if you do not want to sanitized copy of the application to be automatically deleted. This is useful ' +
+				'in cases where you want to see the output or if you want to unpublish the package that was published.'
+			},
+			{
+				name: 'run-pack',
+				description: 'By default, this script will publish the package. If you want to test the package without publishing it, ' +
+				'use this flag. This will create a tgz you can use to test what the npm install experience will be like.'
+			},
+			{
+				name: 'help',
+				description: 'Print this usage guide.'
+			}
+		]</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CSAqIEAK</text>
+        <text encoding="base64">Y29uc3Qgb3B0aW9uRGVmaW5pdGlvbnMgPSBbCgl7CgkJbmFtZTogJ2tlZXAtZGlzdC1mb2xkZXInLAoJCXR5cGU6IEJvb2xlYW4sCgkJZGVzY3JpcHRpb246ICdXaGVuIGNyZWF0aW5nIHRoZSBwYWNrYWdlLCB3ZSBmaXJzdCBjcmVhdGUgYSBzYW5pdGl6ZWQgY29weSBvZiB0aGUgYXBwbGljYXRpb24gaW4gYSBkaXN0IGZvbGRlci4gJyArCgkJJ1VzZSB0aGlzIG9wdGlvbiBpZiB5b3UgZG8gbm90IHdhbnQgdG8gc2FuaXRpemVkIGNvcHkgb2YgdGhlIGFwcGxpY2F0aW9uIHRvIGJlIGF1dG9tYXRpY2FsbHkgZGVsZXRlZC4gVGhpcyBpcyB1c2VmdWwgJyArCgkJJ2luIGNhc2VzIHdoZXJlIHlvdSB3YW50IHRvIHNlZSB0aGUgb3V0cHV0IG9yIGlmIHlvdSB3YW50IHRvIHVucHVibGlzaCB0aGUgcGFja2FnZSB0aGF0IHdhcyBwdWJsaXNoZWQuJwoJfSwKCXsKCQluYW1lOiAncnVuLXBhY2snLAoJCXR5cGU6IEJvb2xlYW4sCgkJZGVzY3JpcHRpb246ICdCeSBkZWZhdWx0LCB0aGlzIHNjcmlwdCB3aWxsIHB1Ymxpc2ggdGhlIHBhY2thZ2UuIElmIHlvdSB3YW50IHRvIHRlc3QgdGhlIHBhY2thZ2Ugd2l0aG91dCBwdWJsaXNoaW5nIGl0LCAnICsKCQkndXNlIHRoaXMgZmxhZy4gVGhpcyB3aWxsIGNyZWF0ZSBhIHRneiB5b3UgY2FuIHVzZSB0byB0ZXN0IHdoYXQgdGhlIG5wbSBpbnN0YWxsIGV4cGVyaWVuY2Ugd2lsbCBiZSBsaWtlLicKCX0sCgl7CgkJbmFtZTogJ2hlbHAnLAoJCXR5cGU6IEJvb2xlYW4sCgkJZGVzY3JpcHRpb246ICdQcmludCB0aGlzIHVzYWdlIGd1aWRlLicKCX0KXTsKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQljb25zdCB0aW1lb3V0ID0gKG9wdGlvbnMgJiYgb3B0aW9ucy50aW1lb3V0KSB8fCAxMDAwOwo=</text>
+        <text encoding="base64">CQkJCXR5cGVMYWJlbDogJ3t1bmRlcmxpbmUgZmlsZX0nLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWNvbm5lY3QoY2FuY2VsVG9rZW4sIG9wdGlvbnMpIHsK</text>
+        <text encoding="base64">CXsgbmFtZTogJ3RpbWVvdXQnLCBhbGlhczogJ3QnLCB0eXBlOiBOdW1iZXIgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJLy8JCQkianN4IjogdHJ1ZSwK</text>
+        <text encoding="base64">CXsgbmFtZTogJ3ZlcmJvc2UnLCBhbGlhczogJ3YnLCB0eXBlOiBCb29sZWFuIH0sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQl9KS5jYXRjaCgoZXJyb3IpID0+IHsKCQkJZG9uZSgpOwoJCX0pOwo=</text>
+        <text encoding="base64">CWNoaWxkX3Byb2Nlc3MuZXhlY1N5bmMoYG5wbS5jbWQgcHVibGlzaCAke2J1aWxkRGlyfSAtLXRhZz1kZXZgLCB7CgkJZW5jb2Rpbmc6ICd1dGY4JywKCQljd2Q6ICcuJywKCX0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
