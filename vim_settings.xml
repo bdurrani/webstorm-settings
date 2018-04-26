@@ -846,7 +846,6 @@
         <mark key="^" line="7" column="24" />
         <mark key="." line="7" column="24" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/lobbybar/src/jc-web-peer/src/errors.js" timestamp="1524591046359" />
       <file name="C:/ubuntu-home/johnnycash/lobbybar/src/instruments/src/webchartsiframe.html" timestamp="1520014576504">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -927,11 +926,10 @@
         <mark key="^" line="161" column="55" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/src/utilities/manager.js" timestamp="1524663014095">
-        <mark key="'" line="293" column="32" />
-        <mark key="[" line="389" column="80" />
-        <mark key="]" line="389" column="79" />
-        <mark key="^" line="389" column="79" />
-        <mark key="." line="389" column="79" />
+        <mark key="[" line="10" column="80" />
+        <mark key="]" line="10" column="79" />
+        <mark key="^" line="10" column="79" />
+        <mark key="." line="10" column="79" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/signalingserver/benchmark/src/app.js" timestamp="1520454518136">
         <mark key="[" line="84" column="0" />
