@@ -505,11 +505,11 @@
         <mark key="." line="16" column="87" />
         <mark key="^" line="16" column="86" />
       </file>
-      <file name="D:/Documents/Dropbox/Misc/projects/airtable-dashboard/src/main.ts" timestamp="1524861675965">
-        <mark key="[" line="1" column="38" />
-        <mark key="]" line="1" column="38" />
-        <mark key="^" line="1" column="44" />
-        <mark key="." line="1" column="38" />
+      <file name="D:/Documents/Dropbox/Misc/projects/airtable-dashboard/src/main.ts" timestamp="1524863141185">
+        <mark key="[" line="8" column="53" />
+        <mark key="]" line="8" column="57" />
+        <mark key="^" line="8" column="57" />
+        <mark key="." line="8" column="57" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/signalingserver/package.json" timestamp="1524683848893">
         <mark key="'" line="0" column="0" />
@@ -1351,10 +1351,10 @@
         <text>{ leaseTimeInHours:</text>
       </register>
       <register name="&quot;" type="4">
-        <text>'appmw9MYpEJld7BBK'</text>
+        <text>Any</text>
       </register>
       <register name="-" type="4">
-        <text>'appmw9MYpEJld7BBK'</text>
+        <text>Any</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZWVyXD4=</text>
