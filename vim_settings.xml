@@ -327,11 +327,11 @@
         <mark key="^" line="72" column="40" />
         <mark key="." line="9" column="8" />
       </file>
-      <file name="C:/ubuntu/sfp/signaling-server/scripts/buildpackage.js" timestamp="1524832768468">
-        <mark key="[" line="150" column="22" />
-        <mark key="]" line="150" column="114" />
-        <mark key="." line="150" column="114" />
-        <mark key="^" line="150" column="114" />
+      <file name="C:/ubuntu/sfp/signaling-server/scripts/buildpackage.js" timestamp="1524855499918">
+        <mark key="[" line="140" column="79" />
+        <mark key="]" line="140" column="79" />
+        <mark key="." line="140" column="79" />
+        <mark key="^" line="137" column="58" />
       </file>
       <file name="C:/ubuntu/sfp/lobbybar/src/instruments/src/sfp-components/sfp-numeric-input/sfp-numeric-input.html" timestamp="1517259893409">
         <mark key="[" line="152" column="163" />
@@ -997,10 +997,10 @@
         <mark key="." line="525" column="37" />
         <mark key="^" line="525" column="37" />
       </file>
-      <file name="C:/ubuntu/sfp/lobbybar/build.js" timestamp="1524845377870">
+      <file name="C:/ubuntu/sfp/lobbybar/build.js" timestamp="1524853872031">
         <mark key="'" line="64" column="0" />
-        <mark key="[" line="31" column="69" />
-        <mark key="]" line="31" column="72" />
+        <mark key="[" line="190" column="0" />
+        <mark key="]" line="190" column="28" />
         <mark key="." line="31" column="72" />
         <mark key="^" line="31" column="72" />
       </file>
@@ -1330,62 +1330,46 @@
         <text>{ leaseTimeInHours:</text>
       </register>
       <register name="&quot;" type="4">
-        <text>refs/heads/master</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>refs/heads/master</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZWVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQljb25zb2xlLmxvZyhpbmZvKCdDcmVhdGluZyB0YXJiYWxsIGZyb20gdGhlIHBhY2thZ2UnKSk7Cg==</text>
+        <text encoding="base64">CWNvbnNvbGUubG9nKGluZm8oJzEgLSBMb2dpbiBpbnRvIG5wbSB1c2luZycsIGNoYWxrLnVuZGVybGluZSgnbnBtIGxvZ2luJykpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CS8vIGVsc2UgewoJLy8gCWNvbnNvbGUubG9nKGluZm8oJ1B1Ymxpc2hpbmcgcGFja2FnZScpKTsKCS8vIAlwdWJsaXNoUGFja2FnZSgpOwoJLy8gfQo=</text>
+        <text encoding="base64">Y29uc3QgdXVpZHYxID0gcmVxdWlyZSgndXVpZC92MScpOwpjb25zdCBvcyA9IHJlcXVpcmUoJ29zJyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWZzLnJlbW92ZVN5bmMoYnVpbGREaXIpOwo=</text>
+        <text encoding="base64">ZnVuY3Rpb24gZ2VuZXJhdGV0bXBEaXIoKSB7Cgljb25zdCB1aWQgPSB1dWlkdjEoKTsKCXJldHVybiBwYXRoLmpvaW4ob3MudG1wZGlyKCksIHVpZCk7Cn0KCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKGluZm8oJ1B1Ymxpc2hpbmcgcGFja2FnZScpKTsK</text>
+        <text encoding="base64">ZmluYWxseSB7CglpZihvcHRpb25zWydrZWVwLWRpc3QtZm9sZGVyJ10pIHsKCQljb25zb2xlLmxvZyhpbmZvKCdrZWVwaW5nIHRtcCBvdXRwdXQgZm9sZGVyJykpOwoJfSBlbHNlIHsKCQlmcy5yZW1vdmVTeW5jKHRtcERpcik7Cgl9Cn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3Qgb3B0aW9ucyA9IGNvbW1hbmRMaW5lQXJncyhvcHRpb25EZWZpbml0aW9ucyk7Cg==</text>
+        <text encoding="base64">b3B0aW9uc1sna2VlcC1kaXN0LWZvbGRlciddID0gdHJ1ZTsK</text>
       </register>
-      <register name="5" type="4">
-        <text>[
-			{
-				name: 'keep-dist-folder',
-				description: 'When creating the package, we first create a sanitized copy of the application in a dist folder. ' +
-				'Use this option if you do not want to sanitized copy of the application to be automatically deleted. This is useful ' +
-				'in cases where you want to see the output or if you want to unpublish the package that was published.'
-			},
-			{
-				name: 'run-pack',
-				description: 'By default, this script will publish the package. If you want to test the package without publishing it, ' +
-				'use this flag. This will create a tgz you can use to test what the npm install experience will be like.'
-			},
-			{
-				name: 'help',
-				description: 'Print this usage guide.'
-			}
-		]</text>
+      <register name="5" type="2">
+        <text encoding="base64">CXsKCQluYW1lOiAna2VlcC1kaXN0LWZvbGRlcicsCgkJdHlwZTogQm9vbGVhbiwKCQlkZXNjcmlwdGlvbjogJ1doZW4gY3JlYXRpbmcgdGhlIHBhY2thZ2UsIHdlIGZpcnN0IGNyZWF0ZSBhIHNhbml0aXplZCBjb3B5IG9mIHRoZSBhcHBsaWNhdGlvbiBpbiBhIGRpc3QgZm9sZGVyLiAnICsKCQknVXNlIHRoaXMgb3B0aW9uIGlmIHlvdSBkbyBub3Qgd2FudCB0byBzYW5pdGl6ZWQgY29weSBvZiB0aGUgYXBwbGljYXRpb24gdG8gYmUgYXV0b21hdGljYWxseSBkZWxldGVkLiBUaGlzIGlzIHVzZWZ1bCAnICsKCQknaW4gY2FzZXMgd2hlcmUgeW91IHdhbnQgdG8gc2VlIHRoZSBvdXRwdXQgb3IgaWYgeW91IHdhbnQgdG8gdW5wdWJsaXNoIHRoZSBwYWNrYWdlIHRoYXQgd2FzIHB1Ymxpc2hlZC5cbicKCX0sCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3Qgb3B0aW9uRGVmaW5pdGlvbnMgPSBbCgl7CgkJbmFtZTogJ2tlZXAtZGlzdC1mb2xkZXInLAoJCXR5cGU6IEJvb2xlYW4sCgkJZGVzY3JpcHRpb246ICdXaGVuIGNyZWF0aW5nIHRoZSBwYWNrYWdlLCB3ZSBmaXJzdCBjcmVhdGUgYSBzYW5pdGl6ZWQgY29weSBvZiB0aGUgYXBwbGljYXRpb24gaW4gYSBkaXN0IGZvbGRlci4gJyArCgkJJ1VzZSB0aGlzIG9wdGlvbiBpZiB5b3UgZG8gbm90IHdhbnQgdG8gc2FuaXRpemVkIGNvcHkgb2YgdGhlIGFwcGxpY2F0aW9uIHRvIGJlIGF1dG9tYXRpY2FsbHkgZGVsZXRlZC4gVGhpcyBpcyB1c2VmdWwgJyArCgkJJ2luIGNhc2VzIHdoZXJlIHlvdSB3YW50IHRvIHNlZSB0aGUgb3V0cHV0IG9yIGlmIHlvdSB3YW50IHRvIHVucHVibGlzaCB0aGUgcGFja2FnZSB0aGF0IHdhcyBwdWJsaXNoZWQuJwoJfSwKCXsKCQluYW1lOiAncnVuLXBhY2snLAoJCXR5cGU6IEJvb2xlYW4sCgkJZGVzY3JpcHRpb246ICdCeSBkZWZhdWx0LCB0aGlzIHNjcmlwdCB3aWxsIHB1Ymxpc2ggdGhlIHBhY2thZ2UuIElmIHlvdSB3YW50IHRvIHRlc3QgdGhlIHBhY2thZ2Ugd2l0aG91dCBwdWJsaXNoaW5nIGl0LCAnICsKCQkndXNlIHRoaXMgZmxhZy4gVGhpcyB3aWxsIGNyZWF0ZSBhIHRneiB5b3UgY2FuIHVzZSB0byB0ZXN0IHdoYXQgdGhlIG5wbSBpbnN0YWxsIGV4cGVyaWVuY2Ugd2lsbCBiZSBsaWtlLicKCX0sCgl7CgkJbmFtZTogJ2hlbHAnLAoJCXR5cGU6IEJvb2xlYW4sCgkJZGVzY3JpcHRpb246ICdQcmludCB0aGlzIHVzYWdlIGd1aWRlLicKCX0KXTsKCg==</text>
+        <text encoding="base64">CS8vIGVsc2UgewoJLy8gCWNvbnNvbGUubG9nKGluZm8oJ1B1Ymxpc2hpbmcgcGFja2FnZScpKTsKCS8vIAlwdWJsaXNoUGFja2FnZSgpOwoJLy8gfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCXR5cGVMYWJlbDogJ3t1bmRlcmxpbmUgZmlsZX0nLAo=</text>
+        <text encoding="base64">CWZzLnJlbW92ZVN5bmMoYnVpbGREaXIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXsgbmFtZTogJ3RpbWVvdXQnLCBhbGlhczogJ3QnLCB0eXBlOiBOdW1iZXIgfQo=</text>
+        <text encoding="base64">CWNvbnNvbGUubG9nKGluZm8oJ1B1Ymxpc2hpbmcgcGFja2FnZScpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXsgbmFtZTogJ3ZlcmJvc2UnLCBhbGlhczogJ3YnLCB0eXBlOiBCb29sZWFuIH0sCg==</text>
+        <text encoding="base64">Y29uc3Qgb3B0aW9ucyA9IGNvbW1hbmRMaW5lQXJncyhvcHRpb25EZWZpbml0aW9ucyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
