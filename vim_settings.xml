@@ -189,6 +189,9 @@
         <mark key="." line="253" column="75" />
         <mark key="^" line="253" column="75" />
       </file>
+      <file name="D:/Documents/Dropbox/Misc/projects/airtable-dashboard/.gitignore" timestamp="1524861487355">
+        <mark key="[" line="61" column="0" />
+      </file>
       <file name="C:/ubuntu-home/johnnycash/signalingserver/dashboard/dashboard.html" timestamp="1524083007040">
         <mark key="'" line="289" column="0" />
         <mark key="[" line="193" column="23" />
@@ -501,6 +504,12 @@
         <mark key="]" line="16" column="87" />
         <mark key="." line="16" column="87" />
         <mark key="^" line="16" column="86" />
+      </file>
+      <file name="D:/Documents/Dropbox/Misc/projects/airtable-dashboard/src/main.ts" timestamp="1524861675965">
+        <mark key="[" line="1" column="38" />
+        <mark key="]" line="1" column="38" />
+        <mark key="^" line="1" column="44" />
+        <mark key="." line="1" column="38" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/signalingserver/package.json" timestamp="1524683848893">
         <mark key="'" line="0" column="0" />
@@ -937,6 +946,9 @@
         <mark key="." line="206" column="54" />
         <mark key="^" line="161" column="55" />
       </file>
+      <file name="D:/Documents/Dropbox/Misc/projects/airtable-dashboard/api.env" timestamp="1524861697470">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/src/utilities/manager.js" timestamp="1521040696185">
         <mark key="[" line="265" column="61" />
         <mark key="]" line="265" column="88" />
@@ -1339,16 +1351,10 @@
         <text>{ leaseTimeInHours:</text>
       </register>
       <register name="&quot;" type="4">
-        <text>export module SmokeTest
-{
-    export function HelloWorld1()
-    {
-        console.log(&quot;Hello World&quot;);
-    }
-}</text>
+        <text>'appmw9MYpEJld7BBK'</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'appmw9MYpEJld7BBK'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZWVyXD4=</text>
