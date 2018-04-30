@@ -33,12 +33,7 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="16" column="0" />
       </file>
-      <file name="C:/ubuntu/sfp/signaling-server/src/server.js" timestamp="1525109362670">
-        <mark key="[" line="59" column="29" />
-        <mark key="]" line="59" column="29" />
-        <mark key="." line="59" column="29" />
-        <mark key="^" line="59" column="29" />
-      </file>
+      <file name="C:/ubuntu/sfp/signaling-server/src/server.js" timestamp="1525109362670" />
       <file name="D:/Dropbox/Misc/projects/dotfiles-for-wsl/README.md" timestamp="1511967824974">
         <mark key="[" line="11" column="72" />
         <mark key="]" line="12" column="0" />
@@ -127,11 +122,9 @@
         <mark key="^" line="33" column="61" />
         <mark key="." line="160" column="7" />
       </file>
-      <file name="C:/ubuntu/sfp/signaling-server/config/example-for-npm.js" timestamp="1525103257911">
-        <mark key="[" line="9" column="11" />
-        <mark key="]" line="9" column="19" />
-        <mark key="." line="9" column="19" />
-        <mark key="^" line="9" column="19" />
+      <file name="C:/ubuntu/sfp/signaling-server/config/example-for-npm.js" timestamp="1525111432695">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="8" column="21" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/karma.conf.js" timestamp="1516395275446">
         <mark key="[" line="140" column="38" />
@@ -894,11 +887,11 @@
         <mark key="." line="60" column="4" />
         <mark key="^" line="60" column="4" />
       </file>
-      <file name="C:/ubuntu/sfp/signaling-server/README.md" timestamp="1518706452869">
-        <mark key="[" line="26" column="3" />
-        <mark key="]" line="26" column="25" />
-        <mark key="." line="26" column="25" />
-        <mark key="^" line="26" column="25" />
+      <file name="C:/ubuntu/sfp/signaling-server/README.md" timestamp="1525111456722">
+        <mark key="[" line="53" column="22" />
+        <mark key="]" line="53" column="21" />
+        <mark key="." line="53" column="21" />
+        <mark key="^" line="53" column="21" />
       </file>
       <file name="C:/ubuntu/sfp/signaling-server/src/clientroute.js" timestamp="1521638956563">
         <mark key="[" line="44" column="20" />
@@ -1353,8 +1346,8 @@
       <register name="a" type="4">
         <text>{ leaseTimeInHours:</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>0.0.0.0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aHR0cHM6Ly9yYWxseTEucmFsbHlkZXYuY29tLyMvMjA3NTc5MTkzOTI0ZC9pdGVyYXRpb25zdGF0dXMK</text>
       </register>
       <register name="-" type="4">
         <text>0.0.0.0</text>
@@ -1363,37 +1356,37 @@
         <text encoding="base64">XDxwZWVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgY29uZmlnID0gcmVxdWlyZSgnLi4vY29uZmlnJyk7Cg==</text>
+        <text encoding="base64">CWRhdGFQb2xpY3lVcmw6ICdmdWxseSBxdWFsaWZpZWQgdXJsIHRvIGRhdGEgcG9saWN5IHVybCcsCglhcGlLZXk6ICdFbnRlciB5b3VyIEFQSSBrZXknLAoJY29kZUdlbmVyYXRpb246IHsKCQlwcmVmaXg6ICdYWCcsCgl9LAoJc2VydmVyVmVyc2lvbjogcmVxdWlyZSgnLi4vcGFja2FnZS5qc29uJykudmVyc2lvbiwKCWFsbG93Q3VzdG9tSWQ6IGZhbHNlLAoJbG9nTGV2ZWw6ICdlcnJvcicsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlsb2cuaW5mbygnaHR0cCBzZXJ2ZXIgc3RhcnRlZCcpOwo=</text>
+        <text encoding="base64">aHR0cHM6Ly9yYWxseTEucmFsbHlkZXYuY29tLyMvMjA3NTc5MTkzOTI0ZC9pdGVyYXRpb25zdGF0dXMK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJY29uc29sZS5sb2coYHByb3BlcnR5ICR7b25lUHJvcGVydHl9IHdhcyBub3QgZm91bmQgaW4gYm90aCBvYmplY3RzYCk7Cg==</text>
+        <text encoding="base64">CQlsb2cuaW5mbygnaHR0cCBzZXJ2ZXIgc3RhcnRlZCcpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">eW91IGNhbiBzZWUgdGhlIHBhY2thZ2UgdW5kZXIgaXRzIG5hbWUKW25pLW1lYXN1cmVtZW50bGl2ZS1zaWduYWxpbmdzZXJ2ZXJdKGh0dHBzOi8vd3d3Lm5wbWpzLmNvbS9wYWNrYWdlL0BuaS1raXNtZXQvbmktbWVhc3VyZW1lbnRsaXZlLXNpZ25hbGluZ3NlcnZlcikKCg==</text>
+        <text encoding="base64">CQkJY29uc29sZS5sb2coYHByb3BlcnR5ICR7b25lUHJvcGVydHl9IHdhcyBub3QgZm91bmQgaW4gYm90aCBvYmplY3RzYCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhwX0V2ZW50LmRhdGEpOwo=</text>
+        <text encoding="base64">eW91IGNhbiBzZWUgdGhlIHBhY2thZ2UgdW5kZXIgaXRzIG5hbWUKW25pLW1lYXN1cmVtZW50bGl2ZS1zaWduYWxpbmdzZXJ2ZXJdKGh0dHBzOi8vd3d3Lm5wbWpzLmNvbS9wYWNrYWdlL0BuaS1raXNtZXQvbmktbWVhc3VyZW1lbnRsaXZlLXNpZ25hbGluZ3NlcnZlcikKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgYmFzZSA9IG5ldyBBaXJ0YWJsZSh7YXBpS2V5OiBwcm9jZXNzLmVudi5BSVJUQUJMRV9BUElfS0VZfSkuYmFzZSgnYXBwbXc5TVlwRUpsZDdCQksnKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhwX0V2ZW50LmRhdGEpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgY29uc29sZS5sb2coJ3RpbWVvdXQnKTsK</text>
+        <text encoding="base64">Y29uc3QgYmFzZSA9IG5ldyBBaXJ0YWJsZSh7YXBpS2V5OiBwcm9jZXNzLmVudi5BSVJUQUJMRV9BUElfS0VZfSkuYmFzZSgnYXBwbXc5TVlwRUpsZDdCQksnKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIChhdXRvUmVjb25uZWN0KSB7CiAgICAgICAgc2V0VGltZW91dChkb0Nvbm5lY3QsIDUwMDApOwogICAgfQo=</text>
+        <text encoding="base64">ICAgY29uc29sZS5sb2coJ3RpbWVvdXQnKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gY29uc3QgYmFzZSA9IHJlcXVpcmUoJ2FpcnRhYmxlJykuYmFzZShwcm9jZXNzLmVudi5BSVJUQUJMRV9BUElfS0VZKTsK</text>
+        <text encoding="base64">ICAgIGlmIChhdXRvUmVjb25uZWN0KSB7CiAgICAgICAgc2V0VGltZW91dChkb0Nvbm5lY3QsIDUwMDApOwogICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIFNlbGVjdGluZyB0aGUgZmlyc3QgMyByZWNvcmRzIGluIEdyaWQgdmlldzoK</text>
+        <text encoding="base64">Ly8gY29uc3QgYmFzZSA9IHJlcXVpcmUoJ2FpcnRhYmxlJykuYmFzZShwcm9jZXNzLmVudi5BSVJUQUJMRV9BUElfS0VZKTsK</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
