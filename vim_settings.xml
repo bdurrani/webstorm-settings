@@ -732,6 +732,11 @@
         <mark key="." line="120" column="7" />
         <mark key="^" line="122" column="0" />
       </file>
+      <file name="C:/ubuntu/sfp/signaling-server/src/logger.js" timestamp="1525113862121">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="10" />
+        <mark key="." line="32" column="0" />
+      </file>
       <file name="C:/github/node-hey/index.js" timestamp="1518782922161">
         <mark key="[" line="2" column="2" />
         <mark key="]" line="2" column="2" />
@@ -886,11 +891,11 @@
         <mark key="." line="60" column="4" />
         <mark key="^" line="60" column="4" />
       </file>
-      <file name="C:/ubuntu/sfp/signaling-server/README.md" timestamp="1525111996093">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
-        <mark key="^" line="46" column="0" />
+      <file name="C:/ubuntu/sfp/signaling-server/README.md" timestamp="1525115712257">
+        <mark key="[" line="57" column="81" />
+        <mark key="]" line="57" column="83" />
+        <mark key="." line="57" column="83" />
+        <mark key="^" line="57" column="83" />
       </file>
       <file name="C:/ubuntu/sfp/signaling-server/src/clientroute.js" timestamp="1521638956563">
         <mark key="[" line="44" column="20" />
@@ -1345,11 +1350,11 @@
       <register name="a" type="4">
         <text>{ leaseTimeInHours:</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">YGBgCg==</text>
+      <register name="&quot;" type="4">
+        <text>codes</text>
       </register>
       <register name="-" type="4">
-        <text>javascript</text>
+        <text>codes</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZWVyXD4=</text>
@@ -1358,34 +1363,34 @@
         <text encoding="base64">CWRhdGFQb2xpY3lVcmw6ICdmdWxseSBxdWFsaWZpZWQgdXJsIHRvIGRhdGEgcG9saWN5IHVybCcsCglhcGlLZXk6ICdFbnRlciB5b3VyIEFQSSBrZXknLAoJY29kZUdlbmVyYXRpb246IHsKCQlwcmVmaXg6ICdYWCcsCgl9LAoJc2VydmVyVmVyc2lvbjogcmVxdWlyZSgnLi4vcGFja2FnZS5qc29uJykudmVyc2lvbiwKCWFsbG93Q3VzdG9tSWQ6IGZhbHNlLAoJbG9nTGV2ZWw6ICdlcnJvcicsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YGBgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YGBgamF2YXNjcmlwdAo=</text>
+        <text encoding="base64">CmBgYAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aHR0cHM6Ly9yYWxseTEucmFsbHlkZXYuY29tLyMvMjA3NTc5MTkzOTI0ZC9pdGVyYXRpb25zdGF0dXMK</text>
+        <text encoding="base64">CS8vIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlsb2cuaW5mbygnaHR0cCBzZXJ2ZXIgc3RhcnRlZCcpOwo=</text>
+        <text encoding="base64">YGBgamF2YXNjcmlwdAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJY29uc29sZS5sb2coYHByb3BlcnR5ICR7b25lUHJvcGVydHl9IHdhcyBub3QgZm91bmQgaW4gYm90aCBvYmplY3RzYCk7Cg==</text>
+        <text encoding="base64">YGBgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">eW91IGNhbiBzZWUgdGhlIHBhY2thZ2UgdW5kZXIgaXRzIG5hbWUKW25pLW1lYXN1cmVtZW50bGl2ZS1zaWduYWxpbmdzZXJ2ZXJdKGh0dHBzOi8vd3d3Lm5wbWpzLmNvbS9wYWNrYWdlL0BuaS1raXNtZXQvbmktbWVhc3VyZW1lbnRsaXZlLXNpZ25hbGluZ3NlcnZlcikKCg==</text>
+        <text encoding="base64">YGBgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhwX0V2ZW50LmRhdGEpOwo=</text>
+        <text encoding="base64">CWRlYnVnLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgYmFzZSA9IG5ldyBBaXJ0YWJsZSh7YXBpS2V5OiBwcm9jZXNzLmVudi5BSVJUQUJMRV9BUElfS0VZfSkuYmFzZSgnYXBwbXc5TVlwRUpsZDdCQksnKTsK</text>
+        <text encoding="base64">CS8vIFByZWZpeCB0aGF0IHdpbGwgYmUgaW5jbHVkZWQgYXMgcGFydCBvZiB0aGUgcmFuZG9ubHkgZ2VuZXJhdGVkIGRldmljZSBjb2Rlcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgY29uc29sZS5sb2coJ3RpbWVvdXQnKTsK</text>
+        <text encoding="base64">YGBgCg==</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
