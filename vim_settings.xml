@@ -177,6 +177,13 @@
         <mark key="." line="85" column="23" />
         <mark key="^" line="85" column="23" />
       </file>
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/src/graceperiodcache.js" timestamp="1525189475694">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="109" column="30" />
+        <mark key="]" line="109" column="41" />
+        <mark key="^" line="109" column="41" />
+        <mark key="." line="109" column="41" />
+      </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/.eslintignore" timestamp="1522960148671">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -582,12 +589,12 @@
         <mark key="." line="3" column="13" />
         <mark key="^" line="2" column="11" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/src/devices.js" timestamp="1525184533579">
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/src/devices.js" timestamp="1525188904531">
         <mark key="'" line="137" column="36" />
-        <mark key="[" line="79" column="39" />
-        <mark key="]" line="81" column="18" />
-        <mark key="." line="81" column="18" />
-        <mark key="^" line="81" column="18" />
+        <mark key="[" line="292" column="84" />
+        <mark key="]" line="303" column="88" />
+        <mark key="." line="303" column="88" />
+        <mark key="^" line="303" column="88" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/test/app_integration.test.js" timestamp="1523020858773">
         <mark key="'" line="170" column="22" />
@@ -1185,8 +1192,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="267" column="28" filename="C:/ubuntu/sfp/lobbybar/src/instruments/test/AnalysisScreenCaptureTest.js" />
-      <jump line="48" column="9" filename="C:/ubuntu/sfp/lobbybar/src/instruments/test/AnalysisScreenCaptureTest.js" />
       <jump line="36" column="43" filename="C:/ubuntu/sfp/lobbybar/src/instruments/test/AnalysisScreenCaptureTest.js" />
       <jump line="10" column="40" filename="C:/ubuntu/sfp/lobbybar/src/instruments/test/AnalysisScreenCaptureTest.js" />
       <jump line="25" column="8" filename="C:/ubuntu/sfp/lobbybar/src/instruments/test/AnalysisScreenCaptureTest.js" />
@@ -1285,6 +1290,8 @@
       <jump line="275" column="0" filename="C:/ubuntu-home/johnnycash/lobbybar/src/jc-web-peer/test/deviceSpec.js" />
       <jump line="291" column="10" filename="C:/ubuntu-home/johnnycash/lobbybar/src/jc-web-peer/test/deviceSpec.js" />
       <jump line="99" column="58" filename="C:/ubuntu-home/johnnycash/signalingserver/scripts/buildpackage.js" />
+      <jump line="70" column="69" filename="C:/ubuntu-home/johnnycash/signalingserver/src/graceperiodcache.js" />
+      <jump line="0" column="0" filename="C:/ubuntu-home/johnnycash/signalingserver/src/graceperiodcache.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
