@@ -589,12 +589,12 @@
         <mark key="." line="3" column="13" />
         <mark key="^" line="2" column="11" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/src/devices.js" timestamp="1525199148500">
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/src/devices.js" timestamp="1525200634095">
         <mark key="'" line="136" column="36" />
-        <mark key="[" line="432" column="42" />
-        <mark key="]" line="436" column="39" />
-        <mark key="." line="436" column="39" />
-        <mark key="^" line="436" column="39" />
+        <mark key="[" line="185" column="41" />
+        <mark key="]" line="186" column="25" />
+        <mark key="." line="186" column="25" />
+        <mark key="^" line="186" column="25" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/test/app_integration.test.js" timestamp="1523020858773">
         <mark key="'" line="170" column="22" />
