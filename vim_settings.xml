@@ -114,11 +114,11 @@
         <mark key="^" line="3" column="6" />
         <mark key="." line="3" column="6" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/dashboard/dashboard.js" timestamp="1522864052055">
-        <mark key="[" line="207" column="32" />
-        <mark key="]" line="207" column="33" />
-        <mark key="." line="207" column="33" />
-        <mark key="^" line="207" column="71" />
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/dashboard/dashboard.js" timestamp="1526059166783">
+        <mark key="[" line="42" column="68" />
+        <mark key="]" line="42" column="85" />
+        <mark key="." line="42" column="85" />
+        <mark key="^" line="42" column="85" />
       </file>
       <file name="C:/ubuntu/sfp/signaling-server/test/graceperiodtests.js" timestamp="1521654757982">
         <mark key="'" line="160" column="7" />
@@ -740,6 +740,12 @@
         <mark key="." line="7" column="52" />
         <mark key="^" line="7" column="52" />
       </file>
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/dist/dashboard/dashboard.js" timestamp="1526059020071">
+        <mark key="[" line="42" column="68" />
+        <mark key="]" line="42" column="85" />
+        <mark key="." line="42" column="85" />
+        <mark key="^" line="42" column="85" />
+      </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/src/jc-web-peer/package.json" timestamp="1524674641795">
         <mark key="[" line="6" column="57" />
         <mark key="]" line="6" column="57" />
@@ -1299,11 +1305,11 @@
       <register name="a" type="4">
         <text>{ leaseTimeInHours:</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkvLyBpZiAoY2FjaGUud2Vic29ja2V0ICE9PSB3ZWJzb2NrZXQpIHsKCQkvLyAJbG9nLmRlYnVnKCdzb2NrZXQgYmVpbmcgdW5yZWdpc3RlcmVkIGRvZXMgbm90IG1hdGNoIHNvY2tldCBpbiBkZXZpY2UgY2FjaGUuJyk7CgkJLy8gCS8vIGlmIHRoZSBzb2NrZXQgaW4gdGhlIGNhY2hlIGlzIGRpZmZlcmVudCBmcm9tIHRoZSBzb2NrZXQgYXNzb2NpYXRlZAoJCS8vIAkvLyB3aXRoIHRoZSBkaXNjb25uZWN0IGV2ZW50LCBpdCBtZWFucyB0aGF0IHdlIGFyZSBhbHJlYWR5IGNvbm5lY3RlZAoJCS8vIAkvLyB0byB0aGUgZGV2aWNlLCBidXQgb24gYW5vdGhlciBzb2NrZXQuCgkJLy8gCS8vIERvbnQgY2xlYW4gdXAgdGhlIGRldmljZS4KCQkvLyAJcmV0dXJuOwoJCS8vIH0KCg==</text>
+      <register name="&quot;" type="4">
+        <text>sigserver.multisim</text>
       </register>
       <register name="-" type="4">
-        <text>this</text>
+        <text>sigserver.multisim</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZWVyXD4=</text>
