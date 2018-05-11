@@ -21,17 +21,17 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="D:/deletethis/state-machine-test/promisetest.js" timestamp="1518015792785">
-        <mark key="[" line="15" column="3" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="16" column="0" />
-      </file>
       <file name="$USER_HOME$/Dropbox/Misc/projects/websocket/package.json" timestamp="1519610242203">
         <mark key="[" line="8" column="58" />
         <mark key="]" line="13" column="25" />
         <mark key="^" line="13" column="25" />
         <mark key="." line="13" column="25" />
+      </file>
+      <file name="D:/deletethis/state-machine-test/promisetest.js" timestamp="1518015792785">
+        <mark key="[" line="15" column="3" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="16" column="0" />
       </file>
       <file name="D:/Dropbox/Misc/projects/dotfiles-for-wsl/README.md" timestamp="1511967824974">
         <mark key="[" line="11" column="72" />
@@ -69,18 +69,6 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Misc/projects/websocket/client.js" timestamp="1518887400234">
-        <mark key="[" line="11" column="7" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Misc/projects/websocket/simpleclient.js" timestamp="1519089044378">
-        <mark key="[" line="37" column="46" />
-        <mark key="]" line="37" column="50" />
-        <mark key="." line="37" column="50" />
-        <mark key="^" line="37" column="50" />
-      </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/src/instruments/src/multisim-shared/test/numberformattertest.js" timestamp="1517532802000">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -114,11 +102,17 @@
         <mark key="^" line="3" column="6" />
         <mark key="." line="3" column="6" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/dashboard/dashboard.js" timestamp="1526059166783">
-        <mark key="[" line="42" column="68" />
-        <mark key="]" line="42" column="85" />
-        <mark key="." line="42" column="85" />
-        <mark key="^" line="42" column="85" />
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/dashboard/dashboard.js" timestamp="1522864052055">
+        <mark key="[" line="207" column="32" />
+        <mark key="]" line="207" column="33" />
+        <mark key="." line="207" column="33" />
+        <mark key="^" line="207" column="71" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Misc/projects/streamtodisk/index.js" timestamp="1520200114768">
+        <mark key="[" line="20" column="29" />
+        <mark key="]" line="20" column="29" />
+        <mark key="." line="20" column="29" />
+        <mark key="^" line="20" column="29" />
       </file>
       <file name="C:/ubuntu/sfp/signaling-server/test/graceperiodtests.js" timestamp="1521654757982">
         <mark key="'" line="160" column="7" />
@@ -126,6 +120,10 @@
         <mark key="]" line="161" column="0" />
         <mark key="^" line="33" column="61" />
         <mark key="." line="160" column="7" />
+      </file>
+      <file name="C:/ubuntu/sfp/signaling-server/config/example-for-npm.js" timestamp="1525111432695">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="8" column="21" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/karma.conf.js" timestamp="1516395275446">
         <mark key="[" line="140" column="38" />
@@ -165,11 +163,17 @@
         <mark key="^" line="64" column="13" />
         <mark key="." line="64" column="13" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Misc/projects/websocket/server.js" timestamp="1519606919733">
-        <mark key="[" line="7" column="36" />
-        <mark key="]" line="7" column="42" />
-        <mark key="." line="7" column="42" />
-        <mark key="^" line="7" column="42" />
+      <file name="$USER_HOME$/Dropbox/Misc/projects/websocket/src/reserveIdTest.js" timestamp="1520197541224">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="47" />
+        <mark key="." line="65" column="47" />
+        <mark key="^" line="65" column="12" />
+      </file>
+      <file name="C:/ubuntu/sfp/signaling-server/INTERNAL-README.md" timestamp="1525101913461">
+        <mark key="[" line="2" column="99" />
+        <mark key="]" line="2" column="99" />
+        <mark key="." line="2" column="99" />
+        <mark key="^" line="2" column="99" />
       </file>
       <file name="C:/ubuntu-home/dotfiles-for-wsl/configure.sh" timestamp="1511449587848">
         <mark key="[" line="85" column="14" />
@@ -177,18 +181,11 @@
         <mark key="." line="85" column="23" />
         <mark key="^" line="85" column="23" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/src/graceperiodcache.js" timestamp="1525274607102">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="^" line="99" column="40" />
-        <mark key="." line="64" column="0" />
-      </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/.eslintignore" timestamp="1522960148671">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
         <mark key="^" line="7" column="8" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/src/instruments/eslintrc.js" timestamp="1522954699713">
         <mark key="'" line="247" column="0" />
@@ -197,11 +194,8 @@
         <mark key="." line="253" column="75" />
         <mark key="^" line="253" column="75" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Misc/projects/websocket/ecosystem.config.js" timestamp="1519611276986">
-        <mark key="[" line="13" column="39" />
-        <mark key="]" line="14" column="31" />
-        <mark key="^" line="14" column="31" />
-        <mark key="." line="5" column="11" />
+      <file name="D:/Documents/Dropbox/Misc/projects/airtable-dashboard/.gitignore" timestamp="1524861487355">
+        <mark key="[" line="61" column="0" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/signalingserver/dashboard/dashboard.html" timestamp="1524083007040">
         <mark key="'" line="289" column="0" />
@@ -209,6 +203,12 @@
         <mark key="]" line="193" column="24" />
         <mark key="." line="193" column="24" />
         <mark key="^" line="193" column="28" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Misc/projects/websocket/client-runner.js" timestamp="1519610320263">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="7" column="15" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/signalingserver/eslintrc.js" timestamp="1520351556942">
         <mark key="[" line="9" column="21" />
@@ -251,6 +251,12 @@
         <mark key="." line="16" column="32" />
         <mark key="^" line="16" column="32" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Misc/projects/websocket/ecosystem.config.js" timestamp="1519611276986">
+        <mark key="[" line="13" column="39" />
+        <mark key="]" line="14" column="31" />
+        <mark key="^" line="14" column="31" />
+        <mark key="." line="5" column="11" />
+      </file>
       <file name="C:/ubuntu/sfp/signaling-server/test/leasetimetests.js" timestamp="1521654765191">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="13" column="6" />
@@ -289,18 +295,11 @@
         <mark key="." line="56" column="16" />
         <mark key="^" line="56" column="16" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Misc/projects/websocket/src/app.js" timestamp="1520198146962">
-        <mark key="[" line="50" column="34" />
-        <mark key="]" line="50" column="35" />
-        <mark key="^" line="41" column="28" />
-        <mark key="." line="50" column="35" />
-      </file>
-      <file name="C:/ubuntu/sfp/signaling-server/test/testhelpers.js" timestamp="1521656000565">
+      <file name="C:/ubuntu/sfp/signaling-server/test/testhelpers.js" timestamp="1525103230678">
         <mark key="'" line="70" column="0" />
-        <mark key="[" line="47" column="10" />
-        <mark key="]" line="47" column="10" />
-        <mark key="." line="47" column="10" />
-        <mark key="^" line="47" column="10" />
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="0" />
+        <mark key="." line="79" column="0" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/test/device-button.test.js" timestamp="1523024008093">
         <mark key="'" line="37" column="48" />
@@ -335,6 +334,12 @@
         <mark key="^" line="72" column="40" />
         <mark key="." line="9" column="8" />
       </file>
+      <file name="C:/ubuntu/sfp/signaling-server/scripts/buildpackage.js" timestamp="1524855499918">
+        <mark key="[" line="140" column="79" />
+        <mark key="]" line="140" column="79" />
+        <mark key="." line="140" column="79" />
+        <mark key="^" line="137" column="58" />
+      </file>
       <file name="C:/ubuntu/sfp/lobbybar/src/instruments/src/sfp-components/sfp-numeric-input/sfp-numeric-input.html" timestamp="1517259893409">
         <mark key="[" line="152" column="163" />
         <mark key="]" line="152" column="170" />
@@ -360,18 +365,24 @@
         <mark key="." line="201" column="75" />
         <mark key="^" line="201" column="75" />
       </file>
+      <file name="C:/ubuntu-home/johnnycash/lobbybar/build.js" timestamp="1515078287540">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
+        <mark key="^" line="42" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Misc/projects/mocha-hang/test/test1.js" timestamp="1519216561368">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="47" column="24" />
+        <mark key="." line="47" column="24" />
+        <mark key="^" line="47" column="24" />
+      </file>
       <file name="C:/ubuntu/sfp/signaling-server/test/devicestests.js" timestamp="1521655702963">
         <mark key="'" line="198" column="7" />
         <mark key="[" line="117" column="52" />
         <mark key="]" line="117" column="52" />
         <mark key="." line="117" column="52" />
         <mark key="^" line="120" column="79" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Misc/projects/websocket/index.js" timestamp="1518821474234">
-        <mark key="[" line="17" column="18" />
-        <mark key="]" line="17" column="18" />
-        <mark key="^" line="3" column="15" />
-        <mark key="." line="17" column="18" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/signalingserver/src/constants.js" timestamp="1523018064518">
         <mark key="[" line="37" column="2" />
@@ -428,6 +439,12 @@
         <mark key="^" line="14" column="89" />
         <mark key="." line="14" column="89" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Misc/projects/websocket/server.js" timestamp="1519606919733">
+        <mark key="[" line="7" column="36" />
+        <mark key="]" line="7" column="42" />
+        <mark key="." line="7" column="42" />
+        <mark key="^" line="7" column="42" />
+      </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/src/instruments/src/multisim-shared/test/numberparsertest.js" timestamp="1517580175298">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -439,12 +456,6 @@
         <mark key="]" line="54" column="30" />
         <mark key="." line="54" column="30" />
         <mark key="^" line="54" column="30" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Misc/projects/websocket/client-runner.js" timestamp="1519610320263">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="7" column="15" />
       </file>
       <file name="C:/ubuntu/sfp/signaling-server/src/devices.js" timestamp="1523910745480">
         <mark key="[" line="184" column="28" />
@@ -483,6 +494,9 @@
         <mark key="." line="257" column="41" />
         <mark key="^" line="257" column="41" />
       </file>
+      <file name="/Dummy.txt" timestamp="1524857455286">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/ubuntu-home/johnnycash/signalingserver/src/server.js" timestamp="1521662039396">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -495,19 +509,12 @@
         <mark key="." line="16" column="87" />
         <mark key="^" line="16" column="86" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/test/devicestests.js" timestamp="1525276825060">
-        <mark key="'" line="168" column="53" />
-        <mark key="[" line="67" column="30" />
-        <mark key="]" line="67" column="36" />
-        <mark key="." line="67" column="36" />
-        <mark key="^" line="67" column="36" />
-      </file>
       <file name="C:/ubuntu-home/johnnycash/signalingserver/package.json" timestamp="1524683848893">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="12" column="30" />
         <mark key="]" line="12" column="30" />
-        <mark key="^" line="12" column="22" />
         <mark key="." line="12" column="30" />
+        <mark key="^" line="12" column="22" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/test/autoconnect.test.js" timestamp="1522958059946">
         <mark key="'" line="21" column="41" />
@@ -527,6 +534,12 @@
         <mark key="]" line="105" column="61" />
         <mark key="." line="105" column="59" />
         <mark key="^" line="105" column="59" />
+      </file>
+      <file name="C:/vsts/airtable-dashboard/src/main.ts" timestamp="1524860633128">
+        <mark key="[" line="0" column="25" />
+        <mark key="]" line="0" column="25" />
+        <mark key="." line="0" column="25" />
+        <mark key="^" line="0" column="25" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/signalingserver/test/env.js" timestamp="1521575279387">
         <mark key="[" line="2" column="59" />
@@ -555,8 +568,8 @@
       <file name="C:/ubuntu-home/johnnycash/signalingserver/test/testhelpers.js" timestamp="1524160980676">
         <mark key="[" line="73" column="13" />
         <mark key="]" line="73" column="14" />
-        <mark key="." line="73" column="14" />
         <mark key="^" line="73" column="72" />
+        <mark key="." line="73" column="14" />
       </file>
       <file name="C:/ubuntu/sfp/signaling-server/package.json" timestamp="1523893467805">
         <mark key="[" line="12" column="30" />
@@ -583,20 +596,24 @@
         <mark key="^" line="281" column="19" />
         <mark key="." line="283" column="52" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/lobbybar/src/jc-web-peer/test/deviceSpec.js" timestamp="1524676737779">
-        <mark key="'" line="291" column="10" />
-      </file>
       <file name="C:/ubuntu-home/dotfiles-for-wsl/installbits.sh" timestamp="1511472522163">
         <mark key="[" line="3" column="13" />
         <mark key="]" line="3" column="13" />
         <mark key="." line="3" column="13" />
         <mark key="^" line="2" column="11" />
       </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/src/devices.js" timestamp="1525278736938">
-        <mark key="'" line="286" column="33" />
-        <mark key="[" line="425" column="0" />
-        <mark key="]" line="425" column="0" />
-        <mark key="." line="425" column="0" />
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/src/app.js" timestamp="1519849133822">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
+        <mark key="^" line="38" column="52" />
+      </file>
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/src/devices.js" timestamp="1523990660796">
+        <mark key="'" line="137" column="36" />
+        <mark key="[" line="79" column="39" />
+        <mark key="]" line="81" column="18" />
+        <mark key="." line="81" column="18" />
+        <mark key="^" line="81" column="18" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/test/app_integration.test.js" timestamp="1523020858773">
         <mark key="'" line="170" column="22" />
@@ -647,13 +664,13 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="16" column="17" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Misc/projects/mocha-hang/test/test1.js" timestamp="1519216561368">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="47" column="24" />
-        <mark key="." line="47" column="24" />
-        <mark key="^" line="47" column="24" />
+      <file name="$USER_HOME$/Dropbox/Misc/projects/websocket/src/app.js" timestamp="1520198146962">
+        <mark key="[" line="50" column="34" />
+        <mark key="]" line="50" column="35" />
+        <mark key="^" line="41" column="28" />
+        <mark key="." line="50" column="35" />
       </file>
-      <file name="C:/ubuntu/sfp/signaling-server/src/apiroute.js" timestamp="1523910644998">
+      <file name="C:/ubuntu/sfp/signaling-server/src/apiroute.js" timestamp="1525103318237">
         <mark key="'" line="93" column="8" />
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="36" />
@@ -715,11 +732,10 @@
         <mark key="." line="120" column="7" />
         <mark key="^" line="122" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Misc/projects/streamtodisk/index.js" timestamp="1520200114768">
-        <mark key="[" line="20" column="29" />
-        <mark key="]" line="20" column="29" />
-        <mark key="." line="20" column="29" />
-        <mark key="^" line="20" column="29" />
+      <file name="C:/ubuntu/sfp/signaling-server/src/logger.js" timestamp="1525113862121">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="10" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="C:/github/node-hey/index.js" timestamp="1518782922161">
         <mark key="[" line="2" column="2" />
@@ -739,12 +755,6 @@
         <mark key="]" line="7" column="52" />
         <mark key="." line="7" column="52" />
         <mark key="^" line="7" column="52" />
-      </file>
-      <file name="C:/ubuntu-home/johnnycash/signalingserver/dist/dashboard/dashboard.js" timestamp="1526059020071">
-        <mark key="[" line="42" column="68" />
-        <mark key="]" line="42" column="85" />
-        <mark key="." line="42" column="85" />
-        <mark key="^" line="42" column="85" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/src/jc-web-peer/package.json" timestamp="1524674641795">
         <mark key="[" line="6" column="57" />
@@ -851,11 +861,11 @@
         <mark key="^" line="2" column="22" />
         <mark key="." line="2" column="22" />
       </file>
-      <file name="C:/ubuntu/sfp/signaling-server/config/default.js" timestamp="1523901176251">
-        <mark key="[" line="6" column="54" />
-        <mark key="]" line="7" column="24" />
-        <mark key="^" line="7" column="24" />
-        <mark key="." line="7" column="24" />
+      <file name="C:/ubuntu/sfp/signaling-server/config/default.js" timestamp="1525109754725">
+        <mark key="[" line="8" column="11" />
+        <mark key="]" line="8" column="19" />
+        <mark key="^" line="8" column="19" />
+        <mark key="." line="8" column="19" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/src/instruments/src/webchartsiframe.html" timestamp="1520014576504">
         <mark key="[" line="21" column="0" />
@@ -881,11 +891,11 @@
         <mark key="." line="60" column="4" />
         <mark key="^" line="60" column="4" />
       </file>
-      <file name="C:/ubuntu/sfp/signaling-server/README.md" timestamp="1518706452869">
-        <mark key="[" line="26" column="3" />
-        <mark key="]" line="26" column="25" />
-        <mark key="." line="26" column="25" />
-        <mark key="^" line="26" column="25" />
+      <file name="C:/ubuntu/sfp/signaling-server/README.md" timestamp="1525115712257">
+        <mark key="[" line="57" column="81" />
+        <mark key="]" line="57" column="83" />
+        <mark key="." line="57" column="83" />
+        <mark key="^" line="57" column="83" />
       </file>
       <file name="C:/ubuntu/sfp/signaling-server/src/clientroute.js" timestamp="1521638956563">
         <mark key="[" line="44" column="20" />
@@ -936,15 +946,27 @@
         <mark key="." line="206" column="54" />
         <mark key="^" line="161" column="55" />
       </file>
+      <file name="D:/Documents/Dropbox/Misc/projects/airtable-dashboard/api.env" timestamp="1524861697470">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.js" timestamp="1525004543827">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/ubuntu-home/johnnycash/lobbybar/src/utilities/manager.js" timestamp="1521040696185">
+        <mark key="[" line="265" column="61" />
+        <mark key="]" line="265" column="88" />
+        <mark key="^" line="265" column="88" />
+        <mark key="." line="265" column="88" />
+      </file>
       <file name="C:/ubuntu-home/johnnycash/signalingserver/benchmark/src/app.js" timestamp="1520454518136">
         <mark key="[" line="84" column="0" />
         <mark key="]" line="84" column="0" />
         <mark key="." line="84" column="0" />
         <mark key="^" line="100" column="37" />
       </file>
-      <file name="C:/ubuntu/sfp/signaling-server/dashboard/dashboard.js" timestamp="1523886846467">
-        <mark key="[" line="499" column="25" />
-        <mark key="]" line="499" column="37" />
+      <file name="C:/ubuntu/sfp/signaling-server/dashboard/dashboard.js" timestamp="1525004139147">
+        <mark key="[" line="212" column="0" />
+        <mark key="]" line="212" column="74" />
         <mark key="." line="499" column="37" />
         <mark key="^" line="499" column="37" />
       </file>
@@ -953,9 +975,6 @@
         <mark key="]" line="5" column="28" />
         <mark key="^" line="2" column="28" />
         <mark key="." line="5" column="28" />
-      </file>
-      <file name="C:/ubuntu-home/johnnycash/lobbybar/src/jc-web-peer/src/device.js" timestamp="1525444933043">
-        <mark key="'" line="282" column="14" />
       </file>
       <file name="D:/Documents/Dropbox/Misc/projects/websocket/server.js" timestamp="1519481331917">
         <mark key="[" line="5" column="0" />
@@ -999,11 +1018,12 @@
         <mark key="." line="525" column="37" />
         <mark key="^" line="525" column="37" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Misc/projects/websocket/src/reserveIdTest.js" timestamp="1520197541224">
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="47" />
-        <mark key="." line="65" column="47" />
-        <mark key="^" line="65" column="12" />
+      <file name="C:/ubuntu/sfp/lobbybar/build.js" timestamp="1524853872031">
+        <mark key="'" line="64" column="0" />
+        <mark key="[" line="190" column="0" />
+        <mark key="]" line="190" column="28" />
+        <mark key="." line="31" column="72" />
+        <mark key="^" line="31" column="72" />
       </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/test/i18n-validate-test.js" timestamp="1523045673646">
         <mark key="'" line="24" column="6" />
@@ -1056,6 +1076,12 @@
         <mark key="." line="212" column="54" />
         <mark key="^" line="212" column="53" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Misc/projects/websocket/simpleclient.js" timestamp="1519089044378">
+        <mark key="[" line="37" column="46" />
+        <mark key="]" line="37" column="50" />
+        <mark key="." line="37" column="50" />
+        <mark key="^" line="37" column="50" />
+      </file>
       <file name="C:/ubuntu-home/johnnycash/lobbybar/src/instruments/src/sfp-components/styles/webchartsLight.css" timestamp="1521204823217">
         <mark key="[" line="59" column="53" />
         <mark key="]" line="59" column="80" />
@@ -1080,6 +1106,13 @@
         <mark key="]" line="9" column="73" />
         <mark key="^" line="9" column="84" />
         <mark key="." line="9" column="73" />
+      </file>
+      <file name="C:/ubuntu-home/johnnycash/signalingserver/scripts/buildpackage.js" timestamp="1524687743398">
+        <mark key="'" line="131" column="58" />
+        <mark key="[" line="153" column="26" />
+        <mark key="]" line="153" column="26" />
+        <mark key="." line="153" column="26" />
+        <mark key="^" line="155" column="4" />
       </file>
       <file name="D:/deletethis/exercism/very-big-sum.ts" timestamp="1510687811829">
         <mark key="[" line="30" column="1" />
@@ -1118,7 +1151,7 @@
         <mark key="." line="3" column="61" />
         <mark key="^" line="3" column="61" />
       </file>
-      <file name="/JavaScript Console" timestamp="1525202089103">
+      <file name="/JavaScript Console" timestamp="1525109332685">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="^" line="0" column="7" />
@@ -1192,14 +1225,30 @@
         <mark key="^" line="3" column="8" />
         <mark key="." line="3" column="8" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Misc/projects/websocket/client.js" timestamp="1518887400234">
+        <mark key="[" line="11" column="7" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="12" column="0" />
+      </file>
       <file name="C:/ubuntu-home/dotfiles-for-wsl/script/bootstrap.sh" timestamp="1511469350610">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="102" column="0" />
         <mark key="^" line="102" column="0" />
         <mark key="." line="102" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Misc/projects/websocket/index.js" timestamp="1518821474234">
+        <mark key="[" line="17" column="18" />
+        <mark key="]" line="17" column="18" />
+        <mark key="^" line="3" column="15" />
+        <mark key="." line="17" column="18" />
+      </file>
     </filemarks>
     <jumps>
+      <jump line="48" column="9" filename="C:/ubuntu/sfp/lobbybar/src/instruments/test/AnalysisScreenCaptureTest.js" />
+      <jump line="36" column="43" filename="C:/ubuntu/sfp/lobbybar/src/instruments/test/AnalysisScreenCaptureTest.js" />
+      <jump line="10" column="40" filename="C:/ubuntu/sfp/lobbybar/src/instruments/test/AnalysisScreenCaptureTest.js" />
+      <jump line="25" column="8" filename="C:/ubuntu/sfp/lobbybar/src/instruments/test/AnalysisScreenCaptureTest.js" />
       <jump line="5" column="28" filename="C:/ubuntu/sfp/lobbybar/src/instruments/test/AnalysisScreenCaptureTest.js" />
       <jump line="42" column="0" filename="C:/ubuntu/sfp/lobbybar/src/instruments/test/AnalysisScreenCaptureTest.js" />
       <jump line="32" column="7" filename="C:/ubuntu/sfp/lobbybar/src/instruments/test/AnalysisScreenCaptureTest.js" />
@@ -1295,57 +1344,53 @@
       <jump line="275" column="0" filename="C:/ubuntu-home/johnnycash/lobbybar/src/jc-web-peer/test/deviceSpec.js" />
       <jump line="291" column="10" filename="C:/ubuntu-home/johnnycash/lobbybar/src/jc-web-peer/test/deviceSpec.js" />
       <jump line="99" column="58" filename="C:/ubuntu-home/johnnycash/signalingserver/scripts/buildpackage.js" />
-      <jump line="70" column="69" filename="C:/ubuntu-home/johnnycash/signalingserver/src/graceperiodcache.js" />
-      <jump line="0" column="0" filename="C:/ubuntu-home/johnnycash/signalingserver/src/graceperiodcache.js" />
-      <jump line="445" column="35" filename="C:/ubuntu-home/johnnycash/signalingserver/src/devices.js" />
-      <jump line="563" column="36" filename="C:/ubuntu-home/johnnycash/signalingserver/src/devices.js" />
-      <jump line="286" column="33" filename="C:/ubuntu-home/johnnycash/signalingserver/src/devices.js" />
+      <jump line="64" column="0" filename="C:/ubuntu/sfp/lobbybar/build.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>{ leaseTimeInHours:</text>
       </register>
       <register name="&quot;" type="4">
-        <text>sigserver.multisim</text>
+        <text>codes</text>
       </register>
       <register name="-" type="4">
-        <text>sigserver.multisim</text>
+        <text>codes</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZWVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlkZXZpY2VzLl91bnJlZ2lzdGVyKGZha2VDbGllbnQxKTsK</text>
+        <text encoding="base64">CWRhdGFQb2xpY3lVcmw6ICdmdWxseSBxdWFsaWZpZWQgdXJsIHRvIGRhdGEgcG9saWN5IHVybCcsCglhcGlLZXk6ICdFbnRlciB5b3VyIEFQSSBrZXknLAoJY29kZUdlbmVyYXRpb246IHsKCQlwcmVmaXg6ICdYWCcsCgl9LAoJc2VydmVyVmVyc2lvbjogcmVxdWlyZSgnLi4vcGFja2FnZS5qc29uJykudmVyc2lvbiwKCWFsbG93Q3VzdG9tSWQ6IGZhbHNlLAoJbG9nTGV2ZWw6ICdlcnJvcicsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkvLyBpZiAoY2FjaGUud2Vic29ja2V0ICE9PSB3ZWJzb2NrZXQpIHsKCQkvLyAJbG9nLmRlYnVnKCdzb2NrZXQgYmVpbmcgdW5yZWdpc3RlcmVkIGRvZXMgbm90IG1hdGNoIHNvY2tldCBpbiBkZXZpY2UgY2FjaGUuJyk7CgkJLy8gCS8vIGlmIHRoZSBzb2NrZXQgaW4gdGhlIGNhY2hlIGlzIGRpZmZlcmVudCBmcm9tIHRoZSBzb2NrZXQgYXNzb2NpYXRlZAoJCS8vIAkvLyB3aXRoIHRoZSBkaXNjb25uZWN0IGV2ZW50LCBpdCBtZWFucyB0aGF0IHdlIGFyZSBhbHJlYWR5IGNvbm5lY3RlZAoJCS8vIAkvLyB0byB0aGUgZGV2aWNlLCBidXQgb24gYW5vdGhlciBzb2NrZXQuCgkJLy8gCS8vIERvbnQgY2xlYW4gdXAgdGhlIGRldmljZS4KCQkvLyAJcmV0dXJuOwoJCS8vIH0KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlkZXZpY2VzLl91bnJlZ2lzdGVyKGZha2VDbGllbnQxKTsK</text>
+        <text encoding="base64">CmBgYAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQljb25zdCB1bnJlZ2lzdGVyUHJvbWlzZTIgPSBkZXZpY2VzLl91bnJlZ2lzdGVyKGZha2VDbGllbnQyKTsK</text>
+        <text encoding="base64">CS8vIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkvLyBpZiAodGhpcy5fdW5pcXVlSWRUb0RldmljZUNhY2hlRGljdGlvbmFyeS5oYXMocF91bmlxdWVJZCkpIHsKCQkvLyAJbG9nLmRlYnVnKGBnb3QgYSBjb25uZWN0aW9uIGV2ZW50IGZvciBhIGRldmljZSBhbHJlYWR5IGNvbm5lY3RlZCB3aXRoIHVuaXF1ZSBpZCAke3BfdW5pcXVlSWR9YCk7CgkJLy8gCWNvbnN0IGRldmljZUNhY2hlID0gdGhpcy5fdW5pcXVlSWRUb0RldmljZUNhY2hlRGljdGlvbmFyeS5nZXQocF91bmlxdWVJZCk7CgkJLy8gCWlkID0gZGV2aWNlQ2FjaGUuaWQ7CgkJLy8gCWRldGFpbHMgPSBjb25zdGFudHMuQ29tbWFuZFN0YXR1c01lc3NhZ2VzLkRldmljZVJlY29ubmVjdFdpdGhpbkdyYWNlUGVyaW9kQ29kZUluZm9NZXNzYWdlOwoJCS8vIAlyZXR1cm4geyBpZCwgZGV0YWlscyB9OwoJCS8vIH0K</text>
+        <text encoding="base64">YGBgamF2YXNjcmlwdAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlsb2cuZGVidWcoYGhhc0dyYWNlUGVyaW9kRXhwaXJlZCBkaWZmSW5TZWMgJHtkaWZmSW5TZWNzfWApOwo=</text>
+        <text encoding="base64">YGBgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCXRoaXMuX2dyYWNlUGVyaW9kQ2FjaGUucmVtb3ZlRnJvbUNhY2hlKGdyYWNlUGVyaW9kRGV2aWNlSWQpOwo=</text>
+        <text encoding="base64">YGBgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCXRoaXMuX2dyYWNlUGVyaW9kQ2FjaGUucmVtb3ZlRnJvbUNhY2hlKGdyYWNlUGVyaW9kRGV2aWNlSWQpOwo=</text>
+        <text encoding="base64">CWRlYnVnLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQljb25zdCBkaWZmSW5NaW4gPSBtb21lbnQudXRjKCkuZGlmZihkZXZpY2VPYmouZ3JhY2VQZXJpb2RTdGFydFRpbWUsICdtaW51dGVzJyk7Cg==</text>
+        <text encoding="base64">CS8vIFByZWZpeCB0aGF0IHdpbGwgYmUgaW5jbHVkZWQgYXMgcGFydCBvZiB0aGUgcmFuZG9ubHkgZ2VuZXJhdGVkIGRldmljZSBjb2Rlcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlsb2cuZGVidWcoYGRpZmZJbk1pbiA9YCkK</text>
+        <text encoding="base64">YGBgCg==</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
@@ -1365,7 +1410,7 @@
         <entry encoding="base64">XDxkZXZpY2VcPg==</entry>
         <entry encoding="base64">XDxtYWNcPg==</entry>
         <entry encoding="base64">XDxmcm9tXD4=</entry>
-        <entry encoding="base64">XDxwZWVyXD4=</entry>
+        <entry encoding="base64">XDxDaGFubmVsQ29ubmVjdGlvbkVycm9yXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>x</entry>
