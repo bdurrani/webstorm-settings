@@ -258,11 +258,11 @@
         <mark key="." line="16" column="32" />
         <mark key="^" line="16" column="32" />
       </file>
-      <file name="D:/deletethis/codility/index.js" timestamp="1527979257144">
-        <mark key="[" line="22" column="18" />
-        <mark key="]" line="22" column="18" />
-        <mark key="^" line="22" column="26" />
-        <mark key="." line="22" column="18" />
+      <file name="D:/deletethis/codility/index.js" timestamp="1527982655433">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="35" column="37" />
+        <mark key="^" line="35" column="37" />
+        <mark key="." line="35" column="37" />
       </file>
       <file name="$USER_HOME$/Dropbox/Misc/projects/websocket/ecosystem.config.js" timestamp="1519611276986">
         <mark key="[" line="13" column="39" />
@@ -1184,7 +1184,7 @@
         <mark key="." line="3" column="61" />
         <mark key="^" line="3" column="61" />
       </file>
-      <file name="/JavaScript Console" timestamp="1527978279559">
+      <file name="/JavaScript Console" timestamp="1527982658288">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="^" line="0" column="7" />
@@ -1384,10 +1384,10 @@
         <text>{ leaseTimeInHours:</text>
       </register>
       <register name="&quot;" type="4">
-        <text>mberdigit</text>
+        <text>return</text>
       </register>
       <register name="-" type="4">
-        <text>mberdigit</text>
+        <text>return</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZWVyXD4=</text>
@@ -1396,34 +1396,34 @@
         <text encoding="base64">CWRhdGFQb2xpY3lVcmw6ICdmdWxseSBxdWFsaWZpZWQgdXJsIHRvIGRhdGEgcG9saWN5IHVybCcsCglhcGlLZXk6ICdFbnRlciB5b3VyIEFQSSBrZXknLAoJY29kZUdlbmVyYXRpb246IHsKCQlwcmVmaXg6ICdYWCcsCgl9LAoJc2VydmVyVmVyc2lvbjogcmVxdWlyZSgnLi4vcGFja2FnZS5qc29uJykudmVyc2lvbiwKCWFsbG93Q3VzdG9tSWQ6IGZhbHNlLAoJbG9nTGV2ZWw6ICdlcnJvcicsCg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">dmFyIHNvcnRlZCA9IEEuc29ydCgpOwp2YXIgbGFzdCA9IHNvcnRlZFtzb3J0ZWQubGVuZ3RoIC0gMV07CmZvcih2YXIgaT0gMTsgaTwgbGFzdDsgaSsrKXsKCXZhciByZXMgPSBzb3J0ZWQuZmluZEluZGV4KCBpdGVtID0+ewoJCXJldHVybiBpdGVtID09IGk7Cgl9KTsKCWlmKHJlcyA9PSAtMSkKCXsKCQljb25zb2xlLmxvZyhpKTsKCQlicmVhazsKCX0KfQ==</text>
+        <text encoding="base64">CmZ1bmN0aW9uIHRvZGVjKGEsIGIpewoJdmFyIHJlc3VsdCA9IGE7CglyZXN1bHQgKz0gYiAqIDEwOwoJcmV0dXJuIHJlc3VsdDsKfQ==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">dmFyIHNvcnRlZCA9IEEuc29ydCgpOwp2YXIgbGFzdCA9IHNvcnRlZFtzb3J0ZWQubGVuZ3RoIC0gMV07CmZvcih2YXIgaT0gMTsgaTwgbGFzdDsgaSsrKXsKCXZhciByZXMgPSBzb3J0ZWQuZmluZEluZGV4KCBpdGVtID0+ewoJCXJldHVybiBpdGVtID09IGk7Cgl9KTsKCWlmKHJlcyA9PSAtMSkKCXsKCQljb25zb2xlLmxvZyhpKTsKCQlicmVhazsKCX0KfQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CmBgYAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CS8vIAo=</text>
+        <text encoding="base64">CmBgYAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YGBgamF2YXNjcmlwdAo=</text>
+        <text encoding="base64">CS8vIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YGBgCg==</text>
+        <text encoding="base64">YGBgamF2YXNjcmlwdAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">YGBgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWRlYnVnLAo=</text>
+        <text encoding="base64">YGBgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CS8vIFByZWZpeCB0aGF0IHdpbGwgYmUgaW5jbHVkZWQgYXMgcGFydCBvZiB0aGUgcmFuZG9ubHkgZ2VuZXJhdGVkIGRldmljZSBjb2Rlcwo=</text>
+        <text encoding="base64">CWRlYnVnLAo=</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
