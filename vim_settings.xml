@@ -258,11 +258,11 @@
         <mark key="." line="16" column="32" />
         <mark key="^" line="16" column="32" />
       </file>
-      <file name="D:/deletethis/codility/index.js" timestamp="1527982655433">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="35" column="37" />
-        <mark key="^" line="35" column="37" />
-        <mark key="." line="35" column="37" />
+      <file name="D:/deletethis/codility/index.js" timestamp="1528479363947">
+        <mark key="[" line="21" column="29" />
+        <mark key="]" line="21" column="36" />
+        <mark key="^" line="20" column="4" />
+        <mark key="." line="20" column="12" />
       </file>
       <file name="$USER_HOME$/Dropbox/Misc/projects/websocket/ecosystem.config.js" timestamp="1519611276986">
         <mark key="[" line="13" column="39" />
@@ -1383,8 +1383,8 @@
       <register name="a" type="4">
         <text>{ leaseTimeInHours:</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>return</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQljb25zb2xlLmxvZyhpICsgIiBpcyBpbiBiIik7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>return</text>
@@ -1393,7 +1393,7 @@
         <text encoding="base64">XDxwZWVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CWRhdGFQb2xpY3lVcmw6ICdmdWxseSBxdWFsaWZpZWQgdXJsIHRvIGRhdGEgcG9saWN5IHVybCcsCglhcGlLZXk6ICdFbnRlciB5b3VyIEFQSSBrZXknLAoJY29kZUdlbmVyYXRpb246IHsKCQlwcmVmaXg6ICdYWCcsCgl9LAoJc2VydmVyVmVyc2lvbjogcmVxdWlyZSgnLi4vcGFja2FnZS5qc29uJykudmVyc2lvbiwKCWFsbG93Q3VzdG9tSWQ6IGZhbHNlLAoJbG9nTGV2ZWw6ICdlcnJvcicsCg==</text>
+        <text encoding="base64">CQljb25zb2xlLmxvZyhpICsgIiBpcyBpbiBiIik7Cg==</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">CmZ1bmN0aW9uIHRvZGVjKGEsIGIpewoJdmFyIHJlc3VsdCA9IGE7CglyZXN1bHQgKz0gYiAqIDEwOwoJcmV0dXJuIHJlc3VsdDsKfQ==</text>
